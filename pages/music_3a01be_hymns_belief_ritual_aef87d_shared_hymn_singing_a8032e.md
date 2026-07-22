@@ -331,89 +331,89 @@ The enduring strength of congregational hymn singing lies in its ability to unit
 For many worshippers, this is why a familiar hymn sung by a congregation can feel different from hearing the same music alone. The faith expressed in the words becomes audible in the voices of others, transforming belief from a private conviction into a lived communal experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.bham.ac.uk/5257/1/Roberts14PhD_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.bham.ac.uk">[Birmingham ETheses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.bham.ac.uk</span><span class="citation-popover-snippet">Birmingham EThesesHymnody and identity: congregational singing as a...November 19, 2014 — by MA ROBERTS · 2014 · Cited by 14 — Through t...</span><span class="citation-popover-meta">Published: November 19, 2014</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Singing Hymns Together Feels So Powerful. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Singing Hymns Together Feels So Powerful. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Study of liturgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10700319-M.jpg" alt="Cover for The Study of liturgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Study of liturgy">The Study of liturgy</a>
-</h4>
-<p class="fr-book-author">By Cheslyn Jones, Geoffrey Wainwright et al.</p>
-        
-<p class="fr-book-desc">First published 1978. Subjects: Liturgics, Addresses, essays, lectures, Vroege kerk, Eucharistie, Liturgiek.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
+        </h4>
+        <p class="fr-book-author">By William Petersen</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sing with understanding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/583384-M.jpg" alt="Cover for Sing with understanding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sing with understanding">Sing with understanding</a>
-</h4>
-<p class="fr-book-author">By Harry Eskew, Hugh T. McElrath et al.</p>
-        
-<p class="fr-book-desc">First published 1995. Subjects: Hymns, History and criticism, Music, General, Hymns, history and criticism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how shared hymn traditions build collective identity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
-</h4>
-<p class="fr-book-author">By William Petersen</p>
-        
-<p class="fr-book-desc">First published 2006. Subjects: Hymns, history and criticism, English Hymns, History and criticism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sing with understanding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/583384-M.jpg" alt="Cover for Sing with understanding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sing with understanding">Sing with understanding</a>
+        </h4>
+        <p class="fr-book-author">By Harry Eskew, Hugh T. McElrath et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together">Together</a>
-</h4>
-<p class="fr-book-author">By Vivek H. Murthy, Francesca Barrie</p>
-        
-<p class="fr-book-desc">First published 2020. Subjects: Loneliness, Mental health, Communities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses congregational singing and communal worship.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Study+of+liturgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Study of liturgy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sing+with+understanding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sing with understanding</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Book of Hymns</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Study of liturgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10700319-M.jpg" alt="Cover for The Study of liturgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Study of liturgy">The Study of liturgy</a>
+        </h4>
+        <p class="fr-book-author">By Cheslyn Jones, Geoffrey Wainwright et al.</p>
+
+        <p class="fr-book-desc">Examines collective worship practices including congregational singing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together">Together</a>
+        </h4>
+        <p class="fr-book-author">By Vivek H. Murthy, Francesca Barrie</p>
+
+        <p class="fr-book-desc">First published 2020. Subjects: Loneliness, Mental health, Communities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Book of Hymns</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sing+with+understanding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sing with understanding</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Study+of+liturgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Study of liturgy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

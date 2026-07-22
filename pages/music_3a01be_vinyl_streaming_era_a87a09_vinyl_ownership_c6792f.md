@@ -372,89 +372,89 @@ Vinyl feels more ownable than streaming because it transforms music into a tangi
 That possession operates on several levels simultaneously. It provides practical control over access, physical interaction with the music, visible evidence of personal taste, a repository for memories and a sense of permanence that exists outside platform ecosystems. Research on contemporary vinyl culture consistently points to these mechanisms—materiality, collecting, identity formation, memory preservation and autonomy—as key reasons listeners continue buying records in an age when almost every song can be streamed instantly. OUP Academic 3Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://figshare.utas.edu.au/articles/thesis/Music_collecting_in_the_streaming_era_materiality_practices_and_discovery/23249276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: figshare.utas.edu.au">[figshare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">figshare.utas.edu.au</span><span class="citation-popover-title">Music collecting in the streaming era materiality practices and discovery</span><span class="citation-popover-snippet">collecting in the streaming era: materiality, practices...by JM Ellis · 2021 — This thesis provides a timely re-examination of establis...</span></span></span> For many listeners, therefore, buying vinyl is not primarily about obtaining music. It is about establishing a different relationship with music—one that feels less temporary, less platform-dependent and more genuinely their own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sae.edu/gbr/insights/the-return-of-vinyl-analysing-the-resurgence-of-physical-music-formats/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sae.edu">[SAE Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sae.edu</span><span class="citation-popover-title">the return of vinyl analysing the resurgence of physical music formats</span><span class="citation-popover-snippet">SAE InstituteReturn of Vinyl and Physical Music &#124; Insights25 Oct 2023 — We will explore the vinyl revival, vinyl consumption, why old for...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Vinyl Still Feels Like Owning Music. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Vinyl Still Feels Like Owning Music. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do Not Sell At Any Price on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863409-M.jpg" alt="Cover for Do Not Sell At Any Price" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do Not Sell At Any Price">Do Not Sell At Any Price</a>
-</h4>
-<p class="fr-book-author">By Amanda Petrusich</p>
-        
-<p class="fr-book-desc">Examines why physical recordings inspire deep emotional attachment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do Not Sell At Any Price on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863409-M.jpg" alt="Cover for Do Not Sell At Any Price" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do Not Sell At Any Price">Do Not Sell At Any Price</a>
+        </h4>
+        <p class="fr-book-author">By Amanda Petrusich</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why vinyl matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13185208-M.jpg" alt="Cover for Why vinyl matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why vinyl matters">Why vinyl matters</a>
-</h4>
-<p class="fr-book-author">By Jennifer Otter Bickerdike</p>
-        
-<p class="fr-book-desc">First published 2017. Subjects: Sound recordings, Album covers, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines why physical recordings inspire deep emotional attachment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
-</h4>
-<p class="fr-book-author">By Eilon Paz</p>
-        
-<p class="fr-book-desc">First published 2015. Subjects: Interviews, Sound recordings, Collectors and collecting, Pictorial works, Anecdotes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl+Junkies+Brett+Milano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl Junkies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179037-M.jpg" alt="Cover for Vinyl Junkies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Vinyl+Junkies+Brett+Milano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl Junkies">Vinyl Junkies</a>
+        </h4>
+        <p class="fr-book-author">By Brett Milano</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Record Store Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Record Store Day">Record Store Day</a>
-</h4>
-<p class="fr-book-author">By Larry Jaffee</p>
-        
-<p class="fr-book-desc">First published 2022. Subjects: Music, Collectors and collecting.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Looks at the motivations and identities of dedicated record collectors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Vinyl+Junkies+Brett+Milano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do Not Sell At Any Price</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+vinyl+matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why vinyl matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dust+%26+grooves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dust &amp; grooves</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why vinyl matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13185208-M.jpg" alt="Cover for Why vinyl matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why vinyl matters">Why vinyl matters</a>
+        </h4>
+        <p class="fr-book-author">By Jennifer Otter Bickerdike</p>
+
+        <p class="fr-book-desc">Directly addresses attachment, identity, and the value of physical records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
+        </h4>
+        <p class="fr-book-author">By Eilon Paz</p>
+
+        <p class="fr-book-desc">Explores how collections become extensions of personal identity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do Not Sell At Any Price</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl+Junkies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl Junkies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+vinyl+matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why vinyl matters</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

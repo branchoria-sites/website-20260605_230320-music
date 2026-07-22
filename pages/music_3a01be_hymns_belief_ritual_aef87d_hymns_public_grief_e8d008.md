@@ -333,89 +333,89 @@ Hymns become public symbols during grief and crisis because they do something th
 When ordinary language struggles to express the weight of tragedy, hymns offer continuity, participation and meaning. Whether sung in a church, at a memorial service, during a national commemoration or in the aftermath of disaster, they give communities a way to transform private sorrow into a shared public experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://verbumetecclesia.org.za/index.php/ve/article/view/1628/3178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verbumetecclesia.org.za">[Verbum et Ecclesia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verbumetecclesia.org.za</span><span class="citation-popover-snippet">Verbum et EcclesiaHealing liturgy: The role of music and singing &#124; Calitzby CJ Calitz · 2017 · Cited by 30 — Within communities struck by...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342890372_Music_as_Consolation-The_Importance_of_Music_at_Farewells_and_Mourning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">342890372 Music as Consolation The Importance of Music at Farewells and Mourning</span><span class="citation-popover-snippet">PDF) Music as Consolation—The Importance of Music at...17 Aug 2020 — Our results indicate that the role of music in farewell rituals is...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Hymns Appear at Public Moments of Grief. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Hymns Appear at Public Moments of Grief. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Mortal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jfFYBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Mortal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
-</h4>
-<p class="fr-book-author">By Atul Gawande</p>
-        
-<p class="fr-book-desc">Addresses how communities and individuals confront mortality and loss.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary Of Hymnology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437473-M.jpg" alt="Cover for A Dictionary Of Hymnology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary Of Hymnology">A Dictionary Of Hymnology</a>
+        </h4>
+        <p class="fr-book-author">By John Julian</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary Of Hymnology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437473-M.jpg" alt="Cover for A Dictionary Of Hymnology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary Of Hymnology">A Dictionary Of Hymnology</a>
-</h4>
-<p class="fr-book-author">By John Julian</p>
-        
-<p class="fr-book-desc">First published 1891. Subjects: Dictionaries, Hymns, Indexes, Psalters, Hymns, dictionaries, indexes, etc..</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical background for major hymns used in mourning rituals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
-</h4>
-<p class="fr-book-author">By Robert J. Morgan</p>
-        
-<p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
+        </h4>
+        <p class="fr-book-author">By William Petersen</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
-</h4>
-<p class="fr-book-author">By William Petersen</p>
-        
-<p class="fr-book-desc">First published 2006. Subjects: Hymns, history and criticism, English Hymns, History and criticism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Many famous public-mourning hymns are covered in historical context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Mortal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Mortal</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary Of Hymnology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Then Sings My Soul, Book 2</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Study of liturgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10700319-M.jpg" alt="Cover for The Study of liturgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Study of liturgy">The Study of liturgy</a>
+        </h4>
+        <p class="fr-book-author">By Cheslyn Jones, Geoffrey Wainwright et al.</p>
+
+        <p class="fr-book-desc">Explores ritual responses to death, remembrance, and communal worship.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Study+of+liturgy+Cheslyn+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
+        </h4>
+        <p class="fr-book-author">By Robert J. Morgan</p>
+
+        <p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary Of Hymnology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Book of Hymns</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Study+of+liturgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Study of liturgy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

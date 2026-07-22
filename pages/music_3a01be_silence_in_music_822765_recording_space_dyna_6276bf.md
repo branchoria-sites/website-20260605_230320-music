@@ -306,89 +306,89 @@ Creating space isn’t just a technical balancing act — it also influences the
 This interplay between absence and presence shapes the emotional narrative of a mix. Producers who lean into silence and controlled space craft mixes that feel dynamic, alive and easier to listen to — the opposite of crowded, continuous loudness that leaves no room for impact or nuance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.samplefocus.com/blog/using-space-and-silence-in-music-production/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.samplefocus.com">[Sample Focus Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.samplefocus.com</span><span class="citation-popover-title">Sample Focus Blog Using Space and Silence in Music Production</span><span class="citation-popover-snippet">Sample Focus BlogUsing Space and Silence in Music ProductionJanuary 7, 2026...</span><span class="citation-popover-meta">Published: January 7, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Silence Shapes the Impact of Recorded Music. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Silence Shapes the Impact of Recorded Music. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mixing secrets for the small studio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9839081-M.jpg" alt="Cover for Mixing secrets for the small studio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mixing secrets for the small studio">Mixing secrets for the small studio</a>
-</h4>
-<p class="fr-book-author">By Mike Senior</p>
-        
-<p class="fr-book-desc">First published 2011. Subjects: Sound, Recording and reproducing, Sound studios, High-fidelity sound systems, Sound, recording and reprod...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mixing secrets for the small studio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9839081-M.jpg" alt="Cover for Mixing secrets for the small studio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mixing secrets for the small studio">Mixing secrets for the small studio</a>
+        </h4>
+        <p class="fr-book-author">By Mike Senior</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Behind the Glass on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/674772-M.jpg" alt="Cover for Behind the Glass" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Behind the Glass">Behind the Glass</a>
-</h4>
-<p class="fr-book-author">By Howard Massey</p>
-        
-<p class="fr-book-desc">First published 2000. Subjects: History and criticism, Interviews, Sound recording executives and producers, Popular music, Sound recordi...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains space, clarity, dynamics, and arrangement decisions in recorded music.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio+Mike+Senior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mixing Engineer&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2004232-M.jpg" alt="Cover for The Mixing Engineer&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mixing Engineer&#x27;s Handbook">The Mixing Engineer&#x27;s Handbook</a>
-</h4>
-<p class="fr-book-author">By Bobby Owsinski</p>
-        
-<p class="fr-book-desc">First published 1999. Subjects: Sound, Production and direction, Recording and reproducing, Handbooks, manuals, Sound recordings.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mixing Engineer&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2004232-M.jpg" alt="Cover for The Mixing Engineer&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mixing Engineer&#x27;s Handbook">The Mixing Engineer&#x27;s Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Bobby Owsinski</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mastering Audio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/146039-M.jpg" alt="Cover for Mastering Audio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mastering Audio">Mastering Audio</a>
-</h4>
-<p class="fr-book-author">By Bob Katz</p>
-        
-<p class="fr-book-desc">First published 2002. Subjects: Sound, Mastering (Sound recordings), Recording and reproducing, Digital techniques.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers dynamic contrast, sonic space, and professional mix techniques.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+Handbook+Bobby+Owsinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mixing secrets for the small studio</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Behind+the+Glass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Behind the Glass</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mixing Engineer&#x27;s books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mastering Audio on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11997967-M.jpg" alt="Cover for Mastering Audio" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mastering Audio">Mastering Audio</a>
+        </h4>
+        <p class="fr-book-author">By Bob Katz, Robert A. Katz</p>
+
+        <p class="fr-book-desc">Addresses loudness, dynamic range, and perceived impact in recorded music.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mastering+Audio+Bob+Katz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Behind the Glass on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/674772-M.jpg" alt="Cover for Behind the Glass" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Behind the Glass">Behind the Glass</a>
+        </h4>
+        <p class="fr-book-author">By Howard Massey</p>
+
+        <p class="fr-book-desc">Offers real-world perspectives on creating space and emotional impact in recordings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Behind+the+Glass+Howard+Massey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mixing+secrets+for+the+small+studio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mixing secrets for the small studio</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mixing+Engineer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mixing Engineer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mastering+Audio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mastering Audio</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -304,89 +304,89 @@ Olfactory and microclimate factors may be less obvious, but subtle manipulation 
 In summary, the design of dance music venues that promotes embodied interaction is a multi‑dimensional practice. It weaves spatial prioritisation, lighting systems, circulation design and sensory dynamics into a coherent environment where bodies can move freely, synchronise rhythmically and engage socially. Rather than treating dance floors as incidental spaces in a broader nightlife programme, intentional design places collective movement and interaction at the core, shaping how people relate to each other through rhythm, sightlines and atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ntia.co.uk/nightlife-article-100-the-social-experiment-of-club-layouts-how-design-manipulates-crowd-flow-and-interactions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntia.co.uk">[ntia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntia.co.uk</span><span class="citation-popover-snippet">NTIA Night-Time IndustryNightlife Article #100: The Social Experiment of Club LayoutsDecember 8, 2025 — Dimly lit corners with clusters o...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Club Architecture and Lighting Shape Dance Interaction. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Club Architecture and Lighting Shape Dance Interaction. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Love+Saves+the+Day+Tim+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Love Saves the Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1558944-M.jpg" alt="Cover for Love Saves the Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Love+Saves+the+Day+Tim+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Love Saves the Day">Love Saves the Day</a>
-</h4>
-<p class="fr-book-author">By Tim Lawrence</p>
-        
-<p class="fr-book-desc">First published 2003. Subjects: Popular music, history and criticism, Popular culture, new york (state), new york.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Love+Saves+the+Day+Tim+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Club cultures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3821390-M.jpg" alt="Cover for Club cultures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Club cultures">Club cultures</a>
+        </h4>
+        <p class="fr-book-author">By Sarah Thornton</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Club cultures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3821390-M.jpg" alt="Cover for Club cultures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Club cultures">Club cultures</a>
-</h4>
-<p class="fr-book-author">By Sarah Thornton</p>
-        
-<p class="fr-book-desc">First published 1995. Subjects: Bars (Drinking establishments), Discotheques, Music and youth, Popular culture, Social aspects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines the relationship between venues, status, and interaction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Club+cultures+Sarah+Thornton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Raving+McKenzie+Wark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13752016-M.jpg" alt="Cover for Raving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Raving+McKenzie+Wark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raving">Raving</a>
-</h4>
-<p class="fr-book-author">By McKenzie Wark</p>
-        
-<p class="fr-book-desc">First published 2023.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Raving+McKenzie+Wark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Love+Saves+the+Day+Tim+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Love Saves the Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1558944-M.jpg" alt="Cover for Love Saves the Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Love+Saves+the+Day+Tim+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Love Saves the Day">Love Saves the Day</a>
+        </h4>
+        <p class="fr-book-author">By Tim Lawrence</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Experience Economy, With a New Preface by the Authors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10679746-M.jpg" alt="Cover for The Experience Economy, With a New Preface by the Authors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Experience Economy, With a New Preface by the Authors">The Experience Economy, With a New Preface by the Authors</a>
-</h4>
-<p class="fr-book-author">By B. Joseph Pine II, James H. Gilmore</p>
-        
-<p class="fr-book-desc">First published 2019. Subjects: Production management, Marketing, Diversification in industry, Customer services.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how venue design and atmosphere affect social interaction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Love+Saves+the+Day+Tim+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Love+Saves+the+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Love Saves the Day</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Club+cultures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Club cultures</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Raving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Raving</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Raving+McKenzie+Wark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13752016-M.jpg" alt="Cover for Raving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Raving+McKenzie+Wark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raving">Raving</a>
+        </h4>
+        <p class="fr-book-author">By McKenzie Wark</p>
+
+        <p class="fr-book-desc">Discusses the lived experience of club environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Raving+McKenzie+Wark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Experience Economy, With a New Preface by the Authors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10679746-M.jpg" alt="Cover for The Experience Economy, With a New Preface by the Authors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Experience Economy, With a New Preface by the Authors">The Experience Economy, With a New Preface by the Authors</a>
+        </h4>
+        <p class="fr-book-author">By B. Joseph Pine II, James H. Gilmore</p>
+
+        <p class="fr-book-desc">First published 2019. Subjects: Production management, Marketing, Diversification in industry, Customer services.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Experience+Economy%2C+With+a+New+Preface+by+the+Authors+B.+Joseph+Pine+II&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Club+cultures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Club cultures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Love+Saves+the+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Love Saves the Day</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Raving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Raving</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

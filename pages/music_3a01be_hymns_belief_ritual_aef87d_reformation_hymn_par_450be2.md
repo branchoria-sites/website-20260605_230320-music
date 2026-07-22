@@ -332,89 +332,89 @@ The Protestant Reformation altered hymn participation because it redefined who w
 <img src="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2-Illustration-3-dark.svg" | relative_url }}" alt="Reformation illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Hymns Put Worship Into Every Voice. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Hymns Put Worship Into Every Voice. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Here+I+Stand+-+A+Life+Of+Martin+Luther+Roland+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Here I Stand - A Life Of Martin Luther on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14759632-M.jpg" alt="Cover for Here I Stand - A Life Of Martin Luther" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Here+I+Stand+-+A+Life+Of+Martin+Luther+Roland+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Here I Stand - A Life Of Martin Luther">Here I Stand - A Life Of Martin Luther</a>
-</h4>
-<p class="fr-book-author">By Roland Bainton</p>
-        
-<p class="fr-book-desc">First published 2007.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Here+I+Stand+-+A+Life+Of+Martin+Luther+Roland+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reformation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/400426-M.jpg" alt="Cover for The Reformation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reformation">The Reformation</a>
+        </h4>
+        <p class="fr-book-author">By Diarmaid MacCulloch</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reformation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/400426-M.jpg" alt="Cover for The Reformation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reformation">The Reformation</a>
-</h4>
-<p class="fr-book-author">By Diarmaid MacCulloch</p>
-        
-<p class="fr-book-desc">First published 2003. Subjects: Reformation, Geschichte 1490-1648, Réforme (Christianisme), Gegenreformation, Geschichte.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places hymn participation within broader religious change.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Martin+Luther+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Martin Luther on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7909205-M.jpg" alt="Cover for Martin Luther" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Martin+Luther+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Martin Luther">Martin Luther</a>
-</h4>
-<p class="fr-book-author">By Lyndal Roper</p>
-        
-<p class="fr-book-desc">First published 2012. Subjects: Biography, Reformation, Lutheran Church, Clergy, Luther, martin, 1483-1546.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Martin+Luther+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sing with understanding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/583384-M.jpg" alt="Cover for Sing with understanding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sing with understanding">Sing with understanding</a>
+        </h4>
+        <p class="fr-book-author">By Harry Eskew, Hugh T. McElrath et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Story+of+Christianity+%3A+Volume+2+Justo+L.+Gonza%CC%81lez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Story of Christianity : Volume 2 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Story+of+Christianity+%3A+Volume+2+Justo+L.+Gonza%CC%81lez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Story of Christianity : Volume 2">Story of Christianity : Volume 2</a>
-</h4>
-<p class="fr-book-author">By Justo L. Gonzalez</p>
-        
-<p class="fr-book-desc">First published 2014. Subjects: Church history, primitive and early church, ca. 30-600, Church history, middle ages, 600-1500.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Story+of+Christianity+%3A+Volume+2+Justo+L.+Gonza%CC%81lez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Traces congregational singing traditions inherited from the Reformation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Here+I+Stand+A+Life+Of+Martin+Luther&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Here I Stand A Life Of Martin Luther</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reformation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reformation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Martin+Luther&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Martin Luther</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Martin+Luther+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Martin Luther on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7909205-M.jpg" alt="Cover for Martin Luther" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Martin+Luther+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Martin Luther">Martin Luther</a>
+        </h4>
+        <p class="fr-book-author">By Lyndal Roper</p>
+
+        <p class="fr-book-desc">Covers Luther&#x27;s influence on worship and song.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Martin+Luther+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Here+I+Stand+-+A+Life+Of+Martin+Luther+Roland+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Here I Stand - A Life Of Martin Luther on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14759632-M.jpg" alt="Cover for Here I Stand - A Life Of Martin Luther" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Here+I+Stand+-+A+Life+Of+Martin+Luther+Roland+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Here I Stand - A Life Of Martin Luther">Here I Stand - A Life Of Martin Luther</a>
+        </h4>
+        <p class="fr-book-author">By Roland Bainton</p>
+
+        <p class="fr-book-desc">First published 2007.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Here+I+Stand+-+A+Life+Of+Martin+Luther+Roland+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reformation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reformation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sing+with+understanding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sing with understanding</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Martin+Luther&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Martin Luther</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

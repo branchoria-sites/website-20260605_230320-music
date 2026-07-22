@@ -345,89 +345,89 @@ In that sense, US Latino communities did more than provide a market for Latin mu
 <img src="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-dark.svg" | relative_url }}" alt="Diaspora illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Diaspora Listening Powered Latin Streaming. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Diaspora Listening Powered Latin Streaming. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Latin+beat+%3A+the+rhythms+and+roots+of+Latin+music+from+bossa+nova+to+salsa+and+beyond+Morales%2C+Ed%2C+1956-&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Latin beat : the rhythms and roots of Latin music from bossa nova to salsa and beyond on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8360087-M.jpg" alt="Cover for The Latin beat : the rhythms and roots of Latin music from bossa nova to salsa and beyond" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Latin+beat+%3A+the+rhythms+and+roots+of+Latin+music+from+bossa+nova+to+salsa+and+beyond+Morales%2C+Ed%2C+1956-&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Latin beat : the rhythms and roots of Latin music from bossa nova to salsa and beyond">The Latin beat : the rhythms and roots of Latin music from bo...</a>
-</h4>
-<p class="fr-book-author">By Morales, Ed, 1956-</p>
-        
-<p class="fr-book-desc">Subjects: Popular music.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Latin+beat+%3A+the+rhythms+and+roots+of+Latin+music+from+bossa+nova+to+salsa+and+beyond+Morales%2C+Ed%2C+1956-&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Latin Beat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/165057-M.jpg" alt="Cover for The Latin Beat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Latin Beat">The Latin Beat</a>
+        </h4>
+        <p class="fr-book-author">By Ed Morales</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
-</h4>
-<p class="fr-book-author">By Leila Cobo</p>
-        
-<p class="fr-book-desc">First published 2020. Subjects: Latin pop (Music), History and criticism, Popular music, Musicians, Interviews.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain cultural continuity across Latin communities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Latin+Beat+Ed+Morales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open P Fkn R on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15224643-M.jpg" alt="Cover for P Fkn R" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="P Fkn R">P Fkn R</a>
-</h4>
-<p class="fr-book-author">By Vanessa Diaz, Petra R. Rivera-Rideau</p>
-        
-<p class="fr-book-desc">First published 2026. Subjects: Music, Popular Culture, Caribbean studies, Puerto rico, Biography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decoding Despacito on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13268133-M.jpg" alt="Cover for Decoding Despacito" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decoding Despacito">Decoding Despacito</a>
+        </h4>
+        <p class="fr-book-author">By Leila Cobo</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Sounding+Latin+Music%2C+Hearing+the+Americas+Jairo+Moreno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sounding Latin Music, Hearing the Americas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sounding+Latin+Music%2C+Hearing+the+Americas+Jairo+Moreno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sounding Latin Music, Hearing the Americas">Sounding Latin Music, Hearing the Americas</a>
-</h4>
-<p class="fr-book-author">By Jairo Moreno</p>
-        
-<p class="fr-book-desc">First published 2023. Subjects: Music, history and criticism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sounding+Latin+Music%2C+Hearing+the+Americas+Jairo+Moreno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers Latin music&#x27;s rise across borders and communities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decoding+Despacito+Leila+Cobo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Latin+beat+%3A+the+rhythms+and+roots+of+Latin+music+from+bossa+nova+to+salsa+and+beyond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Latin beat : the rhythms and roots of Latin music from bossa nova to salsa and beyond</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+Despacito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding Despacito</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=P+Fkn+R&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">P Fkn R</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open P Fkn R on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15224643-M.jpg" alt="Cover for P Fkn R" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="P Fkn R">P Fkn R</a>
+        </h4>
+        <p class="fr-book-author">By Vanessa Diaz, Petra R. Rivera-Rideau</p>
+
+        <p class="fr-book-desc">Illustrates diaspora, identity and global streaming-era fandom.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=P+Fkn+R+Vanessa+Diaz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Sounding+Latin+Music%2C+Hearing+the+Americas+Jairo+Moreno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sounding Latin Music, Hearing the Americas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sounding+Latin+Music%2C+Hearing+the+Americas+Jairo+Moreno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sounding Latin Music, Hearing the Americas">Sounding Latin Music, Hearing the Americas</a>
+        </h4>
+        <p class="fr-book-author">By Jairo Moreno</p>
+
+        <p class="fr-book-desc">Directly addresses migration, Latinx identity and music across the Americas.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sounding+Latin+Music%2C+Hearing+the+Americas+Jairo+Moreno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Latin+Beat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Latin Beat</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decoding+Despacito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decoding Despacito</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=P+Fkn+R&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">P Fkn R</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
