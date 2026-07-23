@@ -375,16 +375,16 @@ That tension helps explain why Swift's vinyl campaigns have become such a promin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do Not Sell At Any Price on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863409-M.jpg" alt="Cover for Do Not Sell At Any Price" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl: The Art of Making Records on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl: The Art of Making Records" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do Not Sell At Any Price">Do Not Sell At Any Price</a>
+          <a href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl: The Art of Making Records">Vinyl: The Art of Making Records</a>
         </h4>
-        <p class="fr-book-author">By Amanda Petrusich</p>
+        <p class="fr-book-author">By Mike Evans</p>
 
-        <p class="fr-book-desc">Examines collecting obsession, scarcity, value, and the mindset that also drives modern vinyl-variant purchasing.</p>
+        <p class="fr-book-desc">Explains the culture, production, and enduring attraction of vinyl in the modern era.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -409,16 +409,16 @@ That tension helps explain why Swift's vinyl campaigns have become such a promin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+Grooves%3A+Adventures+in+Record+Collecting+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; Grooves: Adventures in Record Collecting on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
+          <a href="https://www.amazon.com/s?k=Dust+%26+Grooves%3A+Adventures+in+Record+Collecting+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; Grooves: Adventures in Record Collecting">Dust &amp; Grooves: Adventures in Record Collecting</a>
         </h4>
         <p class="fr-book-author">By Eilon Paz</p>
 
         <p class="fr-book-desc">Explores collector culture and the motivations behind building record collections.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Dust+%26+Grooves%3A+Adventures+in+Record+Collecting+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -426,7 +426,7 @@ That tension helps explain why Swift's vinyl campaigns have become such a promin
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=High+Fidelity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">High Fidelity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do Not Sell At Any Price</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vinyl Revival And The Shops That Made It Happen</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=High+Fidelity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">High Fidelity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl: The Art of Making Records</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vinyl+Revival+And+The+Shops+That+Made+It+Happen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vinyl Revival And The Shops That Made It Happen</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

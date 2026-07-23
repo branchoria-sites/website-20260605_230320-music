@@ -411,16 +411,16 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls: Scenes from Modern Music Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom">Popular Music Fandom</a>
+          <a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls: Scenes from Modern Music Culture">Fangirls: Scenes from Modern Music Culture</a>
         </h4>
-        <p class="fr-book-author">By Mark Duffett</p>
+        <p class="fr-book-author">By Hannah Ewens</p>
 
-        <p class="fr-book-desc">Explains credibility, identity and fan engagement.</p>
+        <p class="fr-book-desc">Shows how fans react to commercial decisions and artist branding.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -428,16 +428,16 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom: Identities, Roles and Practices on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls">Fangirls</a>
+          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom: Identities, Roles and Practices">Popular Music Fandom: Identities, Roles and Practices</a>
         </h4>
-        <p class="fr-book-author">By Hannah Ewens</p>
+        <p class="fr-book-author">By Mark Duffett</p>
 
-        <p class="fr-book-desc">First published 2019. Subjects: Popular music, history and criticism, Women, social conditions, Music, history and criticism, Music fans,...</p>
+        <p class="fr-book-desc">Explains credibility, identity and fan engagement.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fangirls+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -445,7 +445,7 @@ When fans believe a collaboration reflects the artist’s actual tastes, values 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Faking+It%3A+The+Quest+for+Authenticity+in+Popular+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Faking It: The Quest for Authenticity in Popular Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popular+Music+Fandom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popular Music Fandom</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Faking+It%3A+The+Quest+for+Authenticity+in+Popular+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Faking It: The Quest for Authenticity in Popular Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls: Scenes from Modern Music Culture</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

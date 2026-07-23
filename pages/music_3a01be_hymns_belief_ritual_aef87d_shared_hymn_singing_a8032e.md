@@ -393,16 +393,16 @@ For many worshippers, this is why a familiar hymn sung by a congregation can fee
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Together%3A+The+Healing+Power+of+Human+Connection+in+a+Sometimes+Lonely+World+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Together: The Healing Power of Human Connection in a Sometimes Lonely World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14020867-M.jpg" alt="Cover for Together: The Healing Power of Human Connection in a Sometimes Lonely World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together">Together</a>
+          <a href="https://www.amazon.com/s?k=Together%3A+The+Healing+Power+of+Human+Connection+in+a+Sometimes+Lonely+World+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Together: The Healing Power of Human Connection in a Sometimes Lonely World">Together: The Healing Power of Human Connection in a Sometime...</a>
         </h4>
         <p class="fr-book-author">By Vivek H. Murthy, Francesca Barrie</p>
 
-        <p class="fr-book-desc">First published 2020. Subjects: Loneliness, Mental health, Communities.</p>
+        <p class="fr-book-desc">Explores the psychological benefits of communal participation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Together+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Together%3A+The+Healing+Power+of+Human+Connection+in+a+Sometimes+Lonely+World+Vivek+H.+Murthy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

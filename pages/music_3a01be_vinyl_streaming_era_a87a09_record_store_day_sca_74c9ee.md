@@ -346,33 +346,16 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do Not Sell At Any Price on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863409-M.jpg" alt="Cover for Do Not Sell At Any Price" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Vinyl+Matters%3A+A+Manifesto+from+Musicians+and+Fans+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Vinyl Matters: A Manifesto from Musicians and Fans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13185208-M.jpg" alt="Cover for Why Vinyl Matters: A Manifesto from Musicians and Fans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do Not Sell At Any Price">Do Not Sell At Any Price</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Petrusich</p>
-
-        <p class="fr-book-desc">Examines the psychology of rarity and collecting, central themes in limited vinyl releases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price+Amanda+Petrusich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why vinyl matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13185208-M.jpg" alt="Cover for Why vinyl matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why vinyl matters">Why vinyl matters</a>
+          <a href="https://www.amazon.com/s?k=Why+Vinyl+Matters%3A+A+Manifesto+from+Musicians+and+Fans+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Vinyl Matters: A Manifesto from Musicians and Fans">Why Vinyl Matters: A Manifesto from Musicians and Fans</a>
         </h4>
         <p class="fr-book-author">By Jennifer Otter Bickerdike</p>
 
         <p class="fr-book-desc">Explores why physical records retain cultural value in the streaming era.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+vinyl+matters+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Why+Vinyl+Matters%3A+A+Manifesto+from+Musicians+and+Fans+Jennifer+Otter+Bickerdike&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -380,16 +363,33 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; grooves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl: The Art of Making Records on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl: The Art of Making Records" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; grooves">Dust &amp; grooves</a>
+          <a href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl: The Art of Making Records">Vinyl: The Art of Making Records</a>
+        </h4>
+        <p class="fr-book-author">By Mike Evans</p>
+
+        <p class="fr-book-desc">Provides context on vinyl history, production, and resurgence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dust+%26+Grooves%3A+Adventures+in+Record+Collecting+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dust &amp; Grooves: Adventures in Record Collecting on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dust+%26+Grooves%3A+Adventures+in+Record+Collecting+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dust &amp; Grooves: Adventures in Record Collecting">Dust &amp; Grooves: Adventures in Record Collecting</a>
         </h4>
         <p class="fr-book-author">By Eilon Paz</p>
 
         <p class="fr-book-desc">Captures the culture and motivations of record collectors.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dust+%26+grooves+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Dust+%26+Grooves%3A+Adventures+in+Record+Collecting+Eilon+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -397,16 +397,16 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Record Store Day on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Record+Store+Day%3A+The+Most+Improbable+Comeback+of+the+21st+Century+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Record Store Day: The Most Improbable Comeback of the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Record Store Day">Record Store Day</a>
+          <a href="https://www.amazon.com/s?k=Record+Store+Day%3A+The+Most+Improbable+Comeback+of+the+21st+Century+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Record Store Day: The Most Improbable Comeback of the 21st Century">Record Store Day: The Most Improbable Comeback of the 21st Ce...</a>
         </h4>
         <p class="fr-book-author">By Larry Jaffee</p>
 
         <p class="fr-book-desc">Explains how Record Store Day helped revive vinyl culture and independent record stores.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Record+Store+Day+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Record+Store+Day%3A+The+Most+Improbable+Comeback+of+the+21st+Century+Larry+Jaffee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +414,7 @@ In that sense, Record Store Day demonstrates one of the central paradoxes of the
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+Not+Sell+At+Any+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do Not Sell At Any Price</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+vinyl+matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why vinyl matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dust+%26+grooves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dust &amp; grooves</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Vinyl+Matters%3A+A+Manifesto+from+Musicians+and+Fans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Vinyl Matters: A Manifesto from Musicians and Fans</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl: The Art of Making Records</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dust+%26+Grooves%3A+Adventures+in+Record+Collecting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dust &amp; Grooves: Adventures in Record Collecting</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

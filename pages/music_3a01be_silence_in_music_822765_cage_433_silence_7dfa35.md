@@ -323,6 +323,23 @@ Rather than presenting nothing, *433* presents listening itself. More than seven
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silence%3A+Lectures+and+Writings+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silence: Lectures and Writings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452775-M.jpg" alt="Cover for Silence: Lectures and Writings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Silence%3A+Lectures+and+Writings+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silence: Lectures and Writings">Silence: Lectures and Writings</a>
+        </h4>
+        <p class="fr-book-author">By John Cage</p>
+
+        <p class="fr-book-desc">Written by Cage himself and central to understanding the ideas behind silence, listening, and experimental music.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Silence%3A+Lectures+and+Writings+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ocean+of+Sound+David+Toop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ocean of Sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/900428-M.jpg" alt="Cover for Ocean of Sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -340,16 +357,16 @@ Rather than presenting nothing, *433* presents listening itself. More than seven
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Experimental+music+Michael+Nyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Experimental music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/352148-M.jpg" alt="Cover for Experimental music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Experimental+Music%3A+Cage+and+Beyond+Michael+Nyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Experimental Music: Cage and Beyond on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/352148-M.jpg" alt="Cover for Experimental Music: Cage and Beyond" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Experimental+music+Michael+Nyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Experimental music">Experimental music</a>
+          <a href="https://www.amazon.com/s?k=Experimental+Music%3A+Cage+and+Beyond+Michael+Nyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Experimental Music: Cage and Beyond">Experimental Music: Cage and Beyond</a>
         </h4>
         <p class="fr-book-author">By Michael Nyman, Michael Nyman</p>
 
         <p class="fr-book-desc">Places 4′33″ within the wider development of experimental music.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Experimental+music+Michael+Nyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Experimental+Music%3A+Cage+and+Beyond+Michael+Nyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -357,33 +374,16 @@ Rather than presenting nothing, *433* presents listening itself. More than seven
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Where+the+heart+beats+Kay+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Where the heart beats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9022363-M.jpg" alt="Cover for Where the heart beats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Where+the+Heart+Beats%3A+John+Cage%2C+Zen+Buddhism%2C+and+the+Inner+Life+of+Artists+Kay+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Where the Heart Beats: John Cage, Zen Buddhism, and the Inner Life of Artists on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9022363-M.jpg" alt="Cover for Where the Heart Beats: John Cage, Zen Buddhism, and the Inner Life of Artists" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Where+the+heart+beats+Kay+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Where the heart beats">Where the heart beats</a>
+          <a href="https://www.amazon.com/s?k=Where+the+Heart+Beats%3A+John+Cage%2C+Zen+Buddhism%2C+and+the+Inner+Life+of+Artists+Kay+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Where the Heart Beats: John Cage, Zen Buddhism, and the Inner Life of Artists">Where the Heart Beats: John Cage, Zen Buddhism, and the Inner...</a>
         </h4>
         <p class="fr-book-author">By Kay Larson</p>
 
         <p class="fr-book-desc">Explains the philosophical influences that shaped Cage&#x27;s approach to silence and sound.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Where+the+heart+beats+Kay+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Silence%3A+Lectures+and+Writings+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silence: Lectures and Writings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Silence%3A+Lectures+and+Writings+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silence: Lectures and Writings">Silence: Lectures and Writings</a>
-        </h4>
-        <p class="fr-book-author">By John Cage</p>
-
-        <p class="fr-book-desc">Written by Cage himself and central to understanding the ideas behind silence, listening, and experimental music.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Silence%3A+Lectures+and+Writings+John+Cage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Where+the+Heart+Beats%3A+John+Cage%2C+Zen+Buddhism%2C+and+the+Inner+Life+of+Artists+Kay+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,7 +391,7 @@ Rather than presenting nothing, *433* presents listening itself. More than seven
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ocean+of+Sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ocean of Sound</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Experimental+music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Experimental music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Where+the+heart+beats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Where the heart beats</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silence%3A+Lectures+and+Writings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silence: Lectures and Writings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ocean+of+Sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ocean of Sound</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Experimental+Music%3A+Cage+and+Beyond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Experimental Music: Cage and Beyond</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
