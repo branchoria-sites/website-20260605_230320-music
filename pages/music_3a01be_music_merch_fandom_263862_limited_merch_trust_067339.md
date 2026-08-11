@@ -370,72 +370,72 @@ The most successful limited drops are remembered not because they sold out insta
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jpQgv_1AfdY" title="Your Merch Sucks!: The 4 Hidden Reasons Your Artist Merch Isn&#x27;t Selling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jpQgv_1AfdY" target="_blank" rel="noopener noreferrer">Your Merch Sucks!: The 4 Hidden Reasons Your Artist Merch Isn&#x27;t Selling</a></p><p class="youtube-embed-meta">Channel: Music Money Makeover Show &middot; Views: 2.6K &middot; Uploaded: August 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jpQgv_1AfdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jpQgv_1AfdY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Scarce Merch Stops Feeling Special. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Scarce Merch Stops Feeling Special. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom">Popular Music Fandom</a>
-        </h4>
-        <p class="fr-book-author">By Mark Duffett</p>
-
-        <p class="fr-book-desc">Addresses belonging, identity and value in fan communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom">Popular Music Fandom</a>
+</h4>
+<p class="fr-book-author">By Mark Duffett</p>
+        
+<p class="fr-book-desc">Addresses belonging, identity and value in fan communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Popular+Music+Fandom+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls: Scenes from Modern Music Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls: Scenes from Modern Music Culture">Fangirls: Scenes from Modern Music Culture</a>
-        </h4>
-        <p class="fr-book-author">By Hannah Ewens</p>
-
-        <p class="fr-book-desc">Explains fan motivations behind collecting and exclusivity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls: Scenes from Modern Music Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls: Scenes from Modern Music Culture">Fangirls: Scenes from Modern Music Culture</a>
+</h4>
+<p class="fr-book-author">By Hannah Ewens</p>
+        
+<p class="fr-book-desc">Explains fan motivations behind collecting and exclusivity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence: The Psychology of Persuasion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence: The Psychology of Persuasion">Influence: The Psychology of Persuasion</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
-
-        <p class="fr-book-desc">Scarcity is one of the book&#x27;s most famous persuasion principles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence: The Psychology of Persuasion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence: The Psychology of Persuasion">Influence: The Psychology of Persuasion</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
+        
+<p class="fr-book-desc">Scarcity is one of the book&#x27;s most famous persuasion principles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popular+Music+Fandom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popular Music Fandom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls: Scenes from Modern Music Culture</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence: The Psychology of Persuasion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Popular+Music+Fandom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popular Music Fandom</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls: Scenes from Modern Music Culture</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence: The Psychology of Persuasion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

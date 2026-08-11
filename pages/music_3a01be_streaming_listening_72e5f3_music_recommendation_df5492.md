@@ -328,89 +328,89 @@ One response to these concerns has been greater transparency and user control. S
 Recent developments have therefore focused on allowing listeners to influence how algorithms understand them. Spotify's new Taste Profile feature, for example, gives users more visibility into the signals shaping recommendations and allows them to modify those signals more directly. The move reflects a broader recognition that recommendation systems are not merely technical tools but active participants in cultural consumption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.musicbusinessworldwide.com/spotify-to-let-users-edit-the-algorithm-behind-their-personalized-recommendations-with-taste-profile/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musicbusinessworldwide.com">[Music Business Worldwide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musicbusinessworldwide.com</span><span class="citation-popover-snippet">Music Business WorldwideSpotify to let users edit the algorithm behind their personalized...March 16, 2026 — Spotify users will soon be...</span><span class="citation-popover-meta">Published: March 16, 2026</span></span></span> TechRadar The underlying question remains unresolved. Recommendation algorithms clearly help listeners navigate overwhelming catalogues and discover mu<span class="citation-chip-wrap"><a class="citation-chip" href="https://revistamultidisciplinar.com/index.php/oj/article/download/258/239/1052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistamultidisciplinar.com">[revistamultidisciplinar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistamultidisciplinar.com</span><span class="citation-popover-snippet">Effects of algorithmic curation in users&#x27; music taste on Spotifyby ME Fernández · 2024 · Cited by 1 — A comprehensive review of the liter...</span></span></span> sic efficiently. Yet because they learn from the past in order to predict the future, they can also encourage listeners to remain within familiar territory. Musical taste is therefore shaped by a continuous negotiation between human curiosity and algorithmic prediction. Streaming platforms do not simply reflect what people like; they increasingly influence what people are likely to like next. Spotify<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.atspotify.com/2025/9/personalizing-agentic-ai-to-users-musical-tastes-with-scalable-preference-optimization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.atspotify.com">[Spotify Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.atspotify.com</span><span class="citation-popover-snippet">Spotify ResearchPersonalizing Agentic AI to Users&#x27; Musical Tastes with...Sep 23, 2025 — At Spotify, our goal is to build systems that le...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Music Algorithms Expand Your Taste?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Music Algorithms Expand Your Taste?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
-
-        <p class="fr-book-desc">Helps readers understand recommendation logic and decision systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms to Live By on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QAiTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Algorithms to Live By" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms to Live By">Algorithms to Live By</a>
+</h4>
+<p class="fr-book-author">By Brian Christian, Tom Griffiths</p>
+        
+<p class="fr-book-desc">Helps readers understand recommendation logic and decision systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Algorithms+to+Live+By+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music+Maria+Eriksson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spotify Teardown: Inside the Black Box of Streaming Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8801431-M.jpg" alt="Cover for Spotify Teardown: Inside the Black Box of Streaming Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music+Maria+Eriksson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spotify Teardown: Inside the Black Box of Streaming Music">Spotify Teardown: Inside the Black Box of Streaming Music</a>
-        </h4>
-        <p class="fr-book-author">By Maria Eriksson, Rasmus Fleischer et al.</p>
-
-        <p class="fr-book-desc">Explains how streaming platforms collect data and shape listening.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music+Maria+Eriksson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music+Maria+Eriksson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spotify Teardown: Inside the Black Box of Streaming Music on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8801431-M.jpg" alt="Cover for Spotify Teardown: Inside the Black Box of Streaming Music" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music+Maria+Eriksson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spotify Teardown: Inside the Black Box of Streaming Music">Spotify Teardown: Inside the Black Box of Streaming Music</a>
+</h4>
+<p class="fr-book-author">By Maria Eriksson, Rasmus Fleischer et al.</p>
+        
+<p class="fr-book-desc">Explains how streaming platforms collect data and shape listening.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music+Maria+Eriksson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14833271-M.jpg" alt="Cover for Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist">Mood Machine: The Rise of Spotify and the Costs of the Perfec...</a>
-        </h4>
-        <p class="fr-book-author">By Liz Pelly</p>
-
-        <p class="fr-book-desc">Discusses algorithmic discovery, visibility and platform influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14833271-M.jpg" alt="Cover for Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist">Mood Machine: The Rise of Spotify and the Costs of the Perfec...</a>
+</h4>
+<p class="fr-book-author">By Liz Pelly</p>
+        
+<p class="fr-book-desc">Discusses algorithmic discovery, visibility and platform influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist+Liz+Pelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Filterworld%3A+How+Algorithms+Flattened+Culture+Kyle+Chayka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Filterworld: How Algorithms Flattened Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14578845-M.jpg" alt="Cover for Filterworld: How Algorithms Flattened Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Filterworld%3A+How+Algorithms+Flattened+Culture+Kyle+Chayka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Filterworld: How Algorithms Flattened Culture">Filterworld: How Algorithms Flattened Culture</a>
-        </h4>
-        <p class="fr-book-author">By Kyle Chayka</p>
-
-        <p class="fr-book-desc">Explores how recommendation systems shape taste and cultural discovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Filterworld%3A+How+Algorithms+Flattened+Culture+Kyle+Chayka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Filterworld%3A+How+Algorithms+Flattened+Culture+Kyle+Chayka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Filterworld: How Algorithms Flattened Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14578845-M.jpg" alt="Cover for Filterworld: How Algorithms Flattened Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Filterworld%3A+How+Algorithms+Flattened+Culture+Kyle+Chayka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Filterworld: How Algorithms Flattened Culture">Filterworld: How Algorithms Flattened Culture</a>
+</h4>
+<p class="fr-book-author">By Kyle Chayka</p>
+        
+<p class="fr-book-desc">Explores how recommendation systems shape taste and cultural discovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Filterworld%3A+How+Algorithms+Flattened+Culture+Kyle+Chayka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spotify Teardown: Inside the Black Box of Streaming Music</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+to+Live+By&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms to Live By</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spotify+Teardown%3A+Inside+the+Black+Box+of+Streaming+Music&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spotify Teardown: Inside the Black Box of Streaming Music</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mood+Machine%3A+The+Rise+of+Spotify+and+the+Costs+of+the+Perfect+Playlist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

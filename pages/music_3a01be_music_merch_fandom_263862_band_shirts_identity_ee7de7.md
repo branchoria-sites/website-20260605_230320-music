@@ -345,89 +345,89 @@ That is the deeper reason band shirts say more than taste. They transform listen
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E9vb0UMNjEQ" title="World Building with Merch: Inside the New Rules of Music Branding with Dan Goldberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E9vb0UMNjEQ" target="_blank" rel="noopener noreferrer">World Building with Merch: Inside the New Rules of Music Branding with Dan Goldberg</a></p><p class="youtube-embed-meta">Channel: MUBUTV - Music Business Television &middot; Views: 181 &middot; Uploaded: May 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E9vb0UMNjEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E9vb0UMNjEQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Band Shirts Say More Than Taste. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Band Shirts Say More Than Taste. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
-        </h4>
-        <p class="fr-book-author">By David Byrne</p>
-
-        <p class="fr-book-desc">Links music culture and personal identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Music Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d22UqerzutgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Music Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Music Works">How Music Works</a>
+</h4>
+<p class="fr-book-author">By David Byrne</p>
+        
+<p class="fr-book-desc">Links music culture and personal identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Music+Works+David+Byrne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Fandom+An+Introduction+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Fandom An Introduction To The Study Of Media Fan Culture Mark Duffett on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7719215-M.jpg" alt="Cover for Understanding Fandom An Introduction To The Study Of Media Fan Culture Mark Duffett" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Fandom+An+Introduction+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Fandom An Introduction To The Study Of Media Fan Culture Mark Duffett">Understanding Fandom An Introduction To The Study Of Media Fa...</a>
-        </h4>
-        <p class="fr-book-author">By Mark Duffett</p>
-
-        <p class="fr-book-desc">First published 2012. Subjects: Mass media, social aspects, Fans (persons), Mass media--social aspects, Mass media and culture, Social sc...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Fandom+An+Introduction+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Fandom+An+Introduction+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Fandom An Introduction To The Study Of Media Fan Culture Mark Duffett on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7719215-M.jpg" alt="Cover for Understanding Fandom An Introduction To The Study Of Media Fan Culture Mark Duffett" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Fandom+An+Introduction+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Fandom An Introduction To The Study Of Media Fan Culture Mark Duffett">Understanding Fandom An Introduction To The Study Of Media Fa...</a>
+</h4>
+<p class="fr-book-author">By Mark Duffett</p>
+        
+<p class="fr-book-desc">First published 2012. Subjects: Mass media, social aspects, Fans (persons), Mass media--social aspects, Mass media and culture, Social sc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Fandom+An+Introduction+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls: Scenes from Modern Music Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls: Scenes from Modern Music Culture">Fangirls: Scenes from Modern Music Culture</a>
-        </h4>
-        <p class="fr-book-author">By Hannah Ewens</p>
-
-        <p class="fr-book-desc">Examines visible expressions of fandom and belonging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls: Scenes from Modern Music Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls: Scenes from Modern Music Culture">Fangirls: Scenes from Modern Music Culture</a>
+</h4>
+<p class="fr-book-author">By Hannah Ewens</p>
+        
+<p class="fr-book-desc">Examines visible expressions of fandom and belonging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom: Identities, Roles and Practices on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom: Identities, Roles and Practices">Popular Music Fandom: Identities, Roles and Practices</a>
-        </h4>
-        <p class="fr-book-author">By Mark Duffett</p>
-
-        <p class="fr-book-desc">Explains how fans use symbols and affiliations to express identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popular Music Fandom: Identities, Roles and Practices on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular Music Fandom: Identities, Roles and Practices">Popular Music Fandom: Identities, Roles and Practices</a>
+</h4>
+<p class="fr-book-author">By Mark Duffett</p>
+        
+<p class="fr-book-desc">Explains how fans use symbols and affiliations to express identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Popular+Music+Fandom%3A+Identities%2C+Roles+and+Practices+Mark+Duffett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Fandom+An+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Fandom An To The Study Of Media Fan Culture Mark Duffett books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls: Scenes from Modern Music Culture</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Music+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Music Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Fandom+An+To+The+Study+Of+Media+Fan+Culture+Mark+Duffett+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Fandom An To The Study Of Media Fan Culture Mark Duffett books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls%3A+Scenes+from+Modern+Music+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls: Scenes from Modern Music Culture</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

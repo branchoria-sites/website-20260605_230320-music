@@ -314,89 +314,89 @@ Formants are resonance peaks produced by the human vocal tract acting as a filte
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MLxlOcl2W5w" title="Vocal Tip &quot;The Resonators&quot; Sing Like a Pro with Ron Anderson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MLxlOcl2W5w" target="_blank" rel="noopener noreferrer">Vocal Tip &quot;The Resonators&quot; Sing Like a Pro with Ron Anderson</a></p><p class="youtube-embed-meta">Channel: Voixtek Singing Lessons with Ron Anderson &middot; Views: 104.9K &middot; Uploaded: May 2019 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MLxlOcl2W5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MLxlOcl2W5w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Vocal Tract Formants Define Individual Timbre. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Vocal Tract Formants Define Individual Timbre. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The science of the singing voice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4115860-M.jpg" alt="Cover for The science of the singing voice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The science of the singing voice">The science of the singing voice</a>
-        </h4>
-        <p class="fr-book-author">By Johan Sundberg</p>
-
-        <p class="fr-book-desc">Directly explains formants, resonance and vocal timbre.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The science of the singing voice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4115860-M.jpg" alt="Cover for The science of the singing voice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The science of the singing voice">The science of the singing voice</a>
+</h4>
+<p class="fr-book-author">By Johan Sundberg</p>
+        
+<p class="fr-book-desc">Directly explains formants, resonance and vocal timbre.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+science+of+the+singing+voice+Johan+Sundberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voice Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9532701-M.jpg" alt="Cover for The Voice Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voice Book">The Voice Book</a>
-        </h4>
-        <p class="fr-book-author">By Kate DeVore, Starr Cookman</p>
-
-        <p class="fr-book-desc">Introduces resonance and vocal individuality in practical terms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voice Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9532701-M.jpg" alt="Cover for The Voice Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voice Book">The Voice Book</a>
+</h4>
+<p class="fr-book-author">By Kate DeVore, Starr Cookman</p>
+        
+<p class="fr-book-desc">Introduces resonance and vocal individuality in practical terms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Voice+Book+Kate+DeVore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Voice An Inside View on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12506757-M.jpg" alt="Cover for Your Voice An Inside View" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Voice An Inside View">Your Voice An Inside View</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCoy, MD Lucinda Halstead et al.</p>
-
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Voice An Inside View on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12506757-M.jpg" alt="Cover for Your Voice An Inside View" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Voice An Inside View">Your Voice An Inside View</a>
+</h4>
+<p class="fr-book-author">By Scott McCoy, MD Lucinda Halstead et al.</p>
+        
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View+Scott+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of voice production on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of voice production">Principles of voice production</a>
-        </h4>
-        <p class="fr-book-author">By Ingo R. Titze</p>
-
-        <p class="fr-book-desc">Detailed treatment of source-filter theory and formant behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of voice production on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of voice production">Principles of voice production</a>
+</h4>
+<p class="fr-book-author">By Ingo R. Titze</p>
+        
+<p class="fr-book-desc">Detailed treatment of source-filter theory and formant behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+voice+production+Ingo+R.+Titze&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The science of the singing voice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voice+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voice Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Voice An Inside View</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+science+of+the+singing+voice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The science of the singing voice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voice+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voice Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Voice+An+Inside+View&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Voice An Inside View</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

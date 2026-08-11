@@ -333,89 +333,89 @@ The importance of hymn repetition lies in its ability to make doctrine memorable
 By linking doctrine to repeated musical patterns, hymns help transform belief from information that is merely known into truth that is continually remembered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.cph.org/worship/does-the-memorization-of-hymns-matter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.cph.org">[blog.cph.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.cph.org</span><span class="citation-popover-title">Does the Memorization of Hymns Matter?</span><span class="citation-popover-snippet">CPH Blog19 Jun 2018 — Music not only helps us memorize the text of hymns and the words of stories but it also reminds us of the content o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/329878770_Music_movement_and_memory_Pedagogical_songs_as_mnemonic_aids" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Music, movement and memory: Pedagogical songs as</span><span class="citation-popover-snippet">Music, movement and memory: Pedagogical songs as...December 1, 2018 — This article proposes a theoretical foundation and pra...</span><span class="citation-popover-meta">Published: December 1, 2018</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Hymns Help Belief Stay Remembered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Hymns Help Belief Stay Remembered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
-        </h4>
-        <p class="fr-book-author">By William Petersen</p>
-
-        <p class="fr-book-desc">Demonstrates how repeated hymn singing carries doctrine across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Book of Hymns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/759132-M.jpg" alt="Cover for The Complete Book of Hymns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Book of Hymns">The Complete Book of Hymns</a>
+</h4>
+<p class="fr-book-author">By William Petersen</p>
+        
+<p class="fr-book-desc">Demonstrates how repeated hymn singing carries doctrine across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns+William+Petersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary Of Hymnology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437473-M.jpg" alt="Cover for A Dictionary Of Hymnology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary Of Hymnology">A Dictionary Of Hymnology</a>
-        </h4>
-        <p class="fr-book-author">By John Julian</p>
-
-        <p class="fr-book-desc">Documents doctrinal themes embedded in hymn traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Dictionary Of Hymnology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7437473-M.jpg" alt="Cover for A Dictionary Of Hymnology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Dictionary Of Hymnology">A Dictionary Of Hymnology</a>
+</h4>
+<p class="fr-book-author">By John Julian</p>
+        
+<p class="fr-book-desc">Documents doctrinal themes embedded in hymn traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sing with understanding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/583384-M.jpg" alt="Cover for Sing with understanding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sing with understanding">Sing with understanding</a>
-        </h4>
-        <p class="fr-book-author">By Harry Eskew, Hugh T. McElrath et al.</p>
-
-        <p class="fr-book-desc">Explains educational and theological functions of hymns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sing with understanding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/583384-M.jpg" alt="Cover for Sing with understanding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sing with understanding">Sing with understanding</a>
+</h4>
+<p class="fr-book-author">By Harry Eskew, Hugh T. McElrath et al.</p>
+        
+<p class="fr-book-desc">Explains educational and theological functions of hymns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sing+with+understanding+Harry+Eskew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
-        </h4>
-        <p class="fr-book-author">By Robert J. Morgan</p>
-
-        <p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Then Sings My Soul, Book 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/536950-M.jpg" alt="Cover for Then Sings My Soul, Book 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Then Sings My Soul, Book 2">Then Sings My Soul, Book 2</a>
+</h4>
+<p class="fr-book-author">By Robert J. Morgan</p>
+        
+<p class="fr-book-desc">First published 2004. Subjects: Hymns, History and criticism, Hymns, history and criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Then+Sings+My+Soul%2C+Book+2+Robert+J.+Morgan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Book of Hymns</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary Of Hymnology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sing+with+understanding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sing with understanding</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Book+of+Hymns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Book of Hymns</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Dictionary+Of+Hymnology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Dictionary Of Hymnology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sing+with+understanding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sing with understanding</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
