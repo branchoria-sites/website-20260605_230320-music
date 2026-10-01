@@ -260,6 +260,7 @@ next_link:
   short_title: Billie Values
   heading_title: Can Merch Carry An Artist's Values?
 date: '2026-06-11 23:24:03 '
+last_modified_at: '2026-06-11 23:24:03 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1.webp

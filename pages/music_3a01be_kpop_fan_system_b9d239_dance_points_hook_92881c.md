@@ -266,6 +266,7 @@ next_link:
   short_title: Fan Labour
   heading_title: When supporting idols starts to feel like work
 date: '2026-06-11 23:15:34 '
+last_modified_at: '2026-06-11 23:15:34 '
 header:
   og_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Song Simplification
   heading_title: When Protest Songs Flatten Complex Messages
 date: '2026-06-11 23:32:34 '
+last_modified_at: '2026-06-11 23:32:34 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1.webp

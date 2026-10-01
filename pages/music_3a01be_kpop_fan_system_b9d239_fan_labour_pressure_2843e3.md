@@ -266,6 +266,7 @@ next_link:
   short_title: Fan Platforms
   heading_title: Why fan apps matter to K pop's business
 date: '2026-06-11 23:16:10 '
+last_modified_at: '2026-06-11 23:16:10 '
 header:
   og_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Metadata gaps
   heading_title: How royalties get lost in the data
 date: '2026-06-11 23:50:39 '
+last_modified_at: '2026-06-11 23:50:39 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Transparency
   heading_title: Why Bigger Royalty Reports Still Leave Questions
 date: '2026-06-11 23:43:14 '
+last_modified_at: '2026-06-11 23:43:14 '
 header:
   og_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1.webp

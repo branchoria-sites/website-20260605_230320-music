@@ -260,6 +260,7 @@ next_link:
   short_title: Fake Drake
   heading_title: Why Heart on My Sleeve Was Removed
 date: '2026-06-11 23:39:52 '
+last_modified_at: '2026-06-11 23:39:52 '
 header:
   og_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1.webp

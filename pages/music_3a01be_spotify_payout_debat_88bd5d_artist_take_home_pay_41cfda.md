@@ -266,6 +266,7 @@ next_link:
   short_title: Payout Data
   heading_title: What Spotify's big payout numbers leave out
 date: '2026-06-11 23:57:24 '
+last_modified_at: '2026-06-11 23:57:24 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1.webp

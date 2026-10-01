@@ -493,6 +493,7 @@ next_link:
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 date: '2026-06-11 23:12:48 '
+last_modified_at: '2026-06-11 23:12:48 '
 header:
   og_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb-overview-social.jpg
   preview_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb-overview.webp

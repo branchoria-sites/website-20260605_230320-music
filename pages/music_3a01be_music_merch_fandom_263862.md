@@ -493,6 +493,7 @@ next_link:
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 date: '2026-06-11 23:04:50 '
+last_modified_at: '2026-06-11 23:04:50 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862-overview-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862-overview.webp

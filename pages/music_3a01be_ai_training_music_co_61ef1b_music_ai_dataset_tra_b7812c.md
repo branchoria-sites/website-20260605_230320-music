@@ -266,6 +266,7 @@ next_link:
   short_title: Voice Imitation
   heading_title: When AI sounds too much like an artist
 date: '2026-06-11 23:41:36 '
+last_modified_at: '2026-06-11 23:41:36 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1.webp

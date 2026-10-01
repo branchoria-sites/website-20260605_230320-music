@@ -260,6 +260,7 @@ next_link:
   short_title: Deezer surge
   heading_title: What Deezer's AI Upload Surge Reveals
 date: '2026-06-11 23:40:18 '
+last_modified_at: '2026-06-11 23:40:18 '
 header:
   og_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1.webp

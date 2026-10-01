@@ -266,6 +266,7 @@ next_link:
   short_title: Variants
   heading_title: Are Vinyl Variants Good for Fans?
 date: '2026-06-11 23:38:30 '
+last_modified_at: '2026-06-11 23:38:30 '
 header:
   og_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Live Emotion
   heading_title: Why live music hits harder in person
 date: '2026-06-11 23:20:41 '
+last_modified_at: '2026-06-11 23:20:41 '
 header:
   og_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-1.webp

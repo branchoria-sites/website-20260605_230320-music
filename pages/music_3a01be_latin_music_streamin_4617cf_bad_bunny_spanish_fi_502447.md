@@ -260,6 +260,7 @@ next_link:
   short_title: Collabs
   heading_title: Why Latin Collabs Travel So Fast
 date: '2026-06-11 23:45:09 '
+last_modified_at: '2026-06-11 23:45:09 '
 header:
   og_image: /assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-1.webp

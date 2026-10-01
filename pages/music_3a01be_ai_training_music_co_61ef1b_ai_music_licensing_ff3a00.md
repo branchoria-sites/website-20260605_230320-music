@@ -266,6 +266,7 @@ next_link:
   short_title: Suno and Udio
   heading_title: Why the Suno and Udio lawsuits matter
 date: '2026-06-11 23:22:39 '
+last_modified_at: '2026-06-11 23:22:39 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Regions
   heading_title: Why Global Growth Looks Different Locally
 date: '2026-06-11 23:29:08 '
+last_modified_at: '2026-06-11 23:29:08 '
 header:
   og_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1.webp

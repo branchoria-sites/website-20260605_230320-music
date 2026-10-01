@@ -493,6 +493,7 @@ next_link:
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 date: '2026-06-11 23:10:11 '
+last_modified_at: '2026-06-11 23:10:11 '
 header:
   og_image: /assets/images/music_3a01be_latin_music_streamin_4617cf-overview-social.jpg
   preview_image: /assets/images/music_3a01be_latin_music_streamin_4617cf-overview.webp

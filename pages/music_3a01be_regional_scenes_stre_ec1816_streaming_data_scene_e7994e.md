@@ -266,6 +266,7 @@ next_link:
   short_title: Playlist Gate
   heading_title: The New Border Is Platform Visibility
 date: '2026-06-11 23:55:03 '
+last_modified_at: '2026-06-11 23:55:03 '
 header:
   og_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1.webp

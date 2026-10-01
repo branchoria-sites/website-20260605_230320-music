@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-hymns-belief-ritual/
 description: Focused pages that expand on Hymns.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: music_3a01be_hymns_belief_ritual_aef87d
 parent_title: Hymns

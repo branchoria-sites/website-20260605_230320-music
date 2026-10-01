@@ -260,6 +260,7 @@ next_link:
   short_title: Label Deals
   heading_title: When Old Record Deals Meet Streaming Money
 date: '2026-06-11 23:28:13 '
+last_modified_at: '2026-06-11 23:28:13 '
 header:
   og_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-1.webp

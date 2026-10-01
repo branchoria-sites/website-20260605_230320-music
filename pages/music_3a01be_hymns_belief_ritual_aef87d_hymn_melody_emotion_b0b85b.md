@@ -260,6 +260,7 @@ next_link:
   short_title: Memory
   heading_title: How Hymns Help Belief Stay Remembered
 date: '2026-06-11 23:23:35 '
+last_modified_at: '2026-06-11 23:23:35 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1.webp

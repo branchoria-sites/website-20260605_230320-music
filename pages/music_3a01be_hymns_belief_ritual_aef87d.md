@@ -493,6 +493,7 @@ next_link:
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 date: '2026-06-11 23:05:39 '
+last_modified_at: '2026-06-11 23:05:39 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d-overview-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d-overview.webp

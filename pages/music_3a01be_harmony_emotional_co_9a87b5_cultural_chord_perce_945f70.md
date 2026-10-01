@@ -266,6 +266,7 @@ next_link:
   short_title: Melody & Harmony
   heading_title: How Harmony Reinterprets the Emotional Meaning of a Melody
 date: '2026-06-11 23:44:20 '
+last_modified_at: '2026-06-11 23:44:20 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1.webp

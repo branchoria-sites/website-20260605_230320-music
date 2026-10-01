@@ -260,6 +260,7 @@ next_link:
   short_title: Neural Timbre
   heading_title: How the Brain Distinguishes Timbre Instantly
 date: '2026-06-11 23:58:45 '
+last_modified_at: '2026-06-11 23:58:45 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1.webp

@@ -260,6 +260,7 @@ prev_link:
   short_title: Mood Matching
   heading_title: How mood playlists changed music discovery
 date: '2026-06-11 23:54:00 '
+last_modified_at: '2026-06-11 23:54:00 '
 header:
   og_image: /assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1.webp

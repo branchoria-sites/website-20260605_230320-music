@@ -260,6 +260,7 @@ next_link:
   short_title: Mechanical Royalties
   heading_title: The Hidden Song Royalties Inside Streaming
 date: '2026-06-11 23:34:44 '
+last_modified_at: '2026-06-11 23:34:44 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1.webp

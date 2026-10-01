@@ -266,6 +266,7 @@ next_link:
   short_title: Ticket Split
   heading_title: Where Your Ticket Money Really Goes
 date: '2026-06-11 23:15:57 '
+last_modified_at: '2026-06-11 23:15:57 '
 header:
   og_image: /assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1.webp

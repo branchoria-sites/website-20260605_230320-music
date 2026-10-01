@@ -266,6 +266,7 @@ next_link:
   short_title: Missing royalties
   heading_title: The royalties artists forget to collect
 date: '2026-06-11 23:58:06 '
+last_modified_at: '2026-06-11 23:58:06 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1.webp

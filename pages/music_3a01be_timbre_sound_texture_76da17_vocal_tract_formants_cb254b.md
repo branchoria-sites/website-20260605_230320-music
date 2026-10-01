@@ -260,6 +260,7 @@ prev_link:
   short_title: Transient Cues
   heading_title: How Brief Attacks Reveal Sound Sources Instantly
 date: '2026-06-11 23:59:24 '
+last_modified_at: '2026-06-11 23:59:24 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 date: '2026-06-11 23:06:02 '
+last_modified_at: '2026-06-11 23:06:02 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69-overview-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69-overview.webp

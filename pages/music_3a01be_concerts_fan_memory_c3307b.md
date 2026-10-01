@@ -493,6 +493,7 @@ next_link:
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 date: '2026-06-11 23:05:32 '
+last_modified_at: '2026-06-11 23:05:32 '
 header:
   og_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b-overview-social.jpg
   preview_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b-overview.webp

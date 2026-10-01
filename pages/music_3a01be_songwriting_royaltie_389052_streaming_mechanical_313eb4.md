@@ -266,6 +266,7 @@ next_link:
   short_title: Royalty Splits
   heading_title: Why the Same Song Pays Different People
 date: '2026-06-11 23:56:34 '
+last_modified_at: '2026-06-11 23:56:34 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1.webp

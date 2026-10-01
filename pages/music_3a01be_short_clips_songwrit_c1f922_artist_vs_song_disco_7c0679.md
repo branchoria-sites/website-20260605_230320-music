@@ -260,6 +260,7 @@ next_link:
   short_title: Clip Tradeoffs
   heading_title: When a Viral Snippet Hurts the Full Song
 date: '2026-06-11 23:55:56 '
+last_modified_at: '2026-06-11 23:55:56 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1.webp

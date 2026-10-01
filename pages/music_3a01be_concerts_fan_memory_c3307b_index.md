@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-concerts-fan-memory/
 description: Focused pages that expand on Concerts.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: music_3a01be_concerts_fan_memory_c3307b
 parent_title: Concerts

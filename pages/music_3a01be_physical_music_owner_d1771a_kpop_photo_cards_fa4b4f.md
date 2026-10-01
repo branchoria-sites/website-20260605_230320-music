@@ -266,6 +266,7 @@ next_link:
   short_title: Signed Copies
   heading_title: Why Signed Albums Feel More Personal
 date: '2026-06-11 23:19:12 '
+last_modified_at: '2026-06-11 23:19:12 '
 header:
   og_image: /assets/images/music_3a01be_physical_music_owner_d1771a_kpop_photo_cards_fa4b4f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_physical_music_owner_d1771a_kpop_photo_cards_fa4b4f-Illustration-1.webp

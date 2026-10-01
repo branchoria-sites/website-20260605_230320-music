@@ -266,6 +266,7 @@ next_link:
   short_title: Tour Keepsakes
   heading_title: Why Tour Shirts Become Memory Objects
 date: '2026-06-11 23:21:43 '
+last_modified_at: '2026-06-11 23:21:43 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862_limited_merch_trust_067339-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862_limited_merch_trust_067339-Illustration-1.webp
