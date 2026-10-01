@@ -266,6 +266,7 @@ next_link:
   short_title: Syncopation
   heading_title: Why Off Beat Rhythms Make People Move
 date: '2026-06-11 23:55:14 '
+last_modified_at: '2026-06-11 23:55:14 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1.webp

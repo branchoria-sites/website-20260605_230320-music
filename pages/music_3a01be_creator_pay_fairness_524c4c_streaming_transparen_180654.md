@@ -260,6 +260,7 @@ prev_link:
   short_title: Songwriters
   heading_title: Why Songwriters Wait Longer for Streaming Pay
 date: '2026-06-11 23:43:29 '
+last_modified_at: '2026-06-11 23:43:29 '
 header:
   og_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-1.webp

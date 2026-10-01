@@ -493,6 +493,7 @@ next_link:
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 date: '2026-06-11 23:06:51 '
+last_modified_at: '2026-06-11 23:06:51 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395-overview-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395-overview.webp

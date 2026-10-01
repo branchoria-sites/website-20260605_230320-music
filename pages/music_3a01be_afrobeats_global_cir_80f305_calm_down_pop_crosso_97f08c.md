@@ -266,6 +266,7 @@ next_link:
   short_title: Charts
   heading_title: Why Afrobeats Needed Its Own Charts
 date: '2026-06-11 23:39:23 '
+last_modified_at: '2026-06-11 23:39:23 '
 header:
   og_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1.webp

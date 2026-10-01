@@ -260,6 +260,7 @@ prev_link:
   short_title: Scarcity
   heading_title: When Limited Vinyl Becomes the Event
 date: '2026-06-11 23:38:55 '
+last_modified_at: '2026-06-11 23:38:55 '
 header:
   og_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1.webp

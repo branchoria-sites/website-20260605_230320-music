@@ -266,6 +266,7 @@ next_link:
   short_title: Payout Myths
   heading_title: Why There Is No Simple Per Stream Rate
 date: '2026-06-11 23:42:38 '
+last_modified_at: '2026-06-11 23:42:38 '
 header:
   og_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1.webp

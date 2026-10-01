@@ -493,6 +493,7 @@ next_link:
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 date: '2026-06-11 23:11:45 '
+last_modified_at: '2026-06-11 23:11:45 '
 header:
   og_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4-overview-social.jpg
   preview_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4-overview.webp

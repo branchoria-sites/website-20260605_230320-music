@@ -266,6 +266,7 @@ next_link:
   short_title: Legacy artists
   heading_title: Why old record deals still shape streaming pay
 date: '2026-06-11 23:37:35 '
+last_modified_at: '2026-06-11 23:37:35 '
 header:
   og_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_equitable_remunerati_5d80dc-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_equitable_remunerati_5d80dc-Illustration-1.webp

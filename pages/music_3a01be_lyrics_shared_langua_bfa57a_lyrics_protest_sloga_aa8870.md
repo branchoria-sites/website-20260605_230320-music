@@ -266,6 +266,7 @@ next_link:
   short_title: Sung Meaning
   heading_title: Why Sung Words Hit Harder Than Spoken Ones
 date: '2026-06-11 23:47:05 '
+last_modified_at: '2026-06-11 23:47:05 '
 header:
   og_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-1.webp

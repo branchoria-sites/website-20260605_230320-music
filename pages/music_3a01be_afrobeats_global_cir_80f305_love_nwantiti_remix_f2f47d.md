@@ -266,6 +266,7 @@ next_link:
   short_title: UK nightlife
   heading_title: Why UK Parties Mattered for Afrobeats
 date: '2026-06-11 23:25:55 '
+last_modified_at: '2026-06-11 23:25:55 '
 header:
   og_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1.webp

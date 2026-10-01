@@ -260,6 +260,7 @@ prev_link:
   short_title: Protest Lyrics
   heading_title: When Lyrics Leave Songs and Become Slogans
 date: '2026-06-11 23:23:54 '
+last_modified_at: '2026-06-11 23:23:54 '
 header:
   og_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1.webp

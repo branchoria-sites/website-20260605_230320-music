@@ -266,6 +266,7 @@ next_link:
   short_title: Viral Moments
   heading_title: Why the Chorus Is No Longer the Only Hook
 date: '2026-06-11 23:21:56 '
+last_modified_at: '2026-06-11 23:21:56 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1.webp

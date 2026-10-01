@@ -266,6 +266,7 @@ next_link:
   short_title: Two Rights
   heading_title: Why one stream creates two royalty trails
 date: '2026-06-11 23:57:41 '
+last_modified_at: '2026-06-11 23:57:41 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1.webp

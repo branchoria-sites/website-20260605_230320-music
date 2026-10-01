@@ -260,6 +260,7 @@ next_link:
   short_title: Emotional Silence
   heading_title: How Silence Communicates Emotion and Meaning in Music
 date: '2026-06-11 23:15:44 '
+last_modified_at: '2026-06-11 23:15:44 '
 header:
   og_image: /assets/images/music_3a01be_silence_in_music_822765_cage_433_silence_7dfa35-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_silence_in_music_822765_cage_433_silence_7dfa35-Illustration-1.webp

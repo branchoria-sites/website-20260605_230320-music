@@ -260,6 +260,7 @@ prev_link:
   short_title: Tension & Release
   heading_title: How Tension and Release Shape Emotional Impact in Music
 date: '2026-06-11 23:44:52 '
+last_modified_at: '2026-06-11 23:44:52 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1.webp

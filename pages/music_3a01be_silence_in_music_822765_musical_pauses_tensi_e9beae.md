@@ -264,6 +264,7 @@ next_link:
   short_title: Performance Gestures
   heading_title: How Performers Use Gesture to Shape Silence
 date: '2026-06-11 23:19:26 '
+last_modified_at: '2026-06-11 23:19:26 '
 header:
   og_image: /assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1.webp

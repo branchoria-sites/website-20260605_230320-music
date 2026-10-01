@@ -260,6 +260,7 @@ prev_link:
   short_title: Transparency
   heading_title: The hidden dataset problem in AI music
 date: '2026-06-11 23:41:22 '
+last_modified_at: '2026-06-11 23:41:22 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1.webp

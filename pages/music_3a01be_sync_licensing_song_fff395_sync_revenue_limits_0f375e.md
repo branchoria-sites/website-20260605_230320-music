@@ -266,6 +266,7 @@ next_link:
   short_title: Scene Meaning
   heading_title: Why One Scene Can Rewrite a Song
 date: '2026-06-11 23:25:16 '
+last_modified_at: '2026-06-11 23:25:16 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1.webp

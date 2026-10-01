@@ -266,6 +266,7 @@ next_link:
   short_title: Limited Drops
   heading_title: When Scarce Merch Stops Feeling Special
 date: '2026-06-11 23:21:14 '
+last_modified_at: '2026-06-11 23:21:14 '
 header:
   og_image: /assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1.webp

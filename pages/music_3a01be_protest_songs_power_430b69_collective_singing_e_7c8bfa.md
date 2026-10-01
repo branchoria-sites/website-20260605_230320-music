@@ -260,6 +260,7 @@ next_link:
   short_title: Digital Protest Music
   heading_title: How Social Media Transforms Protest Songs Online
 date: '2026-06-11 23:32:16 '
+last_modified_at: '2026-06-11 23:32:16 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1.webp

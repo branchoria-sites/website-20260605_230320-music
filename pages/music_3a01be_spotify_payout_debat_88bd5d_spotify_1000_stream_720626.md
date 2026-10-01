@@ -260,6 +260,7 @@ next_link:
   short_title: Artist Share
   heading_title: Why Spotify money reaches artists unevenly
 date: '2026-06-11 23:35:04 '
+last_modified_at: '2026-06-11 23:35:04 '
 header:
   og_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-catalogue-music-redi/
 description: Focused pages that expand on Catalogue.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: music_3a01be_catalogue_music_redi_46cae9
 parent_title: Catalogue

@@ -266,6 +266,7 @@ next_link:
   short_title: Transparency
   heading_title: Can better royalty information make streaming fairer?
 date: '2026-06-11 23:38:02 '
+last_modified_at: '2026-06-11 23:38:02 '
 header:
   og_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_metadata_unpaid_crea_a2759f-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_metadata_unpaid_crea_a2759f-Illustration-1.webp

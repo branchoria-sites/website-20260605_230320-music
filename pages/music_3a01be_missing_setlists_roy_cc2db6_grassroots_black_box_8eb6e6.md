@@ -260,6 +260,7 @@ next_link:
   short_title: Claim Deadlines
   heading_title: What Happens When Gig Claims Arrive Too Late?
 date: '2026-06-11 23:48:18 '
+last_modified_at: '2026-06-11 23:48:18 '
 header:
   og_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1.webp

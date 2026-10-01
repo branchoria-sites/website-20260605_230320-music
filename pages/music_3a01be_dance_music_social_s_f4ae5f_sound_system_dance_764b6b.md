@@ -266,6 +266,7 @@ next_link:
   short_title: Venue Design
   heading_title: How Club Architecture and Lighting Shape Dance Interaction
 date: '2026-06-11 23:23:26 '
+last_modified_at: '2026-06-11 23:23:26 '
 header:
   og_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1.webp

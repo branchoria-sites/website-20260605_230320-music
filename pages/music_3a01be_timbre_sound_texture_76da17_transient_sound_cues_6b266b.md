@@ -266,6 +266,7 @@ next_link:
   short_title: Vocal Formants
   heading_title: How Vocal Tract Formants Define Individual Timbre
 date: '2026-06-11 23:59:14 '
+last_modified_at: '2026-06-11 23:59:14 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1.webp

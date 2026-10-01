@@ -266,6 +266,7 @@ next_link:
   short_title: Game Deals
   heading_title: When Songs Become Part of Game Worlds
 date: '2026-06-11 23:37:05 '
+last_modified_at: '2026-06-11 23:37:05 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1.webp

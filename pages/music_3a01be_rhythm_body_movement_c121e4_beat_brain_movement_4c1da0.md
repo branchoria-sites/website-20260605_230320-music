@@ -260,6 +260,7 @@ next_link:
   short_title: Hooks
   heading_title: Why Chants Stay in the Body
 date: '2026-06-11 23:34:19 '
+last_modified_at: '2026-06-11 23:34:19 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Sound Systems
   heading_title: Why Sound Systems Direct Collective Movement on Dance Floors
 date: '2026-06-11 23:18:46 '
+last_modified_at: '2026-06-11 23:18:46 '
 header:
   og_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_beat_sync_social_576b0e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_dance_music_social_s_f4ae5f_beat_sync_social_576b0e-Illustration-1.webp

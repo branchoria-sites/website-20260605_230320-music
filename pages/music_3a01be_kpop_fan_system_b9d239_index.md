@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-kpop-fan-system-b9d239/
 description: Focused pages that expand on K Pop.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: music_3a01be_kpop_fan_system_b9d239
 parent_title: K Pop

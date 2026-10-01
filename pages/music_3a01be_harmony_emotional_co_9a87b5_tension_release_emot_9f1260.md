@@ -264,6 +264,7 @@ next_link:
   short_title: Unresolved Harmony
   heading_title: How Unresolved Chords Keep Music Emotionally Open
 date: '2026-06-11 23:44:40 '
+last_modified_at: '2026-06-11 23:44:40 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1.webp

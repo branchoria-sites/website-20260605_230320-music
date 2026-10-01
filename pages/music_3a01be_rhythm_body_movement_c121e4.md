@@ -493,6 +493,7 @@ next_link:
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 date: '2026-06-11 23:13:59 '
+last_modified_at: '2026-06-11 23:13:59 '
 header:
   og_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4-overview-social.jpg
   preview_image: /assets/images/music_3a01be_rhythm_body_movement_c121e4-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Public Grief
   heading_title: Why Hymns Appear at Public Moments of Grief
 date: '2026-06-11 23:28:23 '
+last_modified_at: '2026-06-11 23:28:23 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_memory_doctrine_87830a-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_memory_doctrine_87830a-Illustration-1.webp

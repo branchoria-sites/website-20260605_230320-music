@@ -266,6 +266,7 @@ next_link:
   short_title: Synthetic Timbre
   heading_title: Making Synthesized Sounds Feel Human and Expressive
 date: '2026-06-11 23:58:53 '
+last_modified_at: '2026-06-11 23:58:53 '
 header:
   og_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1.webp

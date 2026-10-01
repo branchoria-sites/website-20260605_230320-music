@@ -265,6 +265,7 @@ next_link:
   short_title: Fan Rituals
   heading_title: Why Do Fans Still Gather Around Album Releases?
 date: '2026-06-11 23:26:45 '
+last_modified_at: '2026-06-11 23:26:45 '
 header:
   og_image: /assets/images/music_3a01be_albums_in_streaming_0eaed5_albums_and_fan_loyal_b3d772-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_albums_in_streaming_0eaed5_albums_and_fan_loyal_b3d772-Illustration-1.webp

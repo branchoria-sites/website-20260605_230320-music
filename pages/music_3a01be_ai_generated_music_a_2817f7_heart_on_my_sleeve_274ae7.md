@@ -266,6 +266,7 @@ next_link:
   short_title: Prompt Copyright
   heading_title: Can a Prompt Make a Song Copyrightable?
 date: '2026-06-11 23:22:27 '
+last_modified_at: '2026-06-11 23:22:27 '
 header:
   og_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1.webp

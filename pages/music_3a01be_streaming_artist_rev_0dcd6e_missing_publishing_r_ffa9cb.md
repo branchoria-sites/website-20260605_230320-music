@@ -266,6 +266,7 @@ next_link:
   short_title: Payout rates
   heading_title: Why one stream is not worth one price
 date: '2026-06-11 23:58:19 '
+last_modified_at: '2026-06-11 23:58:19 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1.webp

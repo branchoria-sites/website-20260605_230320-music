@@ -260,6 +260,7 @@ next_link:
   short_title: Master rights
   heading_title: Who gets the recording money first?
 date: '2026-06-11 23:57:55 '
+last_modified_at: '2026-06-11 23:57:55 '
 header:
   og_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-1.webp

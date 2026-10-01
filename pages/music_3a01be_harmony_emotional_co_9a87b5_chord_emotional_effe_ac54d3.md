@@ -260,6 +260,7 @@ next_link:
   short_title: Cultural Context
   heading_title: Why Major and Minor Chords Feel Different Across Cultures
 date: '2026-06-11 23:44:12 '
+last_modified_at: '2026-06-11 23:44:12 '
 header:
   og_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Sync rights
   heading_title: Why film music needs double clearance
 date: '2026-06-11 23:50:56 '
+last_modified_at: '2026-06-11 23:50:56 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1.webp

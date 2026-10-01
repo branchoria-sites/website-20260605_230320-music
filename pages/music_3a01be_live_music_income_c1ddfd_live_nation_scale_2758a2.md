@@ -266,6 +266,7 @@ next_link:
   short_title: Setlists
   heading_title: Why Setlists Decide Who Gets Paid
 date: '2026-06-11 23:16:38 '
+last_modified_at: '2026-06-11 23:16:38 '
 header:
   og_image: /assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-1.webp

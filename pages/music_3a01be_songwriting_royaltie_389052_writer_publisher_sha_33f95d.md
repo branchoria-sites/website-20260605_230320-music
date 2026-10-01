@@ -266,6 +266,7 @@ next_link:
   short_title: Setlist Gaps
   heading_title: How Missing Setlists Leave Money Unpaid
 date: '2026-06-11 23:57:09 '
+last_modified_at: '2026-06-11 23:57:09 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Setlists
   heading_title: Why the setlist is not the concert
 date: '2026-06-11 23:23:16 '
+last_modified_at: '2026-06-11 23:23:16 '
 header:
   og_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-1.webp

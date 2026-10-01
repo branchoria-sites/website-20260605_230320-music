@@ -260,6 +260,7 @@ prev_link:
   short_title: Public play
   heading_title: Why cafes pay to play songs
 date: '2026-06-11 23:51:29 '
+last_modified_at: '2026-06-11 23:51:29 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958_sync_master_clearanc_3c7634-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958_sync_master_clearanc_3c7634-Illustration-1.webp

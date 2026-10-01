@@ -266,6 +266,7 @@ next_link:
   short_title: PRS dispute
   heading_title: When royalty societies face their members
 date: '2026-06-11 23:51:10 '
+last_modified_at: '2026-06-11 23:51:10 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958_royalty_metadata_gap_6b3d8d-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958_royalty_metadata_gap_6b3d8d-Illustration-1.webp

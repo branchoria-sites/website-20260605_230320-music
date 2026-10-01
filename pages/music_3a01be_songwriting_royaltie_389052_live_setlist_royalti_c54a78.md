@@ -266,6 +266,7 @@ next_link:
   short_title: Sync Earnings
   heading_title: When One Sync Deal Creates More Income
 date: '2026-06-11 23:56:20 '
+last_modified_at: '2026-06-11 23:56:20 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-1.webp

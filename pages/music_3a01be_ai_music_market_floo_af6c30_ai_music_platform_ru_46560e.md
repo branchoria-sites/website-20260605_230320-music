@@ -266,6 +266,7 @@ next_link:
   short_title: Training disputes
   heading_title: Why AI Music Lawsuits Matter for Flooding
 date: '2026-06-11 23:40:44 '
+last_modified_at: '2026-06-11 23:40:44 '
 header:
   og_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-1.webp
