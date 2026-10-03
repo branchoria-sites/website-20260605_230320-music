@@ -5219,6 +5219,93 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">The books behind the reports on this site — records, sound, and the albums that define the format. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open High Fidelity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/824359-M.jpg" alt="Cover for High Fidelity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Fidelity">High Fidelity</a>
+    </h4>
+    <p class="fr-book-author">By Nick Hornby</p>
+        
+    <p class="fr-book-desc">Captures the psychology of music fandom, collecting, obsession, and the emotional value fans attach to physical records.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=High+Fidelity+Nick+Hornby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vinyl: The Art of Making Records on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10134024-M.jpg" alt="Cover for Vinyl: The Art of Making Records" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vinyl: The Art of Making Records">Vinyl: The Art of Making Records</a>
+    </h4>
+    <p class="fr-book-author">By Mike Evans</p>
+        
+    <p class="fr-book-desc">Explains the culture, production, and enduring attraction of vinyl in the modern era.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Vinyl%3A+The+Art+of+Making+Records+Mike+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Perfecting Sound Forever on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6297164-M.jpg" alt="Cover for Perfecting Sound Forever" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Perfecting Sound Forever">Perfecting Sound Forever</a>
+    </h4>
+    <p class="fr-book-author">By Greg Milner</p>
+        
+    <p class="fr-book-desc">Explores how formats shape listening habits and perceptions of sound.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=Perfecting+Sound+Forever+Greg+Milner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    <article class="fr-book-card">
+    <a class="fr-book-cover" href="https://www.amazon.com/s?k=1001+Albums+You+Must+Hear+Before+You+Die+General+Editor+Robert+Dimery+Robert+Dimery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1001 Albums You Must Hear Before You Die General Editor Robert Dimery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7798355-M.jpg" alt="Cover for 1001 Albums You Must Hear Before You Die General Editor Robert Dimery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+    <div class="fr-book-info">
+    <h4 class="fr-book-title">
+    <a href="https://www.amazon.com/s?k=1001+Albums+You+Must+Hear+Before+You+Die+General+Editor+Robert+Dimery+Robert+Dimery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1001 Albums You Must Hear Before You Die General Editor Robert Dimery">1001 Albums You Must Hear Before You Die General Editor Rober...</a>
+    </h4>
+    <p class="fr-book-author">By Robert Dimery</p>
+        
+    <p class="fr-book-desc">First published 2011.</p>
+    <div class="fr-book-actions">
+    <a href="https://www.amazon.com/s?k=1001+Albums+You+Must+Hear+Before+You+Die+General+Editor+Robert+Dimery+Robert+Dimery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+    </a>
+    </div>
+    </div>
+    </article>
+
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=vinyl+records+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vinyl culture</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=music+sound+engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound &amp; recording</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=best+albums+guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Album guides</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
+
 </div>
 </section>
 
