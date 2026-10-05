@@ -260,6 +260,7 @@ prev_link:
   short_title: Revenue
   heading_title: Why Sync Money Is Big but Not Magic
 date: '2026-06-11 23:36:49 '
+last_modified_at: '2026-06-11 23:36:49 '
 header:
   og_image: /assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1.webp

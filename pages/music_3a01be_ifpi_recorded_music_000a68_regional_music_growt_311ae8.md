@@ -260,6 +260,7 @@ prev_link:
   short_title: Paid Streaming
   heading_title: How Subscriptions Became The Growth Engine
 date: '2026-06-11 23:29:39 '
+last_modified_at: '2026-06-11 23:29:39 '
 header:
   og_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_regional_music_growt_311ae8-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68_regional_music_growt_311ae8-Illustration-1.webp

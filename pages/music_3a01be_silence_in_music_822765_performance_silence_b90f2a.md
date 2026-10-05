@@ -266,6 +266,7 @@ next_link:
   short_title: Recording Space
   heading_title: Why Silence Shapes the Impact of Recorded Music
 date: '2026-06-11 23:18:34 '
+last_modified_at: '2026-06-11 23:18:34 '
 header:
   og_image: /assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1.webp

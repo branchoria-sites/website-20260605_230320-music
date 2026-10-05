@@ -260,6 +260,7 @@ prev_link:
   short_title: Love Nwantiti
   heading_title: How Love Nwantiti Travelled Beyond Nigeria
 date: '2026-06-11 23:39:36 '
+last_modified_at: '2026-06-11 23:39:36 '
 header:
   og_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_uk_afrobeats_nightli_2c85b0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_afrobeats_global_cir_80f305_uk_afrobeats_nightli_2c85b0-Illustration-1.webp

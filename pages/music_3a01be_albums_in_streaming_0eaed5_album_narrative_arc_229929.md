@@ -259,6 +259,7 @@ next_link:
   short_title: Album Variants
   heading_title: Are Album Variants Fandom or Chart Strategy?
 date: '2026-06-11 23:23:03 '
+last_modified_at: '2026-06-11 23:23:03 '
 header:
   og_image: /assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1.webp

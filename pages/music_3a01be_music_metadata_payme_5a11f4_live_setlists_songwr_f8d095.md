@@ -266,6 +266,7 @@ next_link:
   short_title: Song Splits
   heading_title: Why song splits can freeze royalty money
 date: '2026-06-11 23:50:14 '
+last_modified_at: '2026-06-11 23:50:14 '
 header:
   og_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_live_setlists_songwr_f8d095-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_live_setlists_songwr_f8d095-Illustration-1.webp

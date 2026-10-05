@@ -493,6 +493,7 @@ next_link:
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 date: '2026-06-11 23:14:34 '
+last_modified_at: '2026-06-11 23:14:34 '
 header:
   og_image: /assets/images/music_3a01be_songwriting_royaltie_389052-overview-social.jpg
   preview_image: /assets/images/music_3a01be_songwriting_royaltie_389052-overview.webp

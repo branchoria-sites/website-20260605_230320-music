@@ -266,6 +266,7 @@ next_link:
   short_title: Shared Singing
   heading_title: Why Singing Hymns Together Feels So Powerful
 date: '2026-06-11 23:28:39 '
+last_modified_at: '2026-06-11 23:28:39 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2-Illustration-1.webp

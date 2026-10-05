@@ -266,6 +266,7 @@ next_link:
   short_title: Editorial Adds
   heading_title: Do Editorial Playlists Still Make Hits?
 date: '2026-06-11 23:52:26 '
+last_modified_at: '2026-06-11 23:52:26 '
 header:
   og_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-1.webp

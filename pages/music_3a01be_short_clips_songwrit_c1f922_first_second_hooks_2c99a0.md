@@ -266,6 +266,7 @@ next_link:
   short_title: Song Revivals
   heading_title: How Old Songs Become New Hits Again
 date: '2026-06-11 23:24:24 '
+last_modified_at: '2026-06-11 23:24:24 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1.webp

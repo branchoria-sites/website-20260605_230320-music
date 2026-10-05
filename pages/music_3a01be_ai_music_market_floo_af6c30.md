@@ -493,6 +493,7 @@ next_link:
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 date: '2026-06-11 23:08:37 '
+last_modified_at: '2026-06-11 23:08:37 '
 header:
   og_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30-overview-social.jpg
   preview_image: /assets/images/music_3a01be_ai_music_market_floo_af6c30-overview.webp

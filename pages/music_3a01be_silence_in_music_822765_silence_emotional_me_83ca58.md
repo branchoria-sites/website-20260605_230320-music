@@ -266,6 +266,7 @@ next_link:
   short_title: Pauses & Tension
   heading_title: How Pauses Build Anticipation in Music
 date: '2026-06-11 23:19:48 '
+last_modified_at: '2026-06-11 23:19:48 '
 header:
   og_image: /assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1.webp

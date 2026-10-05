@@ -266,6 +266,7 @@ next_link:
   short_title: Photocards
   heading_title: Why fans buy albums they do not play
 date: '2026-06-11 23:17:57 '
+last_modified_at: '2026-06-11 23:17:57 '
 header:
   og_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-1.webp

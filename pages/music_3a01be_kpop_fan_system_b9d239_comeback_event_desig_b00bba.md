@@ -260,6 +260,7 @@ next_link:
   short_title: Dance Hooks
   heading_title: Why K pop choruses are built to move
 date: '2026-06-11 23:17:37 '
+last_modified_at: '2026-06-11 23:17:37 '
 header:
   og_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_comeback_event_desig_b00bba-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_kpop_fan_system_b9d239_comeback_event_desig_b00bba-Illustration-1.webp

@@ -493,6 +493,7 @@ next_link:
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 date: '2026-06-11 23:12:07 '
+last_modified_at: '2026-06-11 23:12:07 '
 header:
   og_image: /assets/images/music_3a01be_music_rights_complic_6e7958-overview-social.jpg
   preview_image: /assets/images/music_3a01be_music_rights_complic_6e7958-overview.webp

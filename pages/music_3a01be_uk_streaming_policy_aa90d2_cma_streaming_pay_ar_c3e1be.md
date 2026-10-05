@@ -260,6 +260,7 @@ next_link:
   short_title: ER debate
   heading_title: Would equitable remuneration really fix streaming pay?
 date: '2026-06-11 23:37:19 '
+last_modified_at: '2026-06-11 23:37:19 '
 header:
   og_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1.webp

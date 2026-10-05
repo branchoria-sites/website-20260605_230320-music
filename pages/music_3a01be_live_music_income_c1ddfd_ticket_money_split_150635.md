@@ -260,6 +260,7 @@ prev_link:
   short_title: Small Gigs
   heading_title: When a Small Gig Actually Pays Off
 date: '2026-06-11 23:18:27 '
+last_modified_at: '2026-06-11 23:18:27 '
 header:
   og_image: /assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-1.webp

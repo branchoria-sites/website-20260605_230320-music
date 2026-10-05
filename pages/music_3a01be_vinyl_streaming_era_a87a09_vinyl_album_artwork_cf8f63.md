@@ -260,6 +260,7 @@ next_link:
   short_title: Ownership
   heading_title: Why Vinyl Still Feels Like Owning Music
 date: '2026-06-11 23:25:27 '
+last_modified_at: '2026-06-11 23:25:27 '
 header:
   og_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1.webp

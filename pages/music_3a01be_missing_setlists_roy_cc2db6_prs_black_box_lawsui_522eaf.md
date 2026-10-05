@@ -260,6 +260,7 @@ prev_link:
   short_title: Paper Setlists
   heading_title: Can A Handwritten Setlist Prove A Royalty Claim?
 date: '2026-06-11 23:48:26 '
+last_modified_at: '2026-06-11 23:48:26 '
 header:
   og_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1.webp

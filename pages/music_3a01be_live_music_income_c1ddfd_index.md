@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-live-music-income-c1ddfd/
 description: Focused pages that expand on Live Income.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: music_3a01be_live_music_income_c1ddfd
 parent_title: Live Income

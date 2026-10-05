@@ -266,6 +266,7 @@ next_link:
   short_title: Reformation
   heading_title: When Hymns Put Worship Into Every Voice
 date: '2026-06-11 23:20:51 '
+last_modified_at: '2026-06-11 23:20:51 '
 header:
   og_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1.webp

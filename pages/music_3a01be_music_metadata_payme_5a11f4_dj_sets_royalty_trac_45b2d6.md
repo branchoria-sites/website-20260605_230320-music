@@ -266,6 +266,7 @@ next_link:
   short_title: Setlists
   heading_title: The setlist is a royalty payment trail
 date: '2026-06-11 23:49:40 '
+last_modified_at: '2026-06-11 23:49:40 '
 header:
   og_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-1.webp

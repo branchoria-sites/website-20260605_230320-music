@@ -266,6 +266,7 @@ next_link:
   short_title: Early Hooks
   heading_title: How Fast Does a Song Need to Grab You?
 date: '2026-06-11 23:56:05 '
+last_modified_at: '2026-06-11 23:56:05 '
 header:
   og_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1.webp

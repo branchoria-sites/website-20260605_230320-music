@@ -260,6 +260,7 @@ prev_link:
   short_title: Song Memory
   heading_title: Connecting Modern Movements with Historical Protest Songs
 date: '2026-06-11 23:32:56 '
+last_modified_at: '2026-06-11 23:32:56 '
 header:
   og_image: /assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-1.webp

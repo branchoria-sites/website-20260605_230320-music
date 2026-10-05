@@ -493,6 +493,7 @@ next_link:
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 date: '2026-06-11 23:05:55 '
+last_modified_at: '2026-06-11 23:05:55 '
 header:
   og_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68-overview-social.jpg
   preview_image: /assets/images/music_3a01be_ifpi_recorded_music_000a68-overview.webp

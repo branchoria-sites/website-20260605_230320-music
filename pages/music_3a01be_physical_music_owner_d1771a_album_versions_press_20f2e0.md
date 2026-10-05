@@ -266,6 +266,7 @@ next_link:
   short_title: Photo Cards
   heading_title: Why K pop Albums Became Collectible Kits
 date: '2026-06-11 23:51:41 '
+last_modified_at: '2026-06-11 23:51:41 '
 header:
   og_image: /assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1.webp

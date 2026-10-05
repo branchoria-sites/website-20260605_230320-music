@@ -260,6 +260,7 @@ next_link:
   short_title: Licensing
   heading_title: Who gets paid when AI trains on songs?
 date: '2026-06-11 23:20:30 '
+last_modified_at: '2026-06-11 23:20:30 '
 header:
   og_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1-social.jpg
   preview_image: /assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1.webp

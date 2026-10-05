@@ -493,6 +493,7 @@ next_link:
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 date: '2026-06-11 23:10:40 '
+last_modified_at: '2026-06-11 23:10:40 '
 header:
   og_image: /assets/images/music_3a01be_melody_memorable_son_84318f-overview-social.jpg
   preview_image: /assets/images/music_3a01be_melody_memorable_son_84318f-overview.webp
