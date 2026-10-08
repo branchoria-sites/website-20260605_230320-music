@@ -233,7 +233,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-afrobeats-global-cir-80f305" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'afrobeats/' | relative_url }}" title="How Afrobeats Crossed Global Borders | Music" aria-label="Open page: How Afrobeats Crossed Global Borders | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'afrobeats/' | relative_url }}" title="How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Open page: How Afrobeats Crossed Global Borders | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_afrobeats_global_cir_80f305-overview.webp' | relative_url }}" alt="Overview image for How Afrobeats Crossed Global Borders | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -255,7 +255,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-afrobeats-global-cir-80f305-calm-down-pop-crosso-97f08c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'calm-down/' | relative_url }}" title="Did Calm Down Change Pop Crossover Rules? | Music 3 A01 Be Afrobeats Global Cir" aria-label="Open page: Did Calm Down Change Pop Crossover Rules? | Music 3 A01 Be Afrobeats Global Cir">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'calm-down/' | relative_url }}" title="Did Calm Down Change Pop Crossover Rules? | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Open page: Did Calm Down Change Pop Crossover Rules? | How Afrobeats Crossed Global Borders | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_afrobeats_global_cir_80f305_calm_down_pop_crosso_97f08c-Illustration-1.webp' | relative_url }}" alt="Overview image for Did Calm Down Change Pop Crossover Rules? | Music 3 A01 Be Afrobeats Global Cir" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -275,7 +275,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-afrobeats-global-cir-80f305-afro-nation-tourism-5d363b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'afro-nation/' | relative_url }}" title="How Festivals Turn Afrobeats Into Travel | Music 3 A01 Be Afrobeats Global Cir" aria-label="Open page: How Festivals Turn Afrobeats Into Travel | Music 3 A01 Be Afrobeats Global Cir">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'afro-nation/' | relative_url }}" title="How Festivals Turn Afrobeats Into Travel | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Open page: How Festivals Turn Afrobeats Into Travel | How Afrobeats Crossed Global Borders | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_afrobeats_global_cir_80f305_afro_nation_tourism_5d363b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Festivals Turn Afrobeats Into Travel | Music 3 A01 Be Afrobeats Global Cir" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -295,7 +295,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-afrobeats-global-cir-80f305-love-nwantiti-remix-f2f47d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'love-nwantiti/' | relative_url }}" title="How Love Nwantiti Travelled Beyond Nigeria | Music 3 A01 Be Afrobeats Global Cir" aria-label="Open page: How Love Nwantiti Travelled Beyond Nigeria | Music 3 A01 Be Afrobeats Global Cir">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'love-nwantiti/' | relative_url }}" title="How Love Nwantiti Travelled Beyond Nigeria | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Open page: How Love Nwantiti Travelled Beyond Nigeria | How Afrobeats Crossed Global Borders | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_afrobeats_global_cir_80f305_love_nwantiti_remix_f2f47d-Illustration-1.webp' | relative_url }}" alt="Overview image for How Love Nwantiti Travelled Beyond Nigeria | Music 3 A01 Be Afrobeats Global Cir" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -315,7 +315,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-afrobeats-global-cir-80f305-afrobeats-chart-reco-3666d5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'charts/' | relative_url }}" title="Why Afrobeats Needed Its Own Charts | Music 3 A01 Be Afrobeats Global Cir" aria-label="Open page: Why Afrobeats Needed Its Own Charts | Music 3 A01 Be Afrobeats Global Cir">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'charts/' | relative_url }}" title="Why Afrobeats Needed Its Own Charts | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Open page: Why Afrobeats Needed Its Own Charts | How Afrobeats Crossed Global Borders | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_afrobeats_global_cir_80f305_afrobeats_chart_reco_3666d5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Afrobeats Needed Its Own Charts | Music 3 A01 Be Afrobeats Global Cir" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -335,7 +335,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-afrobeats-global-cir-80f305-uk-afrobeats-nightli-2c85b0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'uk-nightlife/' | relative_url }}" title="Why UK Parties Mattered for Afrobeats | Music 3 A01 Be Afrobeats Global Cir" aria-label="Open page: Why UK Parties Mattered for Afrobeats | Music 3 A01 Be Afrobeats Global Cir">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'uk-nightlife/' | relative_url }}" title="Why UK Parties Mattered for Afrobeats | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Open page: Why UK Parties Mattered for Afrobeats | How Afrobeats Crossed Global Borders | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_afrobeats_global_cir_80f305_uk_afrobeats_nightli_2c85b0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why UK Parties Mattered for Afrobeats | Music 3 A01 Be Afrobeats Global Cir" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -379,7 +379,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-music-market-floo-af6c30-ai-music-platform-ru-46560e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'platform-rules/' | relative_url }}" title="Can Platforms Police AI Music Floods? | Music 3 A01 Be AI Music Market Floo" aria-label="Open page: Can Platforms Police AI Music Floods? | Music 3 A01 Be AI Music Market Floo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'platform-rules/' | relative_url }}" title="Can Platforms Police AI Music Floods? | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Open page: Can Platforms Police AI Music Floods? | Could AI Flood The Music Market? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_music_platform_ru_46560e-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Platforms Police AI Music Floods? | Music 3 A01 Be AI Music Market Floo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -399,7 +399,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-music-market-floo-af6c30-ai-bot-streaming-fra-42a61f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bot-fraud/' | relative_url }}" title="How AI Songs Turned Into Streaming Fraud | Music 3 A01 Be AI Music Market Floo" aria-label="Open page: How AI Songs Turned Into Streaming Fraud | Music 3 A01 Be AI Music Market Floo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bot-fraud/' | relative_url }}" title="How AI Songs Turned Into Streaming Fraud | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Open page: How AI Songs Turned Into Streaming Fraud | Could AI Flood The Music Market? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_bot_streaming_fra_42a61f-Illustration-1.webp' | relative_url }}" alt="Overview image for How AI Songs Turned Into Streaming Fraud | Music 3 A01 Be AI Music Market Floo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -419,7 +419,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-music-market-floo-af6c30-deezer-ai-upload-sur-c5e003" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'deezer-surge/' | relative_url }}" title="What Deezer&#x27;s AI Upload Surge Reveals | Music 3 A01 Be AI Music Market Floo" aria-label="Open page: What Deezer&#x27;s AI Upload Surge Reveals | Music 3 A01 Be AI Music Market Floo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'deezer-surge/' | relative_url }}" title="What Deezer's AI Upload Surge Reveals | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Open page: What Deezer's AI Upload Surge Reveals | Could AI Flood The Music Market? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_music_market_floo_af6c30_deezer_ai_upload_sur_c5e003-Illustration-1.webp' | relative_url }}" alt="Overview image for What Deezer&#x27;s AI Upload Surge Reveals | Music 3 A01 Be AI Music Market Floo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -439,7 +439,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-music-market-floo-af6c30-ai-background-music-8318a6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'middle-market/' | relative_url }}" title="Where AI Music Hits Working Musicians First | Music 3 A01 Be AI Music Market Floo" aria-label="Open page: Where AI Music Hits Working Musicians First | Music 3 A01 Be AI Music Market Floo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'middle-market/' | relative_url }}" title="Where AI Music Hits Working Musicians First | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Open page: Where AI Music Hits Working Musicians First | Could AI Flood The Music Market? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_music_market_floo_af6c30_ai_background_music_8318a6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where AI Music Hits Working Musicians First | Music 3 A01 Be AI Music Market Floo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -459,7 +459,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-music-market-floo-af6c30-suno-udio-substituti-3ed676" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'training-disputes/' | relative_url }}" title="Why AI Music Lawsuits Matter for Flooding | Music 3 A01 Be AI Music Market Floo" aria-label="Open page: Why AI Music Lawsuits Matter for Flooding | Music 3 A01 Be AI Music Market Floo">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'training-disputes/' | relative_url }}" title="Why AI Music Lawsuits Matter for Flooding | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Open page: Why AI Music Lawsuits Matter for Flooding | Could AI Flood The Music Market? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_music_market_floo_af6c30_suno_udio_substituti_3ed676-Illustration-1.webp' | relative_url }}" alt="Overview image for Why AI Music Lawsuits Matter for Flooding | Music 3 A01 Be AI Music Market Floo" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -503,7 +503,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-generated-music-a-2817f7-prompt-copyright-lin-6b5add" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'prompt-copyright/' | relative_url }}" title="Can a Prompt Make a Song Copyrightable? | Music 3 A01 Be AI Generated Music" aria-label="Open page: Can a Prompt Make a Song Copyrightable? | Music 3 A01 Be AI Generated Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'prompt-copyright/' | relative_url }}" title="Can a Prompt Make a Song Copyrightable? | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Open page: Can a Prompt Make a Song Copyrightable? | Who Gets Credit For AI Made Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_generated_music_a_2817f7_prompt_copyright_lin_6b5add-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Prompt Make a Song Copyrightable? | Music 3 A01 Be AI Generated Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -523,7 +523,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-generated-music-a-2817f7-deezer-ai-uploads-8d793c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'upload-flood/' | relative_url }}" title="How AI Tracks Flood Streaming Platforms | Music 3 A01 Be AI Generated Music" aria-label="Open page: How AI Tracks Flood Streaming Platforms | Music 3 A01 Be AI Generated Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'upload-flood/' | relative_url }}" title="How AI Tracks Flood Streaming Platforms | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Open page: How AI Tracks Flood Streaming Platforms | Who Gets Credit For AI Made Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_generated_music_a_2817f7_deezer_ai_uploads_8d793c-Illustration-1.webp' | relative_url }}" alt="Overview image for How AI Tracks Flood Streaming Platforms | Music 3 A01 Be AI Generated Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -543,7 +543,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-generated-music-a-2817f7-ai-assisted-musician-b147ab" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'assist-or-replace/' | relative_url }}" title="When AI Helps Rather Than Replaces Musicians | Music 3 A01 Be AI Generated Music" aria-label="Open page: When AI Helps Rather Than Replaces Musicians | Music 3 A01 Be AI Generated Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'assist-or-replace/' | relative_url }}" title="When AI Helps Rather Than Replaces Musicians | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Open page: When AI Helps Rather Than Replaces Musicians | Who Gets Credit For AI Made Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_assisted_musician_b147ab-Illustration-1.webp' | relative_url }}" alt="Overview image for When AI Helps Rather Than Replaces Musicians | Music 3 A01 Be AI Generated Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -563,7 +563,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-generated-music-a-2817f7-ai-voice-clones-cad1f4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'voice-clones/' | relative_url }}" title="When an AI Song Sounds Like a Star | Music 3 A01 Be AI Generated Music" aria-label="Open page: When an AI Song Sounds Like a Star | Music 3 A01 Be AI Generated Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'voice-clones/' | relative_url }}" title="When an AI Song Sounds Like a Star | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Open page: When an AI Song Sounds Like a Star | Who Gets Credit For AI Made Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_generated_music_a_2817f7_ai_voice_clones_cad1f4-Illustration-1.webp' | relative_url }}" alt="Overview image for When an AI Song Sounds Like a Star | Music 3 A01 Be AI Generated Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -583,7 +583,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-generated-music-a-2817f7-heart-on-my-sleeve-274ae7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-drake/' | relative_url }}" title="Why Heart on My Sleeve Was Removed | Music 3 A01 Be AI Generated Music" aria-label="Open page: Why Heart on My Sleeve Was Removed | Music 3 A01 Be AI Generated Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fake-drake/' | relative_url }}" title="Why Heart on My Sleeve Was Removed | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Open page: Why Heart on My Sleeve Was Removed | Who Gets Credit For AI Made Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_generated_music_a_2817f7_heart_on_my_sleeve_274ae7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Heart on My Sleeve Was Removed | Music 3 A01 Be AI Generated Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -627,7 +627,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-training-music-co-61ef1b-fair-use-ai-music-4dc99c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-use/' | relative_url }}" title="Can AI music training be fair use? | Music 3 A01 Be AI Training Music" aria-label="Open page: Can AI music training be fair use? | Music 3 A01 Be AI Training Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fair-use/' | relative_url }}" title="Can AI music training be fair use? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Open page: Can AI music training be fair use? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_training_music_co_61ef1b_fair_use_ai_music_4dc99c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can AI music training be fair use? | Music 3 A01 Be AI Training Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -647,7 +647,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-training-music-co-61ef1b-music-ai-dataset-tra-b7812c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'transparency-d9b91c/' | relative_url }}" title="The hidden dataset problem in AI music | Music 3 A01 Be AI Training Music" aria-label="Open page: The hidden dataset problem in AI music | Music 3 A01 Be AI Training Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'transparency-d9b91c/' | relative_url }}" title="The hidden dataset problem in AI music | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Open page: The hidden dataset problem in AI music | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_training_music_co_61ef1b_music_ai_dataset_tra_b7812c-Illustration-1.webp' | relative_url }}" alt="Overview image for The hidden dataset problem in AI music | Music 3 A01 Be AI Training Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -667,7 +667,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-training-music-co-61ef1b-artist-voice-imitati-6741d8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'voice-imitation/' | relative_url }}" title="When AI sounds too much like an artist | Music 3 A01 Be AI Training Music" aria-label="Open page: When AI sounds too much like an artist | Music 3 A01 Be AI Training Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'voice-imitation/' | relative_url }}" title="When AI sounds too much like an artist | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Open page: When AI sounds too much like an artist | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_training_music_co_61ef1b_artist_voice_imitati_6741d8-Illustration-1.webp' | relative_url }}" alt="Overview image for When AI sounds too much like an artist | Music 3 A01 Be AI Training Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -687,7 +687,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-training-music-co-61ef1b-ai-music-licensing-ff3a00" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensing/' | relative_url }}" title="Who gets paid when AI trains on songs? | Music 3 A01 Be AI Training Music" aria-label="Open page: Who gets paid when AI trains on songs? | Music 3 A01 Be AI Training Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'licensing/' | relative_url }}" title="Who gets paid when AI trains on songs? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Open page: Who gets paid when AI trains on songs? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_training_music_co_61ef1b_ai_music_licensing_ff3a00-Illustration-1.webp' | relative_url }}" alt="Overview image for Who gets paid when AI trains on songs? | Music 3 A01 Be AI Training Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -707,7 +707,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ai-training-music-co-61ef1b-suno-udio-lawsuits-219c1e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'suno-and-udio/' | relative_url }}" title="Why the Suno and Udio lawsuits matter | Music 3 A01 Be AI Training Music" aria-label="Open page: Why the Suno and Udio lawsuits matter | Music 3 A01 Be AI Training Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'suno-and-udio/' | relative_url }}" title="Why the Suno and Udio lawsuits matter | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Open page: Why the Suno and Udio lawsuits matter | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ai_training_music_co_61ef1b_suno_udio_lawsuits_219c1e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Suno and Udio lawsuits matter | Music 3 A01 Be AI Training Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -729,7 +729,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-albums-in-streaming-0eaed5" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'albums/' | relative_url }}" title="Why Albums Still Matter Now | Music" aria-label="Open page: Why Albums Still Matter Now | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'albums/' | relative_url }}" title="Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Open page: Why Albums Still Matter Now | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_albums_in_streaming_0eaed5-overview.webp' | relative_url }}" alt="Overview image for Why Albums Still Matter Now | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -751,7 +751,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-albums-in-streaming-0eaed5-album-variants-super-10c95b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'album-variants/' | relative_url }}" title="Are Album Variants Fandom or Chart Strategy? | Music 3 A01 Be Albums In Streaming" aria-label="Open page: Are Album Variants Fandom or Chart Strategy? | Music 3 A01 Be Albums In Streaming">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'album-variants/' | relative_url }}" title="Are Album Variants Fandom or Chart Strategy? | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Open page: Are Album Variants Fandom or Chart Strategy? | Why Albums Still Matter Now | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_albums_in_streaming_0eaed5_album_variants_super_10c95b-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Album Variants Fandom or Chart Strategy? | Music 3 A01 Be Albums In Streaming" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -771,7 +771,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-albums-in-streaming-0eaed5-vinyl-album-experien-a1bc48" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vinyl-album-experien-a1-bc-48/' | relative_url }}" title="Vinyl Album Experien | Music 3 A01 Be Albums In Streaming" aria-label="Open page: Vinyl Album Experien | Music 3 A01 Be Albums In Streaming">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vinyl-album-experien-a1-bc-48/' | relative_url }}" title="Vinyl Album Experien A1 Bc 48 | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Open page: Vinyl Album Experien A1 Bc 48 | Why Albums Still Matter Now | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_albums_in_streaming_0eaed5_vinyl_album_experien_a1bc48-Illustration-1.webp' | relative_url }}" alt="Overview image for Vinyl Album Experien | Music 3 A01 Be Albums In Streaming" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -790,7 +790,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-albums-in-streaming-0eaed5-album-narrative-arc-229929" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'album-arc/' | relative_url }}" title="What Gets Lost When Songs Leave the Album? | Music 3 A01 Be Albums In Streaming" aria-label="Open page: What Gets Lost When Songs Leave the Album? | Music 3 A01 Be Albums In Streaming">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'album-arc/' | relative_url }}" title="What Gets Lost When Songs Leave the Album? | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Open page: What Gets Lost When Songs Leave the Album? | Why Albums Still Matter Now | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_albums_in_streaming_0eaed5_album_narrative_arc_229929-Illustration-1.webp' | relative_url }}" alt="Overview image for What Gets Lost When Songs Leave the Album? | Music 3 A01 Be Albums In Streaming" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -810,7 +810,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-albums-in-streaming-0eaed5-albums-and-fan-loyal-b3d772" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-loyalty/' | relative_url }}" title="Why Albums Matter Beyond Streaming Numbers | Music 3 A01 Be Albums In Streaming" aria-label="Open page: Why Albums Matter Beyond Streaming Numbers | Music 3 A01 Be Albums In Streaming">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-loyalty/' | relative_url }}" title="Why Albums Matter Beyond Streaming Numbers | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Open page: Why Albums Matter Beyond Streaming Numbers | Why Albums Still Matter Now | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_albums_in_streaming_0eaed5_albums_and_fan_loyal_b3d772-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Albums Matter Beyond Streaming Numbers | Music 3 A01 Be Albums In Streaming" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -830,7 +830,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-albums-in-streaming-0eaed5-album-release-fan-ev-fb0ed5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-rituals-ece6aa/' | relative_url }}" title="Why Do Fans Still Gather Around Album Releases? | Music 3 A01 Be Albums In Streaming" aria-label="Open page: Why Do Fans Still Gather Around Album Releases? | Music 3 A01 Be Albums In Streaming">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-rituals-ece6aa/' | relative_url }}" title="Why Do Fans Still Gather Around Album Releases? | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Open page: Why Do Fans Still Gather Around Album Releases? | Why Albums Still Matter Now | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_albums_in_streaming_0eaed5_album_release_fan_ev_fb0ed5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Do Fans Still Gather Around Album Releases? | Music 3 A01 Be Albums In Streaming" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -874,7 +874,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recommendation-syste-136ac5-spotify-diversity-tr-a5eee0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'diversity-tradeoff/' | relative_url }}" title="Can recommendations stay relevant and diverse? | Music 3 A01 Be Recommendation Syste" aria-label="Open page: Can recommendations stay relevant and diverse? | Music 3 A01 Be Recommendation Syste">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'diversity-tradeoff/' | relative_url }}" title="Can recommendations stay relevant and diverse? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Open page: Can recommendations stay relevant and diverse? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recommendation_syste_136ac5_spotify_diversity_tr_a5eee0-Illustration-1.webp' | relative_url }}" alt="Overview image for Can recommendations stay relevant and diverse? | Music 3 A01 Be Recommendation Syste" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -894,7 +894,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recommendation-syste-136ac5-personalised-playlis-7ef555" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlist-loops/' | relative_url }}" title="Do personalised playlists make taste smaller? | Music 3 A01 Be Recommendation Syste" aria-label="Open page: Do personalised playlists make taste smaller? | Music 3 A01 Be Recommendation Syste">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlist-loops/' | relative_url }}" title="Do personalised playlists make taste smaller? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Open page: Do personalised playlists make taste smaller? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recommendation_syste_136ac5_personalised_playlis_7ef555-Illustration-1.webp' | relative_url }}" alt="Overview image for Do personalised playlists make taste smaller? | Music 3 A01 Be Recommendation Syste" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -914,7 +914,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recommendation-syste-136ac5-mood-recommendations-563861" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mood-matching/' | relative_url }}" title="How mood playlists changed music discovery | Music 3 A01 Be Recommendation Syste" aria-label="Open page: How mood playlists changed music discovery | Music 3 A01 Be Recommendation Syste">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mood-matching/' | relative_url }}" title="How mood playlists changed music discovery | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Open page: How mood playlists changed music discovery | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recommendation_syste_136ac5_mood_recommendations_563861-Illustration-1.webp' | relative_url }}" alt="Overview image for How mood playlists changed music discovery | Music 3 A01 Be Recommendation Syste" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -934,7 +934,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recommendation-syste-136ac5-autoplay-passive-dis-e3091a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'autoplay/' | relative_url }}" title="Who chooses the next song? | Music 3 A01 Be Recommendation Syste" aria-label="Open page: Who chooses the next song? | Music 3 A01 Be Recommendation Syste">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'autoplay/' | relative_url }}" title="Who chooses the next song? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Open page: Who chooses the next song? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recommendation_syste_136ac5_autoplay_passive_dis_e3091a-Illustration-1.webp' | relative_url }}" alt="Overview image for Who chooses the next song? | Music 3 A01 Be Recommendation Syste" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -954,7 +954,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recommendation-syste-136ac5-cold-start-new-artis-c3cf31" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cold-start/' | relative_url }}" title="Why new artists are hard to recommend | Music 3 A01 Be Recommendation Syste" aria-label="Open page: Why new artists are hard to recommend | Music 3 A01 Be Recommendation Syste">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cold-start/' | relative_url }}" title="Why new artists are hard to recommend | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Open page: Why new artists are hard to recommend | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recommendation_syste_136ac5_cold_start_new_artis_c3cf31-Illustration-1.webp' | relative_url }}" alt="Overview image for Why new artists are hard to recommend | Music 3 A01 Be Recommendation Syste" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -976,7 +976,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-music-attention-scar-4f6aff" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'attention/' | relative_url }}" title="Why Being Available Is Not Being Heard | Music" aria-label="Open page: Why Being Available Is Not Being Heard | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'attention/' | relative_url }}" title="Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Open page: Why Being Available Is Not Being Heard | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_attention_scar_4f6aff-overview.webp' | relative_url }}" alt="Overview image for Why Being Available Is Not Being Heard | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -998,7 +998,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-attention-scar-4f6aff-recommendation-fairn-84b6ce" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'algorithms-e34b11/' | relative_url }}" title="Do Music Algorithms Broaden Taste? | Music 3 A01 Be Music Attention Scar" aria-label="Open page: Do Music Algorithms Broaden Taste? | Music 3 A01 Be Music Attention Scar">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'algorithms-e34b11/' | relative_url }}" title="Do Music Algorithms Broaden Taste? | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Open page: Do Music Algorithms Broaden Taste? | Why Being Available Is Not Being Heard | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_attention_scar_4f6aff_recommendation_fairn_84b6ce-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Music Algorithms Broaden Taste? | Music 3 A01 Be Music Attention Scar" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1018,7 +1018,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-attention-scar-4f6aff-catalogue-attention-e5f1a4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'catalogue-gap/' | relative_url }}" title="How Big Can The Music Shelf Get? | Music 3 A01 Be Music Attention Scar" aria-label="Open page: How Big Can The Music Shelf Get? | Music 3 A01 Be Music Attention Scar">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'catalogue-gap/' | relative_url }}" title="How Big Can The Music Shelf Get? | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Open page: How Big Can The Music Shelf Get? | Why Being Available Is Not Being Heard | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_attention_scar_4f6aff_catalogue_attention_e5f1a4-Illustration-1.webp' | relative_url }}" alt="Overview image for How Big Can The Music Shelf Get? | Music 3 A01 Be Music Attention Scar" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1038,7 +1038,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-attention-scar-4f6aff-spotify-stream-thres-6d0ae7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '1-000-streams-534c44/' | relative_url }}" title="What Does 1,000 Streams Really Signal? | Music 3 A01 Be Music Attention Scar" aria-label="Open page: What Does 1,000 Streams Really Signal? | Music 3 A01 Be Music Attention Scar">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '1-000-streams-534c44/' | relative_url }}" title="What Does 1,000 Streams Really Signal? | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Open page: What Does 1,000 Streams Really Signal? | Why Being Available Is Not Being Heard | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_attention_scar_4f6aff_spotify_stream_thres_6d0ae7-Illustration-1.webp' | relative_url }}" alt="Overview image for What Does 1,000 Streams Really Signal? | Music 3 A01 Be Music Attention Scar" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1058,7 +1058,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-attention-scar-4f6aff-playlist-context-pow-f4abc1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlist-power/' | relative_url }}" title="When A Playlist Frames The Song | Music 3 A01 Be Music Attention Scar" aria-label="Open page: When A Playlist Frames The Song | Music 3 A01 Be Music Attention Scar">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlist-power/' | relative_url }}" title="When A Playlist Frames The Song | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Open page: When A Playlist Frames The Song | Why Being Available Is Not Being Heard | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_attention_scar_4f6aff_playlist_context_pow_f4abc1-Illustration-1.webp' | relative_url }}" alt="Overview image for When A Playlist Frames The Song | Music 3 A01 Be Music Attention Scar" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1078,7 +1078,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-attention-scar-4f6aff-low-play-momentum-4052d1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'low-plays/' | relative_url }}" title="Why Songs Vanish After Release | Music 3 A01 Be Music Attention Scar" aria-label="Open page: Why Songs Vanish After Release | Music 3 A01 Be Music Attention Scar">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'low-plays/' | relative_url }}" title="Why Songs Vanish After Release | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Open page: Why Songs Vanish After Release | Why Being Available Is Not Being Heard | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_attention_scar_4f6aff_low_play_momentum_4052d1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Songs Vanish After Release | Music 3 A01 Be Music Attention Scar" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1100,7 +1100,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-catalogue-music-redi-46cae9" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'catalogue/' | relative_url }}" title="Why Old Songs Keep Coming Back | Music" aria-label="Open page: Why Old Songs Keep Coming Back | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'catalogue/' | relative_url }}" title="Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Open page: Why Old Songs Keep Coming Back | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_catalogue_music_redi_46cae9-overview.webp' | relative_url }}" alt="Overview image for Why Old Songs Keep Coming Back | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1122,7 +1122,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-catalogue-music-redi-46cae9-kate-bush-stranger-t-3797fd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'kate-bush/' | relative_url }}" title="How Stranger Things revived Kate Bush | Music 3 A01 Be Catalogue Music Redi" aria-label="Open page: How Stranger Things revived Kate Bush | Music 3 A01 Be Catalogue Music Redi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'kate-bush/' | relative_url }}" title="How Stranger Things revived Kate Bush | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Open page: How Stranger Things revived Kate Bush | Why Old Songs Keep Coming Back | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_catalogue_music_redi_46cae9_kate_bush_stranger_t_3797fd-Illustration-1.webp' | relative_url }}" alt="Overview image for How Stranger Things revived Kate Bush | Music 3 A01 Be Catalogue Music Redi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1142,7 +1142,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-catalogue-music-redi-46cae9-playlist-catalogue-u-4bd8d7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlists-5ecdfd/' | relative_url }}" title="When playlists make old songs useful again | Music 3 A01 Be Catalogue Music Redi" aria-label="Open page: When playlists make old songs useful again | Music 3 A01 Be Catalogue Music Redi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlists-5ecdfd/' | relative_url }}" title="When playlists make old songs useful again | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Open page: When playlists make old songs useful again | Why Old Songs Keep Coming Back | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_catalogue_music_redi_46cae9_playlist_catalogue_u_4bd8d7-Illustration-1.webp' | relative_url }}" alt="Overview image for When playlists make old songs useful again | Music 3 A01 Be Catalogue Music Redi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1162,7 +1162,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-catalogue-music-redi-46cae9-tiktok-catalogue-hoo-ec0fc6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tik-tok-hooks/' | relative_url }}" title="Why old hooks spread through short clips | Music 3 A01 Be Catalogue Music Redi" aria-label="Open page: Why old hooks spread through short clips | Music 3 A01 Be Catalogue Music Redi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tik-tok-hooks/' | relative_url }}" title="Why old hooks spread through short clips | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Open page: Why old hooks spread through short clips | Why Old Songs Keep Coming Back | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_catalogue_music_redi_46cae9_tiktok_catalogue_hoo_ec0fc6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why old hooks spread through short clips | Music 3 A01 Be Catalogue Music Redi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1182,7 +1182,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-catalogue-music-redi-46cae9-murder-dancefloor-sa-28dcc2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'saltburn-sync/' | relative_url }}" title="Why Saltburn sent a pop hit back | Music 3 A01 Be Catalogue Music Redi" aria-label="Open page: Why Saltburn sent a pop hit back | Music 3 A01 Be Catalogue Music Redi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'saltburn-sync/' | relative_url }}" title="Why Saltburn sent a pop hit back | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Open page: Why Saltburn sent a pop hit back | Why Old Songs Keep Coming Back | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_catalogue_music_redi_46cae9_murder_dancefloor_sa_28dcc2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Saltburn sent a pop hit back | Music 3 A01 Be Catalogue Music Redi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1202,7 +1202,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-catalogue-music-redi-46cae9-streaming-old-songs-5327a1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'streaming-0007b3/' | relative_url }}" title="Why streaming makes old songs feel current | Music 3 A01 Be Catalogue Music Redi" aria-label="Open page: Why streaming makes old songs feel current | Music 3 A01 Be Catalogue Music Redi">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'streaming-0007b3/' | relative_url }}" title="Why streaming makes old songs feel current | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Open page: Why streaming makes old songs feel current | Why Old Songs Keep Coming Back | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_catalogue_music_redi_46cae9_streaming_old_songs_5327a1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why streaming makes old songs feel current | Music 3 A01 Be Catalogue Music Redi" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1224,7 +1224,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-concerts-fan-memory-c3307b" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'concerts/' | relative_url }}" title="Why Concerts Feel Bigger Than Songs | Music" aria-label="Open page: Why Concerts Feel Bigger Than Songs | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'concerts/' | relative_url }}" title="Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Open page: Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_concerts_fan_memory_c3307b-overview.webp' | relative_url }}" alt="Overview image for Why Concerts Feel Bigger Than Songs | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1246,7 +1246,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-concerts-fan-memory-c3307b-phone-videos-memory-7f6007" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'phone-clips/' | relative_url }}" title="Do phone videos help or change memory? | Music 3 A01 Be Concerts Fan Memory" aria-label="Open page: Do phone videos help or change memory? | Music 3 A01 Be Concerts Fan Memory">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'phone-clips/' | relative_url }}" title="Do phone videos help or change memory? | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Open page: Do phone videos help or change memory? | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_concerts_fan_memory_c3307b_phone_videos_memory_7f6007-Illustration-1.webp' | relative_url }}" alt="Overview image for Do phone videos help or change memory? | Music 3 A01 Be Concerts Fan Memory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1266,7 +1266,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-concerts-fan-memory-c3307b-crowd-synchrony-memo-5b0b16" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'crowd-sync/' | relative_url }}" title="When a crowd becomes part of the song | Music 3 A01 Be Concerts Fan Memory" aria-label="Open page: When a crowd becomes part of the song | Music 3 A01 Be Concerts Fan Memory">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'crowd-sync/' | relative_url }}" title="When a crowd becomes part of the song | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Open page: When a crowd becomes part of the song | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_concerts_fan_memory_c3307b_crowd_synchrony_memo_5b0b16-Illustration-1.webp' | relative_url }}" alt="Overview image for When a crowd becomes part of the song | Music 3 A01 Be Concerts Fan Memory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1286,7 +1286,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-concerts-fan-memory-c3307b-fan-rituals-memory-3b0995" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-rituals/' | relative_url }}" title="Why concert rituals stick in memory | Music 3 A01 Be Concerts Fan Memory" aria-label="Open page: Why concert rituals stick in memory | Music 3 A01 Be Concerts Fan Memory">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-rituals/' | relative_url }}" title="Why concert rituals stick in memory | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Open page: Why concert rituals stick in memory | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_concerts_fan_memory_c3307b_fan_rituals_memory_3b0995-Illustration-1.webp' | relative_url }}" alt="Overview image for Why concert rituals stick in memory | Music 3 A01 Be Concerts Fan Memory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1306,7 +1306,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-concerts-fan-memory-c3307b-live-emotion-vs-reco-b04437" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'live-emotion/' | relative_url }}" title="Why live music hits harder in person | Music 3 A01 Be Concerts Fan Memory" aria-label="Open page: Why live music hits harder in person | Music 3 A01 Be Concerts Fan Memory">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'live-emotion/' | relative_url }}" title="Why live music hits harder in person | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Open page: Why live music hits harder in person | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_concerts_fan_memory_c3307b_live_emotion_vs_reco_b04437-Illustration-1.webp' | relative_url }}" alt="Overview image for Why live music hits harder in person | Music 3 A01 Be Concerts Fan Memory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1326,7 +1326,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-concerts-fan-memory-c3307b-setlists-memory-limi-abea3d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists-2c9d97/' | relative_url }}" title="Why the setlist is not the concert | Music 3 A01 Be Concerts Fan Memory" aria-label="Open page: Why the setlist is not the concert | Music 3 A01 Be Concerts Fan Memory">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists-2c9d97/' | relative_url }}" title="Why the setlist is not the concert | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Open page: Why the setlist is not the concert | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_concerts_fan_memory_c3307b_setlists_memory_limi_abea3d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the setlist is not the concert | Music 3 A01 Be Concerts Fan Memory" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1348,7 +1348,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-creator-pay-fairness-524c4c" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'creator-pay/' | relative_url }}" title="Why A Growing Industry Can Still Feel Unfair | Music" aria-label="Open page: Why A Growing Industry Can Still Feel Unfair | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'creator-pay/' | relative_url }}" title="Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Open page: Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_creator_pay_fairness_524c4c-overview.webp' | relative_url }}" alt="Overview image for Why A Growing Industry Can Still Feel Unfair | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1370,7 +1370,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-creator-pay-fairness-524c4c-label-contract-strea-69ae96" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'label-deals/' | relative_url }}" title="When Old Record Deals Meet Streaming Money | Music 3 A01 Be Creator Pay Fairness" aria-label="Open page: When Old Record Deals Meet Streaming Money | Music 3 A01 Be Creator Pay Fairness">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'label-deals/' | relative_url }}" title="When Old Record Deals Meet Streaming Money | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Open page: When Old Record Deals Meet Streaming Money | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_creator_pay_fairness_524c4c_label_contract_strea_69ae96-Illustration-1.webp' | relative_url }}" alt="Overview image for When Old Record Deals Meet Streaming Money | Music 3 A01 Be Creator Pay Fairness" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1390,7 +1390,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-creator-pay-fairness-524c4c-spotify-1000-stream-720626" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '1-000-streams/' | relative_url }}" title="Who Loses When Streams Fall Below the Line? | Music 3 A01 Be Creator Pay Fairness" aria-label="Open page: Who Loses When Streams Fall Below the Line? | Music 3 A01 Be Creator Pay Fairness">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '1-000-streams/' | relative_url }}" title="Who Loses When Streams Fall Below the Line? | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Open page: Who Loses When Streams Fall Below the Line? | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_creator_pay_fairness_524c4c_spotify_1000_stream_720626-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Loses When Streams Fall Below the Line? | Music 3 A01 Be Creator Pay Fairness" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1410,7 +1410,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-creator-pay-fairness-524c4c-streaming-transparen-180654" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'transparency-6c916a/' | relative_url }}" title="Why Bigger Royalty Reports Still Leave Questions | Music 3 A01 Be Creator Pay Fairness" aria-label="Open page: Why Bigger Royalty Reports Still Leave Questions | Music 3 A01 Be Creator Pay Fairness">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'transparency-6c916a/' | relative_url }}" title="Why Bigger Royalty Reports Still Leave Questions | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Open page: Why Bigger Royalty Reports Still Leave Questions | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_creator_pay_fairness_524c4c_streaming_transparen_180654-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bigger Royalty Reports Still Leave Questions | Music 3 A01 Be Creator Pay Fairness" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1430,7 +1430,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-creator-pay-fairness-524c4c-songwriter-streaming-922792" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'songwriters/' | relative_url }}" title="Why Songwriters Wait Longer for Streaming Pay | Music 3 A01 Be Creator Pay Fairness" aria-label="Open page: Why Songwriters Wait Longer for Streaming Pay | Music 3 A01 Be Creator Pay Fairness">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'songwriters/' | relative_url }}" title="Why Songwriters Wait Longer for Streaming Pay | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Open page: Why Songwriters Wait Longer for Streaming Pay | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_creator_pay_fairness_524c4c_songwriter_streaming_922792-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Songwriters Wait Longer for Streaming Pay | Music 3 A01 Be Creator Pay Fairness" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1450,7 +1450,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-creator-pay-fairness-524c4c-per-stream-payout-my-310cb5" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'payout-myths/' | relative_url }}" title="Why There Is No Simple Per Stream Rate | Music 3 A01 Be Creator Pay Fairness" aria-label="Open page: Why There Is No Simple Per Stream Rate | Music 3 A01 Be Creator Pay Fairness">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'payout-myths/' | relative_url }}" title="Why There Is No Simple Per Stream Rate | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Open page: Why There Is No Simple Per Stream Rate | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_creator_pay_fairness_524c4c_per_stream_payout_my_310cb5-Illustration-1.webp' | relative_url }}" alt="Overview image for Why There Is No Simple Per Stream Rate | Music 3 A01 Be Creator Pay Fairness" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1494,7 +1494,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-dance-music-social-s-f4ae5f-venue-spatial-design-51f90e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'venue-design/' | relative_url }}" title="How Club Architecture and Lighting Shape Dance Interaction | Music 3 A01 Be Dance Music Social" aria-label="Open page: How Club Architecture and Lighting Shape Dance Interaction | Music 3 A01 Be Dance Music Social">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'venue-design/' | relative_url }}" title="How Club Architecture and Lighting Shape Dance Interaction | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Open page: How Club Architecture and Lighting Shape Dance Interaction | How Dance Music Builds A Room | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_dance_music_social_s_f4ae5f_venue_spatial_design_51f90e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Club Architecture and Lighting Shape Dance Interaction | Music 3 A01 Be Dance Music Social" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1514,7 +1514,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-dance-music-social-s-f4ae5f-dj-social-coordinati-6c4461" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'dj-curation/' | relative_url }}" title="How DJs Shape Movement and Energy in Dance Spaces | Music 3 A01 Be Dance Music Social" aria-label="Open page: How DJs Shape Movement and Energy in Dance Spaces | Music 3 A01 Be Dance Music Social">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dj-curation/' | relative_url }}" title="How DJs Shape Movement and Energy in Dance Spaces | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Open page: How DJs Shape Movement and Energy in Dance Spaces | How Dance Music Builds A Room | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_dance_music_social_s_f4ae5f_dj_social_coordinati_6c4461-Illustration-1.webp' | relative_url }}" alt="Overview image for How DJs Shape Movement and Energy in Dance Spaces | Music 3 A01 Be Dance Music Social" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1534,7 +1534,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-dance-music-social-s-f4ae5f-beat-sync-social-576b0e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rhythmic-repetition/' | relative_url }}" title="How Repeated Beats Foster Social Equality on Dance Floors | Music 3 A01 Be Dance Music Social" aria-label="Open page: How Repeated Beats Foster Social Equality on Dance Floors | Music 3 A01 Be Dance Music Social">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rhythmic-repetition/' | relative_url }}" title="How Repeated Beats Foster Social Equality on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Open page: How Repeated Beats Foster Social Equality on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_dance_music_social_s_f4ae5f_beat_sync_social_576b0e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Repeated Beats Foster Social Equality on Dance Floors | Music 3 A01 Be Dance Music Social" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1554,7 +1554,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-dance-music-social-s-f4ae5f-dance-space-inclusio-677386" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'inclusion-boundaries/' | relative_url }}" title="Who Belongs on the Dance Floor and Why | Music 3 A01 Be Dance Music Social" aria-label="Open page: Who Belongs on the Dance Floor and Why | Music 3 A01 Be Dance Music Social">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'inclusion-boundaries/' | relative_url }}" title="Who Belongs on the Dance Floor and Why | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Open page: Who Belongs on the Dance Floor and Why | How Dance Music Builds A Room | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_dance_music_social_s_f4ae5f_dance_space_inclusio_677386-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Belongs on the Dance Floor and Why | Music 3 A01 Be Dance Music Social" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1574,7 +1574,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-dance-music-social-s-f4ae5f-sound-system-dance-764b6b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sound-systems/' | relative_url }}" title="Why Sound Systems Direct Collective Movement on Dance Floors | Music 3 A01 Be Dance Music Social" aria-label="Open page: Why Sound Systems Direct Collective Movement on Dance Floors | Music 3 A01 Be Dance Music Social">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sound-systems/' | relative_url }}" title="Why Sound Systems Direct Collective Movement on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Open page: Why Sound Systems Direct Collective Movement on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_dance_music_social_s_f4ae5f_sound_system_dance_764b6b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sound Systems Direct Collective Movement on Dance Floors | Music 3 A01 Be Dance Music Social" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1618,7 +1618,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-harmony-emotional-co-9a87b5-melody-harmony-conte-0e53ec" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'melody-harmony/' | relative_url }}" title="How Harmony Reinterprets the Emotional Meaning of a Melody | Music 3 A01 Be Harmony Emotional" aria-label="Open page: How Harmony Reinterprets the Emotional Meaning of a Melody | Music 3 A01 Be Harmony Emotional">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'melody-harmony/' | relative_url }}" title="How Harmony Reinterprets the Emotional Meaning of a Melody | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Open page: How Harmony Reinterprets the Emotional Meaning of a Melody | How Harmony Changes What Music Means | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_harmony_emotional_co_9a87b5_melody_harmony_conte_0e53ec-Illustration-1.webp' | relative_url }}" alt="Overview image for How Harmony Reinterprets the Emotional Meaning of a Melody | Music 3 A01 Be Harmony Emotional" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1638,7 +1638,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-harmony-emotional-co-9a87b5-chord-emotional-effe-ac54d3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'chord-emotion/' | relative_url }}" title="How Major and Minor Chords Change Listener Emotions | Music 3 A01 Be Harmony Emotional" aria-label="Open page: How Major and Minor Chords Change Listener Emotions | Music 3 A01 Be Harmony Emotional">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'chord-emotion/' | relative_url }}" title="How Major and Minor Chords Change Listener Emotions | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Open page: How Major and Minor Chords Change Listener Emotions | How Harmony Changes What Music Means | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_harmony_emotional_co_9a87b5_chord_emotional_effe_ac54d3-Illustration-1.webp' | relative_url }}" alt="Overview image for How Major and Minor Chords Change Listener Emotions | Music 3 A01 Be Harmony Emotional" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1658,7 +1658,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-harmony-emotional-co-9a87b5-tension-release-emot-9f1260" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tension-release/' | relative_url }}" title="How Tension and Release Shape Emotional Impact in Music | Music 3 A01 Be Harmony Emotional" aria-label="Open page: How Tension and Release Shape Emotional Impact in Music | Music 3 A01 Be Harmony Emotional">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tension-release/' | relative_url }}" title="How Tension and Release Shape Emotional Impact in Music | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Open page: How Tension and Release Shape Emotional Impact in Music | How Harmony Changes What Music Means | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_harmony_emotional_co_9a87b5_tension_release_emot_9f1260-Illustration-1.webp' | relative_url }}" alt="Overview image for How Tension and Release Shape Emotional Impact in Music | Music 3 A01 Be Harmony Emotional" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1678,7 +1678,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-harmony-emotional-co-9a87b5-unresolved-harmony-e-6d3be1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-harmony/' | relative_url }}" title="How Unresolved Chords Keep Music Emotionally Open | Music 3 A01 Be Harmony Emotional" aria-label="Open page: How Unresolved Chords Keep Music Emotionally Open | Music 3 A01 Be Harmony Emotional">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'unresolved-harmony/' | relative_url }}" title="How Unresolved Chords Keep Music Emotionally Open | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Open page: How Unresolved Chords Keep Music Emotionally Open | How Harmony Changes What Music Means | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_harmony_emotional_co_9a87b5_unresolved_harmony_e_6d3be1-Illustration-1.webp' | relative_url }}" alt="Overview image for How Unresolved Chords Keep Music Emotionally Open | Music 3 A01 Be Harmony Emotional" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1698,7 +1698,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-harmony-emotional-co-9a87b5-cultural-chord-perce-945f70" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cultural-context/' | relative_url }}" title="Why Major and Minor Chords Feel Different Across Cultures | Music 3 A01 Be Harmony Emotional" aria-label="Open page: Why Major and Minor Chords Feel Different Across Cultures | Music 3 A01 Be Harmony Emotional">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cultural-context/' | relative_url }}" title="Why Major and Minor Chords Feel Different Across Cultures | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Open page: Why Major and Minor Chords Feel Different Across Cultures | How Harmony Changes What Music Means | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_harmony_emotional_co_9a87b5_cultural_chord_perce_945f70-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Major and Minor Chords Feel Different Across Cultures | Music 3 A01 Be Harmony Emotional" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1720,7 +1720,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-hymns-belief-ritual-aef87d" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hymns/' | relative_url }}" title="How Hymns Turn Belief Into Sound | Music" aria-label="Open page: How Hymns Turn Belief Into Sound | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hymns/' | relative_url }}" title="How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Open page: How Hymns Turn Belief Into Sound | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_hymns_belief_ritual_aef87d-overview.webp' | relative_url }}" alt="Overview image for How Hymns Turn Belief Into Sound | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1742,7 +1742,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-hymns-belief-ritual-aef87d-hymn-memory-doctrine-87830a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'memory/' | relative_url }}" title="How Hymns Help Belief Stay Remembered | Music 3 A01 Be Hymns Belief Ritual" aria-label="Open page: How Hymns Help Belief Stay Remembered | Music 3 A01 Be Hymns Belief Ritual">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'memory/' | relative_url }}" title="How Hymns Help Belief Stay Remembered | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Open page: How Hymns Help Belief Stay Remembered | How Hymns Turn Belief Into Sound | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_memory_doctrine_87830a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Hymns Help Belief Stay Remembered | Music 3 A01 Be Hymns Belief Ritual" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1762,7 +1762,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-hymns-belief-ritual-aef87d-reformation-hymn-par-450be2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'reformation/' | relative_url }}" title="When Hymns Put Worship Into Every Voice | Music 3 A01 Be Hymns Belief Ritual" aria-label="Open page: When Hymns Put Worship Into Every Voice | Music 3 A01 Be Hymns Belief Ritual">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'reformation/' | relative_url }}" title="When Hymns Put Worship Into Every Voice | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Open page: When Hymns Put Worship Into Every Voice | How Hymns Turn Belief Into Sound | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_hymns_belief_ritual_aef87d_reformation_hymn_par_450be2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Hymns Put Worship Into Every Voice | Music 3 A01 Be Hymns Belief Ritual" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1782,7 +1782,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-hymns-belief-ritual-aef87d-hymn-melody-emotion-b0b85b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'emotion/' | relative_url }}" title="Why Hymn Tunes Say More Than Words | Music 3 A01 Be Hymns Belief Ritual" aria-label="Open page: Why Hymn Tunes Say More Than Words | Music 3 A01 Be Hymns Belief Ritual">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'emotion/' | relative_url }}" title="Why Hymn Tunes Say More Than Words | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Open page: Why Hymn Tunes Say More Than Words | How Hymns Turn Belief Into Sound | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymn_melody_emotion_b0b85b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hymn Tunes Say More Than Words | Music 3 A01 Be Hymns Belief Ritual" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1802,7 +1802,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-hymns-belief-ritual-aef87d-hymns-public-grief-e8d008" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'public-grief/' | relative_url }}" title="Why Hymns Appear at Public Moments of Grief | Music 3 A01 Be Hymns Belief Ritual" aria-label="Open page: Why Hymns Appear at Public Moments of Grief | Music 3 A01 Be Hymns Belief Ritual">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'public-grief/' | relative_url }}" title="Why Hymns Appear at Public Moments of Grief | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Open page: Why Hymns Appear at Public Moments of Grief | How Hymns Turn Belief Into Sound | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_hymns_belief_ritual_aef87d_hymns_public_grief_e8d008-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Hymns Appear at Public Moments of Grief | Music 3 A01 Be Hymns Belief Ritual" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1822,7 +1822,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-hymns-belief-ritual-aef87d-shared-hymn-singing-a8032e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-singing/' | relative_url }}" title="Why Singing Hymns Together Feels So Powerful | Music 3 A01 Be Hymns Belief Ritual" aria-label="Open page: Why Singing Hymns Together Feels So Powerful | Music 3 A01 Be Hymns Belief Ritual">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-singing/' | relative_url }}" title="Why Singing Hymns Together Feels So Powerful | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Open page: Why Singing Hymns Together Feels So Powerful | How Hymns Turn Belief Into Sound | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_hymns_belief_ritual_aef87d_shared_hymn_singing_a8032e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Singing Hymns Together Feels So Powerful | Music 3 A01 Be Hymns Belief Ritual" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1866,7 +1866,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ifpi-recorded-music-000a68-paid-streaming-growt-462249" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'paid-streaming/' | relative_url }}" title="How Subscriptions Became The Growth Engine | Music 3 A01 Be Ifpi Recorded Music" aria-label="Open page: How Subscriptions Became The Growth Engine | Music 3 A01 Be Ifpi Recorded Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'paid-streaming/' | relative_url }}" title="How Subscriptions Became The Growth Engine | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Open page: How Subscriptions Became The Growth Engine | What Global Music Revenue Numbers Show | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ifpi_recorded_music_000a68_paid_streaming_growt_462249-Illustration-1.webp' | relative_url }}" alt="Overview image for How Subscriptions Became The Growth Engine | Music 3 A01 Be Ifpi Recorded Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1886,7 +1886,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ifpi-recorded-music-000a68-ifpi-data-sources-2ea076" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'data-sources/' | relative_url }}" title="Where IFPI&#x27;s Global Numbers Come From | Music 3 A01 Be Ifpi Recorded Music" aria-label="Open page: Where IFPI&#x27;s Global Numbers Come From | Music 3 A01 Be Ifpi Recorded Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'data-sources/' | relative_url }}" title="Where IFPI's Global Numbers Come From | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Open page: Where IFPI's Global Numbers Come From | What Global Music Revenue Numbers Show | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ifpi_recorded_music_000a68_ifpi_data_sources_2ea076-Illustration-1.webp' | relative_url }}" alt="Overview image for Where IFPI&#x27;s Global Numbers Come From | Music 3 A01 Be Ifpi Recorded Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1906,7 +1906,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ifpi-recorded-music-000a68-regional-music-growt-311ae8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'regions/' | relative_url }}" title="Why Global Growth Looks Different Locally | Music 3 A01 Be Ifpi Recorded Music" aria-label="Open page: Why Global Growth Looks Different Locally | Music 3 A01 Be Ifpi Recorded Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'regions/' | relative_url }}" title="Why Global Growth Looks Different Locally | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Open page: Why Global Growth Looks Different Locally | What Global Music Revenue Numbers Show | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ifpi_recorded_music_000a68_regional_music_growt_311ae8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Global Growth Looks Different Locally | Music 3 A01 Be Ifpi Recorded Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1926,7 +1926,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ifpi-recorded-music-000a68-recorded-revenue-art-ded772" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'artist-income/' | relative_url }}" title="Why Growth Does Not Mean Artists Earn More | Music 3 A01 Be Ifpi Recorded Music" aria-label="Open page: Why Growth Does Not Mean Artists Earn More | Music 3 A01 Be Ifpi Recorded Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'artist-income/' | relative_url }}" title="Why Growth Does Not Mean Artists Earn More | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Open page: Why Growth Does Not Mean Artists Earn More | What Global Music Revenue Numbers Show | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ifpi_recorded_music_000a68_recorded_revenue_art_ded772-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Growth Does Not Mean Artists Earn More | Music 3 A01 Be Ifpi Recorded Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1946,7 +1946,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-ifpi-recorded-music-000a68-format-shifts-headli-182d07" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'formats/' | relative_url }}" title="Why Streaming Is Not The Whole Story | Music 3 A01 Be Ifpi Recorded Music" aria-label="Open page: Why Streaming Is Not The Whole Story | Music 3 A01 Be Ifpi Recorded Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'formats/' | relative_url }}" title="Why Streaming Is Not The Whole Story | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Open page: Why Streaming Is Not The Whole Story | What Global Music Revenue Numbers Show | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_ifpi_recorded_music_000a68_format_shifts_headli_182d07-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Streaming Is Not The Whole Story | Music 3 A01 Be Ifpi Recorded Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1968,7 +1968,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-kpop-fan-system-b9d239" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'k-pop/' | relative_url }}" title="How K Pop Built A Global Fan Machine | Music" aria-label="Open page: How K Pop Built A Global Fan Machine | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'k-pop/' | relative_url }}" title="How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Open page: How K Pop Built A Global Fan Machine | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_kpop_fan_system_b9d239-overview.webp' | relative_url }}" alt="Overview image for How K Pop Built A Global Fan Machine | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -1990,7 +1990,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-kpop-fan-system-b9d239-comeback-event-desig-b00bba" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'comebacks/' | relative_url }}" title="How a comeback becomes a fan event | Music 3 A01 Be Kpop Fan System" aria-label="Open page: How a comeback becomes a fan event | Music 3 A01 Be Kpop Fan System">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'comebacks/' | relative_url }}" title="How a comeback becomes a fan event | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Open page: How a comeback becomes a fan event | How K Pop Built A Global Fan Machine | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_kpop_fan_system_b9d239_comeback_event_desig_b00bba-Illustration-1.webp' | relative_url }}" alt="Overview image for How a comeback becomes a fan event | Music 3 A01 Be Kpop Fan System" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2010,7 +2010,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-kpop-fan-system-b9d239-fan-labour-pressure-2843e3" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-labour/' | relative_url }}" title="When supporting idols starts to feel like work | Music 3 A01 Be Kpop Fan System" aria-label="Open page: When supporting idols starts to feel like work | Music 3 A01 Be Kpop Fan System">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-labour/' | relative_url }}" title="When supporting idols starts to feel like work | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Open page: When supporting idols starts to feel like work | How K Pop Built A Global Fan Machine | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_kpop_fan_system_b9d239_fan_labour_pressure_2843e3-Illustration-1.webp' | relative_url }}" alt="Overview image for When supporting idols starts to feel like work | Music 3 A01 Be Kpop Fan System" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2030,7 +2030,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-kpop-fan-system-b9d239-fan-platform-superfa-5937c1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-platforms/' | relative_url }}" title="Why fan apps matter to K pop&#x27;s business | Music 3 A01 Be Kpop Fan System" aria-label="Open page: Why fan apps matter to K pop&#x27;s business | Music 3 A01 Be Kpop Fan System">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-platforms/' | relative_url }}" title="Why fan apps matter to K pop's business | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Open page: Why fan apps matter to K pop's business | How K Pop Built A Global Fan Machine | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_kpop_fan_system_b9d239_fan_platform_superfa_5937c1-Illustration-1.webp' | relative_url }}" alt="Overview image for Why fan apps matter to K pop&#x27;s business | Music 3 A01 Be Kpop Fan System" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2050,7 +2050,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-kpop-fan-system-b9d239-photocard-album-ince-29fd79" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photocards/' | relative_url }}" title="Why fans buy albums they do not play | Music 3 A01 Be Kpop Fan System" aria-label="Open page: Why fans buy albums they do not play | Music 3 A01 Be Kpop Fan System">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photocards/' | relative_url }}" title="Why fans buy albums they do not play | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Open page: Why fans buy albums they do not play | How K Pop Built A Global Fan Machine | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_kpop_fan_system_b9d239_photocard_album_ince_29fd79-Illustration-1.webp' | relative_url }}" alt="Overview image for Why fans buy albums they do not play | Music 3 A01 Be Kpop Fan System" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2070,7 +2070,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-kpop-fan-system-b9d239-dance-points-hook-92881c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'dance-hooks/' | relative_url }}" title="Why K pop choruses are built to move | Music 3 A01 Be Kpop Fan System" aria-label="Open page: Why K pop choruses are built to move | Music 3 A01 Be Kpop Fan System">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dance-hooks/' | relative_url }}" title="Why K pop choruses are built to move | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Open page: Why K pop choruses are built to move | How K Pop Built A Global Fan Machine | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_kpop_fan_system_b9d239_dance_points_hook_92881c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why K pop choruses are built to move | Music 3 A01 Be Kpop Fan System" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2114,7 +2114,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-latin-music-streamin-4617cf-bad-bunny-spanish-fi-502447" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-bunny/' | relative_url }}" title="How Bad Bunny Redefined Mainstream Success | Music 3 A01 Be Latin Music Streamin" aria-label="Open page: How Bad Bunny Redefined Mainstream Success | Music 3 A01 Be Latin Music Streamin">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bad-bunny/' | relative_url }}" title="How Bad Bunny Redefined Mainstream Success | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Open page: How Bad Bunny Redefined Mainstream Success | Why Latin Music Travels So Far | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_latin_music_streamin_4617cf_bad_bunny_spanish_fi_502447-Illustration-1.webp' | relative_url }}" alt="Overview image for How Bad Bunny Redefined Mainstream Success | Music 3 A01 Be Latin Music Streamin" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2134,7 +2134,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-latin-music-streamin-4617cf-viva-latino-playlist-372256" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'viva-latino/' | relative_url }}" title="How Playlists Became Latin Music&#x27;s Front Door | Music 3 A01 Be Latin Music Streamin" aria-label="Open page: How Playlists Became Latin Music&#x27;s Front Door | Music 3 A01 Be Latin Music Streamin">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'viva-latino/' | relative_url }}" title="How Playlists Became Latin Music's Front Door | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Open page: How Playlists Became Latin Music's Front Door | Why Latin Music Travels So Far | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_latin_music_streamin_4617cf_viva_latino_playlist_372256-Illustration-1.webp' | relative_url }}" alt="Overview image for How Playlists Became Latin Music&#x27;s Front Door | Music 3 A01 Be Latin Music Streamin" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2154,7 +2154,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-latin-music-streamin-4617cf-despacito-streaming-28347f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'despacito/' | relative_url }}" title="Why Despacito Changed Global Pop Listening | Music 3 A01 Be Latin Music Streamin" aria-label="Open page: Why Despacito Changed Global Pop Listening | Music 3 A01 Be Latin Music Streamin">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'despacito/' | relative_url }}" title="Why Despacito Changed Global Pop Listening | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Open page: Why Despacito Changed Global Pop Listening | Why Latin Music Travels So Far | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_latin_music_streamin_4617cf_despacito_streaming_28347f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Despacito Changed Global Pop Listening | Music 3 A01 Be Latin Music Streamin" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2174,7 +2174,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-latin-music-streamin-4617cf-latino-diaspora-stre-76ec34" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'diaspora/' | relative_url }}" title="Why Diaspora Listening Powered Latin Streaming | Music 3 A01 Be Latin Music Streamin" aria-label="Open page: Why Diaspora Listening Powered Latin Streaming | Music 3 A01 Be Latin Music Streamin">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'diaspora/' | relative_url }}" title="Why Diaspora Listening Powered Latin Streaming | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Open page: Why Diaspora Listening Powered Latin Streaming | Why Latin Music Travels So Far | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_latin_music_streamin_4617cf_latino_diaspora_stre_76ec34-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Diaspora Listening Powered Latin Streaming | Music 3 A01 Be Latin Music Streamin" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2194,7 +2194,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-latin-music-streamin-4617cf-latin-collaboration-b8cc68" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'collabs/' | relative_url }}" title="Why Latin Collabs Travel So Fast | Music 3 A01 Be Latin Music Streamin" aria-label="Open page: Why Latin Collabs Travel So Fast | Music 3 A01 Be Latin Music Streamin">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'collabs/' | relative_url }}" title="Why Latin Collabs Travel So Fast | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Open page: Why Latin Collabs Travel So Fast | Why Latin Music Travels So Far | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_latin_music_streamin_4617cf_latin_collaboration_b8cc68-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Latin Collabs Travel So Fast | Music 3 A01 Be Latin Music Streamin" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2238,7 +2238,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-live-music-income-c1ddfd-live-nation-scale-2758a2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'live-nation/' | relative_url }}" title="What Big Concert Numbers Really Prove | Music 3 A01 Be Live Music Income" aria-label="Open page: What Big Concert Numbers Really Prove | Music 3 A01 Be Live Music Income">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'live-nation/' | relative_url }}" title="What Big Concert Numbers Really Prove | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Open page: What Big Concert Numbers Really Prove | Why Live Music Still Pays Differently | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_live_music_income_c1ddfd_live_nation_scale_2758a2-Illustration-1.webp' | relative_url }}" alt="Overview image for What Big Concert Numbers Really Prove | Music 3 A01 Be Live Music Income" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2258,7 +2258,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-live-music-income-c1ddfd-small-gig-income-52359b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'small-gigs/' | relative_url }}" title="When a Small Gig Actually Pays Off | Music 3 A01 Be Live Music Income" aria-label="Open page: When a Small Gig Actually Pays Off | Music 3 A01 Be Live Music Income">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'small-gigs/' | relative_url }}" title="When a Small Gig Actually Pays Off | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Open page: When a Small Gig Actually Pays Off | Why Live Music Still Pays Differently | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_live_music_income_c1ddfd_small_gig_income_52359b-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Small Gig Actually Pays Off | Music 3 A01 Be Live Music Income" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2278,7 +2278,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-live-music-income-c1ddfd-ticket-money-split-150635" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ticket-split/' | relative_url }}" title="Where Your Ticket Money Really Goes | Music 3 A01 Be Live Music Income" aria-label="Open page: Where Your Ticket Money Really Goes | Music 3 A01 Be Live Music Income">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ticket-split/' | relative_url }}" title="Where Your Ticket Money Really Goes | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Open page: Where Your Ticket Money Really Goes | Why Live Music Still Pays Differently | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_live_music_income_c1ddfd_ticket_money_split_150635-Illustration-1.webp' | relative_url }}" alt="Overview image for Where Your Ticket Money Really Goes | Music 3 A01 Be Live Music Income" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2298,7 +2298,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-live-music-income-c1ddfd-setlist-royalties-b63de8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists-db102e/' | relative_url }}" title="Why Setlists Decide Who Gets Paid | Music 3 A01 Be Live Music Income" aria-label="Open page: Why Setlists Decide Who Gets Paid | Music 3 A01 Be Live Music Income">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists-db102e/' | relative_url }}" title="Why Setlists Decide Who Gets Paid | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Open page: Why Setlists Decide Who Gets Paid | Why Live Music Still Pays Differently | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_live_music_income_c1ddfd_setlist_royalties_b63de8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Setlists Decide Who Gets Paid | Music 3 A01 Be Live Music Income" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2318,7 +2318,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-live-music-income-c1ddfd-grassroots-venues-bfaa7e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'grassroots/' | relative_url }}" title="Why Tiny Venues Build Real Careers | Music 3 A01 Be Live Music Income" aria-label="Open page: Why Tiny Venues Build Real Careers | Music 3 A01 Be Live Music Income">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'grassroots/' | relative_url }}" title="Why Tiny Venues Build Real Careers | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Open page: Why Tiny Venues Build Real Careers | Why Live Music Still Pays Differently | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_live_music_income_c1ddfd_grassroots_venues_bfaa7e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Tiny Venues Build Real Careers | Music 3 A01 Be Live Music Income" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2340,7 +2340,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-lullabies-calm-memor-4de0e2" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lullabies/' | relative_url }}" title="Why Lullabies Work Across Cultures | Music" aria-label="Open page: Why Lullabies Work Across Cultures | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lullabies/' | relative_url }}" title="Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Open page: Why Lullabies Work Across Cultures | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lullabies_calm_memor_4de0e2-overview.webp' | relative_url }}" alt="Overview image for Why Lullabies Work Across Cultures | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2362,7 +2362,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lullabies-calm-memor-4de0e2-foreign-lullabies-in-e645c6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'foreign-songs/' | relative_url }}" title="Can Unknown Lullabies Still Calm Babies? | Music 3 A01 Be Lullabies Calm Memor" aria-label="Open page: Can Unknown Lullabies Still Calm Babies? | Music 3 A01 Be Lullabies Calm Memor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'foreign-songs/' | relative_url }}" title="Can Unknown Lullabies Still Calm Babies? | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Open page: Can Unknown Lullabies Still Calm Babies? | Why Lullabies Work Across Cultures | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lullabies_calm_memor_4de0e2_foreign_lullabies_in_e645c6-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Unknown Lullabies Still Calm Babies? | Music 3 A01 Be Lullabies Calm Memor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2382,7 +2382,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lullabies-calm-memor-4de0e2-familiar-lullabies-s-381de4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'familiar-songs/' | relative_url }}" title="Why Familiar Lullabies Feel Safer | Music 3 A01 Be Lullabies Calm Memor" aria-label="Open page: Why Familiar Lullabies Feel Safer | Music 3 A01 Be Lullabies Calm Memor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'familiar-songs/' | relative_url }}" title="Why Familiar Lullabies Feel Safer | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Open page: Why Familiar Lullabies Feel Safer | Why Lullabies Work Across Cultures | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lullabies_calm_memor_4de0e2_familiar_lullabies_s_381de4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Familiar Lullabies Feel Safer | Music 3 A01 Be Lullabies Calm Memor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2402,7 +2402,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lullabies-calm-memor-4de0e2-repetition-predictab-905fca" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'repetition-a8a280/' | relative_url }}" title="Why Repetition Helps Babies Settle | Music 3 A01 Be Lullabies Calm Memor" aria-label="Open page: Why Repetition Helps Babies Settle | Music 3 A01 Be Lullabies Calm Memor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'repetition-a8a280/' | relative_url }}" title="Why Repetition Helps Babies Settle | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Open page: Why Repetition Helps Babies Settle | Why Lullabies Work Across Cultures | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lullabies_calm_memor_4de0e2_repetition_predictab_905fca-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Repetition Helps Babies Settle | Music 3 A01 Be Lullabies Calm Memor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2422,7 +2422,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lullabies-calm-memor-4de0e2-caregiver-presence-l-260287" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'caregiver-cues/' | relative_url }}" title="Why Singing Matters More Than Playback | Music 3 A01 Be Lullabies Calm Memor" aria-label="Open page: Why Singing Matters More Than Playback | Music 3 A01 Be Lullabies Calm Memor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'caregiver-cues/' | relative_url }}" title="Why Singing Matters More Than Playback | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Open page: Why Singing Matters More Than Playback | Why Lullabies Work Across Cultures | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lullabies_calm_memor_4de0e2_caregiver_presence_l_260287-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Singing Matters More Than Playback | Music 3 A01 Be Lullabies Calm Memor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2442,7 +2442,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lullabies-calm-memor-4de0e2-slow-tempo-lullabies-29575f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'slow-tempo/' | relative_url }}" title="Why Slow Lullabies Feel Calming | Music 3 A01 Be Lullabies Calm Memor" aria-label="Open page: Why Slow Lullabies Feel Calming | Music 3 A01 Be Lullabies Calm Memor">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'slow-tempo/' | relative_url }}" title="Why Slow Lullabies Feel Calming | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Open page: Why Slow Lullabies Feel Calming | Why Lullabies Work Across Cultures | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lullabies_calm_memor_4de0e2_slow_tempo_lullabies_29575f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Slow Lullabies Feel Calming | Music 3 A01 Be Lullabies Calm Memor" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2464,7 +2464,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-lyrics-shared-langua-bfa57a" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'lyrics/' | relative_url }}" title="How Lyrics Make Feelings Public | Music" aria-label="Open page: How Lyrics Make Feelings Public | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'lyrics/' | relative_url }}" title="How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Open page: How Lyrics Make Feelings Public | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lyrics_shared_langua_bfa57a-overview.webp' | relative_url }}" alt="Overview image for How Lyrics Make Feelings Public | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2486,7 +2486,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lyrics-shared-langua-bfa57a-lyrics-protest-sloga-aa8870" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'protest-lyrics/' | relative_url }}" title="When Lyrics Leave Songs and Become Slogans | Music 3 A01 Be Lyrics Shared Langua" aria-label="Open page: When Lyrics Leave Songs and Become Slogans | Music 3 A01 Be Lyrics Shared Langua">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'protest-lyrics/' | relative_url }}" title="When Lyrics Leave Songs and Become Slogans | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Open page: When Lyrics Leave Songs and Become Slogans | How Lyrics Make Feelings Public | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_protest_sloga_aa8870-Illustration-1.webp' | relative_url }}" alt="Overview image for When Lyrics Leave Songs and Become Slogans | Music 3 A01 Be Lyrics Shared Langua" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2506,7 +2506,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lyrics-shared-langua-bfa57a-chorus-emotional-sho-7391c0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'chorus-lines/' | relative_url }}" title="Why Choruses Turn Feelings Into Catchphrases | Music 3 A01 Be Lyrics Shared Langua" aria-label="Open page: Why Choruses Turn Feelings Into Catchphrases | Music 3 A01 Be Lyrics Shared Langua">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'chorus-lines/' | relative_url }}" title="Why Choruses Turn Feelings Into Catchphrases | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Open page: Why Choruses Turn Feelings Into Catchphrases | How Lyrics Make Feelings Public | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lyrics_shared_langua_bfa57a_chorus_emotional_sho_7391c0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Choruses Turn Feelings Into Catchphrases | Music 3 A01 Be Lyrics Shared Langua" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2526,7 +2526,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lyrics-shared-langua-bfa57a-lyrics-listener-iden-a5a043" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'identification/' | relative_url }}" title="Why Some Lyrics Feel Like Your Story | Music 3 A01 Be Lyrics Shared Langua" aria-label="Open page: Why Some Lyrics Feel Like Your Story | Music 3 A01 Be Lyrics Shared Langua">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'identification/' | relative_url }}" title="Why Some Lyrics Feel Like Your Story | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Open page: Why Some Lyrics Feel Like Your Story | How Lyrics Make Feelings Public | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_listener_iden_a5a043-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Lyrics Feel Like Your Story | Music 3 A01 Be Lyrics Shared Langua" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2546,7 +2546,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lyrics-shared-langua-bfa57a-sung-words-meaning-c59e9f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sung-meaning/' | relative_url }}" title="Why Sung Words Hit Harder Than Spoken Ones | Music 3 A01 Be Lyrics Shared Langua" aria-label="Open page: Why Sung Words Hit Harder Than Spoken Ones | Music 3 A01 Be Lyrics Shared Langua">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sung-meaning/' | relative_url }}" title="Why Sung Words Hit Harder Than Spoken Ones | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Open page: Why Sung Words Hit Harder Than Spoken Ones | How Lyrics Make Feelings Public | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lyrics_shared_langua_bfa57a_sung_words_meaning_c59e9f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sung Words Hit Harder Than Spoken Ones | Music 3 A01 Be Lyrics Shared Langua" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2566,7 +2566,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-lyrics-shared-langua-bfa57a-lyrics-cross-cultura-877261" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'culture/' | relative_url }}" title="Why The Same Lyric Means Different Things | Music 3 A01 Be Lyrics Shared Langua" aria-label="Open page: Why The Same Lyric Means Different Things | Music 3 A01 Be Lyrics Shared Langua">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'culture/' | relative_url }}" title="Why The Same Lyric Means Different Things | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Open page: Why The Same Lyric Means Different Things | How Lyrics Make Feelings Public | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_lyrics_shared_langua_bfa57a_lyrics_cross_cultura_877261-Illustration-1.webp' | relative_url }}" alt="Overview image for Why The Same Lyric Means Different Things | Music 3 A01 Be Lyrics Shared Langua" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2588,7 +2588,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-melody-memorable-son-84318f" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'melody/' | relative_url }}" title="Why Some Melodies Stay In Your Head | Music" aria-label="Open page: Why Some Melodies Stay In Your Head | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'melody/' | relative_url }}" title="Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Open page: Why Some Melodies Stay In Your Head | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_melody_memorable_son_84318f-overview.webp' | relative_url }}" alt="Overview image for Why Some Melodies Stay In Your Head | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2610,7 +2610,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-melody-memorable-son-84318f-melodic-contour-reco-0e871f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'contour/' | relative_url }}" title="The Shape Your Brain Hums Back | Music 3 A01 Be Melody Memorable Son" aria-label="Open page: The Shape Your Brain Hums Back | Music 3 A01 Be Melody Memorable Son">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'contour/' | relative_url }}" title="The Shape Your Brain Hums Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Open page: The Shape Your Brain Hums Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_melody_memorable_son_84318f_melodic_contour_reco_0e871f-Illustration-1.webp' | relative_url }}" alt="Overview image for The Shape Your Brain Hums Back | Music 3 A01 Be Melody Memorable Son" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2630,7 +2630,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-melody-memorable-son-84318f-earworm-melody-trait-415f29" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'earworms/' | relative_url }}" title="What Makes a Tune Become an Earworm? | Music 3 A01 Be Melody Memorable Son" aria-label="Open page: What Makes a Tune Become an Earworm? | Music 3 A01 Be Melody Memorable Son">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'earworms/' | relative_url }}" title="What Makes a Tune Become an Earworm? | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Open page: What Makes a Tune Become an Earworm? | Why Some Melodies Stay In Your Head | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_melody_memorable_son_84318f_earworm_melody_trait_415f29-Illustration-1.webp' | relative_url }}" alt="Overview image for What Makes a Tune Become an Earworm? | Music 3 A01 Be Melody Memorable Son" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2650,7 +2650,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-melody-memorable-son-84318f-melodic-surprise-exp-7f822f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'surprise/' | relative_url }}" title="Why Catchy Melodies Need a Twist | Music 3 A01 Be Melody Memorable Son" aria-label="Open page: Why Catchy Melodies Need a Twist | Music 3 A01 Be Melody Memorable Son">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'surprise/' | relative_url }}" title="Why Catchy Melodies Need a Twist | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Open page: Why Catchy Melodies Need a Twist | Why Some Melodies Stay In Your Head | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_melody_memorable_son_84318f_melodic_surprise_exp_7f822f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Catchy Melodies Need a Twist | Music 3 A01 Be Melody Memorable Son" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2670,7 +2670,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-melody-memorable-son-84318f-chorus-melody-memory-b4dc33" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'choruses/' | relative_url }}" title="Why Do Choruses Stay in Your Head? | Music 3 A01 Be Melody Memorable Son" aria-label="Open page: Why Do Choruses Stay in Your Head? | Music 3 A01 Be Melody Memorable Son">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'choruses/' | relative_url }}" title="Why Do Choruses Stay in Your Head? | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Open page: Why Do Choruses Stay in Your Head? | Why Some Melodies Stay In Your Head | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_melody_memorable_son_84318f_chorus_melody_memory_b4dc33-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Do Choruses Stay in Your Head? | Music 3 A01 Be Melody Memorable Son" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2690,7 +2690,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-melody-memorable-son-84318f-melody-emotional-mem-3c5c72" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'emotion-ad77f9/' | relative_url }}" title="Why Some Melodies Bring Memories Back | Music 3 A01 Be Melody Memorable Son" aria-label="Open page: Why Some Melodies Bring Memories Back | Music 3 A01 Be Melody Memorable Son">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'emotion-ad77f9/' | relative_url }}" title="Why Some Melodies Bring Memories Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Open page: Why Some Melodies Bring Memories Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_melody_memorable_son_84318f_melody_emotional_mem_3c5c72-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Melodies Bring Memories Back | Music 3 A01 Be Melody Memorable Son" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2734,7 +2734,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-merch-fandom-263862-billie-eilish-merch-39fa2c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'billie-values/' | relative_url }}" title="Can Merch Carry An Artist&#x27;s Values? | Music 3 A01 Be Music Merch Fandom" aria-label="Open page: Can Merch Carry An Artist&#x27;s Values? | Music 3 A01 Be Music Merch Fandom">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'billie-values/' | relative_url }}" title="Can Merch Carry An Artist's Values? | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Open page: Can Merch Carry An Artist's Values? | Why Music Merch Means More Than Branding | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_merch_fandom_263862_billie_eilish_merch_39fa2c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Merch Carry An Artist&#x27;s Values? | Music 3 A01 Be Music Merch Fandom" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2754,7 +2754,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-merch-fandom-263862-limited-merch-trust-067339" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'limited-drops/' | relative_url }}" title="When Scarce Merch Stops Feeling Special | Music 3 A01 Be Music Merch Fandom" aria-label="Open page: When Scarce Merch Stops Feeling Special | Music 3 A01 Be Music Merch Fandom">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'limited-drops/' | relative_url }}" title="When Scarce Merch Stops Feeling Special | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Open page: When Scarce Merch Stops Feeling Special | Why Music Merch Means More Than Branding | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_merch_fandom_263862_limited_merch_trust_067339-Illustration-1.webp' | relative_url }}" alt="Overview image for When Scarce Merch Stops Feeling Special | Music 3 A01 Be Music Merch Fandom" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2774,7 +2774,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-merch-fandom-263862-band-shirts-identity-ee7de7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'band-shirts/' | relative_url }}" title="Why Band Shirts Say More Than Taste | Music 3 A01 Be Music Merch Fandom" aria-label="Open page: Why Band Shirts Say More Than Taste | Music 3 A01 Be Music Merch Fandom">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'band-shirts/' | relative_url }}" title="Why Band Shirts Say More Than Taste | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Open page: Why Band Shirts Say More Than Taste | Why Music Merch Means More Than Branding | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_merch_fandom_263862_band_shirts_identity_ee7de7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Band Shirts Say More Than Taste | Music 3 A01 Be Music Merch Fandom" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2794,7 +2794,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-merch-fandom-263862-artist-merch-collab-af8941" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'collab-fit/' | relative_url }}" title="Why Some Artist Collabs Feel Fake | Music 3 A01 Be Music Merch Fandom" aria-label="Open page: Why Some Artist Collabs Feel Fake | Music 3 A01 Be Music Merch Fandom">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'collab-fit/' | relative_url }}" title="Why Some Artist Collabs Feel Fake | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Open page: Why Some Artist Collabs Feel Fake | Why Music Merch Means More Than Branding | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_merch_fandom_263862_artist_merch_collab_af8941-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Some Artist Collabs Feel Fake | Music 3 A01 Be Music Merch Fandom" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2814,7 +2814,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-merch-fandom-263862-tour-shirts-memories-412e7c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'tour-keepsakes/' | relative_url }}" title="Why Tour Shirts Become Memory Objects | Music 3 A01 Be Music Merch Fandom" aria-label="Open page: Why Tour Shirts Become Memory Objects | Music 3 A01 Be Music Merch Fandom">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'tour-keepsakes/' | relative_url }}" title="Why Tour Shirts Become Memory Objects | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Open page: Why Tour Shirts Become Memory Objects | Why Music Merch Means More Than Branding | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_merch_fandom_263862_tour_shirts_memories_412e7c-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Tour Shirts Become Memory Objects | Music 3 A01 Be Music Merch Fandom" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2858,7 +2858,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-metadata-payme-5a11f4-live-setlists-songwr-f8d095" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists-535284/' | relative_url }}" title="The setlist is a royalty payment trail | Music 3 A01 Be Music Metadata Payme" aria-label="Open page: The setlist is a royalty payment trail | Music 3 A01 Be Music Metadata Payme">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists-535284/' | relative_url }}" title="The setlist is a royalty payment trail | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Open page: The setlist is a royalty payment trail | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_metadata_payme_5a11f4_live_setlists_songwr_f8d095-Illustration-1.webp' | relative_url }}" alt="Overview image for The setlist is a royalty payment trail | Music 3 A01 Be Music Metadata Payme" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2878,7 +2878,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-metadata-payme-5a11f4-isrc-iswc-payment-li-6ab7e2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'code-links/' | relative_url }}" title="The two codes behind every paid song | Music 3 A01 Be Music Metadata Payme" aria-label="Open page: The two codes behind every paid song | Music 3 A01 Be Music Metadata Payme">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'code-links/' | relative_url }}" title="The two codes behind every paid song | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Open page: The two codes behind every paid song | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_metadata_payme_5a11f4_isrc_iswc_payment_li_6ab7e2-Illustration-1.webp' | relative_url }}" alt="Overview image for The two codes behind every paid song | Music 3 A01 Be Music Metadata Payme" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2898,7 +2898,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-metadata-payme-5a11f4-unmatched-royalty-po-71d7c6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'unmatched-pools/' | relative_url }}" title="Where unpaid royalties wait for better data | Music 3 A01 Be Music Metadata Payme" aria-label="Open page: Where unpaid royalties wait for better data | Music 3 A01 Be Music Metadata Payme">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'unmatched-pools/' | relative_url }}" title="Where unpaid royalties wait for better data | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Open page: Where unpaid royalties wait for better data | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_metadata_payme_5a11f4_unmatched_royalty_po_71d7c6-Illustration-1.webp' | relative_url }}" alt="Overview image for Where unpaid royalties wait for better data | Music 3 A01 Be Music Metadata Payme" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2918,7 +2918,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-metadata-payme-5a11f4-dj-sets-royalty-trac-45b2d6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'dj-sets/' | relative_url }}" title="Why DJ royalties are so hard to trace | Music 3 A01 Be Music Metadata Payme" aria-label="Open page: Why DJ royalties are so hard to trace | Music 3 A01 Be Music Metadata Payme">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dj-sets/' | relative_url }}" title="Why DJ royalties are so hard to trace | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Open page: Why DJ royalties are so hard to trace | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_metadata_payme_5a11f4_dj_sets_royalty_trac_45b2d6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why DJ royalties are so hard to trace | Music 3 A01 Be Music Metadata Payme" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2938,7 +2938,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-metadata-payme-5a11f4-song-splits-royalty-d728a7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-splits/' | relative_url }}" title="Why song splits can freeze royalty money | Music 3 A01 Be Music Metadata Payme" aria-label="Open page: Why song splits can freeze royalty money | Music 3 A01 Be Music Metadata Payme">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-splits/' | relative_url }}" title="Why song splits can freeze royalty money | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Open page: Why song splits can freeze royalty money | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_metadata_payme_5a11f4_song_splits_royalty_d728a7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why song splits can freeze royalty money | Music 3 A01 Be Music Metadata Payme" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -2982,7 +2982,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-physical-music-owner-d1771a-album-versions-press-20f2e0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-pressure/' | relative_url }}" title="When Collecting Starts To Feel Like Pressure | Music 3 A01 Be Physical Music Owner" aria-label="Open page: When Collecting Starts To Feel Like Pressure | Music 3 A01 Be Physical Music Owner">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-pressure/' | relative_url }}" title="When Collecting Starts To Feel Like Pressure | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Open page: When Collecting Starts To Feel Like Pressure | Why Fans Still Want Music Objects | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_physical_music_owner_d1771a_album_versions_press_20f2e0-Illustration-1.webp' | relative_url }}" alt="Overview image for When Collecting Starts To Feel Like Pressure | Music 3 A01 Be Physical Music Owner" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3002,7 +3002,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-physical-music-owner-d1771a-cds-cassettes-fan-ob-89a8a7" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cds-tapes/' | relative_url }}" title="Why CDs And Cassettes Still Matter | Music 3 A01 Be Physical Music Owner" aria-label="Open page: Why CDs And Cassettes Still Matter | Music 3 A01 Be Physical Music Owner">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cds-tapes/' | relative_url }}" title="Why CDs And Cassettes Still Matter | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Open page: Why CDs And Cassettes Still Matter | Why Fans Still Want Music Objects | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_physical_music_owner_d1771a_cds_cassettes_fan_ob_89a8a7-Illustration-1.webp' | relative_url }}" alt="Overview image for Why CDs And Cassettes Still Matter | Music 3 A01 Be Physical Music Owner" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3022,7 +3022,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-physical-music-owner-d1771a-deluxe-box-archives-83933e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'box-sets/' | relative_url }}" title="Why Deluxe Box Sets Feel Like Archives | Music 3 A01 Be Physical Music Owner" aria-label="Open page: Why Deluxe Box Sets Feel Like Archives | Music 3 A01 Be Physical Music Owner">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'box-sets/' | relative_url }}" title="Why Deluxe Box Sets Feel Like Archives | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Open page: Why Deluxe Box Sets Feel Like Archives | Why Fans Still Want Music Objects | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_physical_music_owner_d1771a_deluxe_box_archives_83933e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Deluxe Box Sets Feel Like Archives | Music 3 A01 Be Physical Music Owner" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3042,7 +3042,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-physical-music-owner-d1771a-kpop-photo-cards-fa4b4f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-cards/' | relative_url }}" title="Why K pop Albums Became Collectible Kits | Music 3 A01 Be Physical Music Owner" aria-label="Open page: Why K pop Albums Became Collectible Kits | Music 3 A01 Be Physical Music Owner">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'photo-cards/' | relative_url }}" title="Why K pop Albums Became Collectible Kits | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Open page: Why K pop Albums Became Collectible Kits | Why Fans Still Want Music Objects | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_physical_music_owner_d1771a_kpop_photo_cards_fa4b4f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why K pop Albums Became Collectible Kits | Music 3 A01 Be Physical Music Owner" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3062,7 +3062,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-physical-music-owner-d1771a-signed-music-ownersh-907c76" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'signed-copies/' | relative_url }}" title="Why Signed Albums Feel More Personal | Music 3 A01 Be Physical Music Owner" aria-label="Open page: Why Signed Albums Feel More Personal | Music 3 A01 Be Physical Music Owner">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'signed-copies/' | relative_url }}" title="Why Signed Albums Feel More Personal | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Open page: Why Signed Albums Feel More Personal | Why Fans Still Want Music Objects | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_physical_music_owner_d1771a_signed_music_ownersh_907c76-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Signed Albums Feel More Personal | Music 3 A01 Be Physical Music Owner" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3106,7 +3106,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-playlists-new-gateke-9514bb-editorial-playlist-g-84f9bb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'editorial-adds/' | relative_url }}" title="Do Editorial Playlists Still Make Hits? | Music 3 A01 Be Playlists New Gateke" aria-label="Open page: Do Editorial Playlists Still Make Hits? | Music 3 A01 Be Playlists New Gateke">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'editorial-adds/' | relative_url }}" title="Do Editorial Playlists Still Make Hits? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Open page: Do Editorial Playlists Still Make Hits? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_playlists_new_gateke_9514bb_editorial_playlist_g_84f9bb-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Editorial Playlists Still Make Hits? | Music 3 A01 Be Playlists New Gateke" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3126,7 +3126,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-playlists-new-gateke-9514bb-playlist-repetition-1d2760" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'repetition/' | relative_url }}" title="How Playlists Make Songs Feel Familiar | Music 3 A01 Be Playlists New Gateke" aria-label="Open page: How Playlists Make Songs Feel Familiar | Music 3 A01 Be Playlists New Gateke">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'repetition/' | relative_url }}" title="How Playlists Make Songs Feel Familiar | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Open page: How Playlists Make Songs Feel Familiar | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_playlists_new_gateke_9514bb_playlist_repetition_1d2760-Illustration-1.webp' | relative_url }}" alt="Overview image for How Playlists Make Songs Feel Familiar | Music 3 A01 Be Playlists New Gateke" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3146,7 +3146,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-playlists-new-gateke-9514bb-mood-playlists-funct-3f7bc2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mood-listening/' | relative_url }}" title="When Music Becomes a Mood Button | Music 3 A01 Be Playlists New Gateke" aria-label="Open page: When Music Becomes a Mood Button | Music 3 A01 Be Playlists New Gateke">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mood-listening/' | relative_url }}" title="When Music Becomes a Mood Button | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Open page: When Music Becomes a Mood Button | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_playlists_new_gateke_9514bb_mood_playlists_funct_3f7bc2-Illustration-1.webp' | relative_url }}" alt="Overview image for When Music Becomes a Mood Button | Music 3 A01 Be Playlists New Gateke" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3166,7 +3166,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-playlists-new-gateke-9514bb-algotorial-playlist-96e1d6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'algotorial/' | relative_url }}" title="Who Really Curates a Streaming Playlist? | Music 3 A01 Be Playlists New Gateke" aria-label="Open page: Who Really Curates a Streaming Playlist? | Music 3 A01 Be Playlists New Gateke">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'algotorial/' | relative_url }}" title="Who Really Curates a Streaming Playlist? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Open page: Who Really Curates a Streaming Playlist? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_playlists_new_gateke_9514bb_algotorial_playlist_96e1d6-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Really Curates a Streaming Playlist? | Music 3 A01 Be Playlists New Gateke" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3186,7 +3186,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-playlists-new-gateke-9514bb-discover-weekly-pers-dcfd67" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'discover-weekly/' | relative_url }}" title="Why Discover Weekly Feels So Personal | Music 3 A01 Be Playlists New Gateke" aria-label="Open page: Why Discover Weekly Feels So Personal | Music 3 A01 Be Playlists New Gateke">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'discover-weekly/' | relative_url }}" title="Why Discover Weekly Feels So Personal | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Open page: Why Discover Weekly Feels So Personal | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_playlists_new_gateke_9514bb_discover_weekly_pers_dcfd67-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Discover Weekly Feels So Personal | Music 3 A01 Be Playlists New Gateke" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3208,7 +3208,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-protest-songs-power-430b69" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'protest-songs/' | relative_url }}" title="Why Protest Songs Still Mobilize People | Music" aria-label="Open page: Why Protest Songs Still Mobilize People | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'protest-songs/' | relative_url }}" title="Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Open page: Why Protest Songs Still Mobilize People | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_protest_songs_power_430b69-overview.webp' | relative_url }}" alt="Overview image for Why Protest Songs Still Mobilize People | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3230,7 +3230,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-protest-songs-power-430b69-historical-song-memo-4c4d2e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-memory/' | relative_url }}" title="Connecting Modern Movements with Historical Protest Songs | Music 3 A01 Be Protest Songs Power" aria-label="Open page: Connecting Modern Movements with Historical Protest Songs | Music 3 A01 Be Protest Songs Power">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-memory/' | relative_url }}" title="Connecting Modern Movements with Historical Protest Songs | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Open page: Connecting Modern Movements with Historical Protest Songs | Why Protest Songs Still Mobilize People | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_protest_songs_power_430b69_historical_song_memo_4c4d2e-Illustration-1.webp' | relative_url }}" alt="Overview image for Connecting Modern Movements with Historical Protest Songs | Music 3 A01 Be Protest Songs Power" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3250,7 +3250,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-protest-songs-power-430b69-collective-singing-e-7c8bfa" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'collective-singing/' | relative_url }}" title="How Group Singing Builds Solidarity in Protests | Music 3 A01 Be Protest Songs Power" aria-label="Open page: How Group Singing Builds Solidarity in Protests | Music 3 A01 Be Protest Songs Power">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'collective-singing/' | relative_url }}" title="How Group Singing Builds Solidarity in Protests | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Open page: How Group Singing Builds Solidarity in Protests | Why Protest Songs Still Mobilize People | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_protest_songs_power_430b69_collective_singing_e_7c8bfa-Illustration-1.webp' | relative_url }}" alt="Overview image for How Group Singing Builds Solidarity in Protests | Music 3 A01 Be Protest Songs Power" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3270,7 +3270,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-protest-songs-power-430b69-digital-protest-musi-a52e6f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'digital-protest-music/' | relative_url }}" title="How Social Media Transforms Protest Songs Online | Music 3 A01 Be Protest Songs Power" aria-label="Open page: How Social Media Transforms Protest Songs Online | Music 3 A01 Be Protest Songs Power">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'digital-protest-music/' | relative_url }}" title="How Social Media Transforms Protest Songs Online | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Open page: How Social Media Transforms Protest Songs Online | Why Protest Songs Still Mobilize People | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_protest_songs_power_430b69_digital_protest_musi_a52e6f-Illustration-1.webp' | relative_url }}" alt="Overview image for How Social Media Transforms Protest Songs Online | Music 3 A01 Be Protest Songs Power" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3290,7 +3290,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-protest-songs-power-430b69-protest-song-simplif-7db3ad" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-simplification/' | relative_url }}" title="When Protest Songs Flatten Complex Messages | Music 3 A01 Be Protest Songs Power" aria-label="Open page: When Protest Songs Flatten Complex Messages | Music 3 A01 Be Protest Songs Power">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-simplification/' | relative_url }}" title="When Protest Songs Flatten Complex Messages | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Open page: When Protest Songs Flatten Complex Messages | Why Protest Songs Still Mobilize People | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_protest_songs_power_430b69_protest_song_simplif_7db3ad-Illustration-1.webp' | relative_url }}" alt="Overview image for When Protest Songs Flatten Complex Messages | Music 3 A01 Be Protest Songs Power" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3310,7 +3310,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-protest-songs-power-430b69-protest-song-inclusi-b4eb90" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'inclusive-songs/' | relative_url }}" title="Who Feels Represented by Protest Music? | Music 3 A01 Be Protest Songs Power" aria-label="Open page: Who Feels Represented by Protest Music? | Music 3 A01 Be Protest Songs Power">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'inclusive-songs/' | relative_url }}" title="Who Feels Represented by Protest Music? | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Open page: Who Feels Represented by Protest Music? | Why Protest Songs Still Mobilize People | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_protest_songs_power_430b69_protest_song_inclusi_b4eb90-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Feels Represented by Protest Music? | Music 3 A01 Be Protest Songs Power" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3332,7 +3332,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-songwriting-royaltie-389052" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'publishing/' | relative_url }}" title="How Songs Earn Beyond The Recording | Music" aria-label="Open page: How Songs Earn Beyond The Recording | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'publishing/' | relative_url }}" title="How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Open page: How Songs Earn Beyond The Recording | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_songwriting_royaltie_389052-overview.webp' | relative_url }}" alt="Overview image for How Songs Earn Beyond The Recording | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3354,7 +3354,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-songwriting-royaltie-389052-live-setlist-royalti-c54a78" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlist-gaps/' | relative_url }}" title="How Missing Setlists Leave Money Unpaid | Music 3 A01 Be Songwriting Royaltie" aria-label="Open page: How Missing Setlists Leave Money Unpaid | Music 3 A01 Be Songwriting Royaltie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlist-gaps/' | relative_url }}" title="How Missing Setlists Leave Money Unpaid | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Open page: How Missing Setlists Leave Money Unpaid | How Songs Earn Beyond The Recording | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_songwriting_royaltie_389052_live_setlist_royalti_c54a78-Illustration-1.webp' | relative_url }}" alt="Overview image for How Missing Setlists Leave Money Unpaid | Music 3 A01 Be Songwriting Royaltie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3374,7 +3374,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-songwriting-royaltie-389052-streaming-mechanical-313eb4" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'mechanical-royalties/' | relative_url }}" title="The Hidden Song Royalties Inside Streaming | Music 3 A01 Be Songwriting Royaltie" aria-label="Open page: The Hidden Song Royalties Inside Streaming | Music 3 A01 Be Songwriting Royaltie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mechanical-royalties/' | relative_url }}" title="The Hidden Song Royalties Inside Streaming | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Open page: The Hidden Song Royalties Inside Streaming | How Songs Earn Beyond The Recording | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_songwriting_royaltie_389052_streaming_mechanical_313eb4-Illustration-1.webp' | relative_url }}" alt="Overview image for The Hidden Song Royalties Inside Streaming | Music 3 A01 Be Songwriting Royaltie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3394,7 +3394,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-songwriting-royaltie-389052-sync-fee-and-royalti-ffd510" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sync-earnings/' | relative_url }}" title="When One Sync Deal Creates More Income | Music 3 A01 Be Songwriting Royaltie" aria-label="Open page: When One Sync Deal Creates More Income | Music 3 A01 Be Songwriting Royaltie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sync-earnings/' | relative_url }}" title="When One Sync Deal Creates More Income | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Open page: When One Sync Deal Creates More Income | How Songs Earn Beyond The Recording | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_songwriting_royaltie_389052_sync_fee_and_royalti_ffd510-Illustration-1.webp' | relative_url }}" alt="Overview image for When One Sync Deal Creates More Income | Music 3 A01 Be Songwriting Royaltie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3414,7 +3414,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-songwriting-royaltie-389052-broadcast-long-term-fdf634" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'broadcast-income/' | relative_url }}" title="Why Broadcast Use Can Last for Decades | Music 3 A01 Be Songwriting Royaltie" aria-label="Open page: Why Broadcast Use Can Last for Decades | Music 3 A01 Be Songwriting Royaltie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'broadcast-income/' | relative_url }}" title="Why Broadcast Use Can Last for Decades | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Open page: Why Broadcast Use Can Last for Decades | How Songs Earn Beyond The Recording | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_songwriting_royaltie_389052_broadcast_long_term_fdf634-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Broadcast Use Can Last for Decades | Music 3 A01 Be Songwriting Royaltie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3434,7 +3434,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-songwriting-royaltie-389052-writer-publisher-sha-33f95d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'royalty-splits/' | relative_url }}" title="Why the Same Song Pays Different People | Music 3 A01 Be Songwriting Royaltie" aria-label="Open page: Why the Same Song Pays Different People | Music 3 A01 Be Songwriting Royaltie">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'royalty-splits/' | relative_url }}" title="Why the Same Song Pays Different People | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Open page: Why the Same Song Pays Different People | How Songs Earn Beyond The Recording | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_songwriting_royaltie_389052_writer_publisher_sha_33f95d-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Same Song Pays Different People | Music 3 A01 Be Songwriting Royaltie" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3478,7 +3478,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recorded-music-time-e8ee7d-recorded-music-archi-ec162a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'music-archives/' | relative_url }}" title="How Archived Recordings Keep Musical History Alive | Music 3 A01 Be Recorded Music Time" aria-label="Open page: How Archived Recordings Keep Musical History Alive | Music 3 A01 Be Recorded Music Time">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'music-archives/' | relative_url }}" title="How Archived Recordings Keep Musical History Alive | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Open page: How Archived Recordings Keep Musical History Alive | How Recording Changed What Music Is | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_music_archi_ec162a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Archived Recordings Keep Musical History Alive | Music 3 A01 Be Recorded Music Time" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3498,7 +3498,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recorded-music-time-e8ee7d-edison-phonograph-mu-88bc94" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'edison-phonograph/' | relative_url }}" title="How Edison&#x27;s Phonograph Changed Musical Memory | Music 3 A01 Be Recorded Music Time" aria-label="Open page: How Edison&#x27;s Phonograph Changed Musical Memory | Music 3 A01 Be Recorded Music Time">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'edison-phonograph/' | relative_url }}" title="How Edison's Phonograph Changed Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Open page: How Edison's Phonograph Changed Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recorded_music_time_e8ee7d_edison_phonograph_mu_88bc94-Illustration-1.webp' | relative_url }}" alt="Overview image for How Edison&#x27;s Phonograph Changed Musical Memory | Music 3 A01 Be Recorded Music Time" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3518,7 +3518,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recorded-music-time-e8ee7d-playback-memory-effe-3ee561" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'playback-memory/' | relative_url }}" title="How Listening to Recordings Reshapes Musical Memory | Music 3 A01 Be Recorded Music Time" aria-label="Open page: How Listening to Recordings Reshapes Musical Memory | Music 3 A01 Be Recorded Music Time">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'playback-memory/' | relative_url }}" title="How Listening to Recordings Reshapes Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Open page: How Listening to Recordings Reshapes Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recorded_music_time_e8ee7d_playback_memory_effe_3ee561-Illustration-1.webp' | relative_url }}" alt="Overview image for How Listening to Recordings Reshapes Musical Memory | Music 3 A01 Be Recorded Music Time" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3538,7 +3538,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recorded-music-time-e8ee7d-portable-music-devic-076b1c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'portable-players/' | relative_url }}" title="How Portable Devices Made Music Personal Everywhere | Music 3 A01 Be Recorded Music Time" aria-label="Open page: How Portable Devices Made Music Personal Everywhere | Music 3 A01 Be Recorded Music Time">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'portable-players/' | relative_url }}" title="How Portable Devices Made Music Personal Everywhere | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Open page: How Portable Devices Made Music Personal Everywhere | How Recording Changed What Music Is | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recorded_music_time_e8ee7d_portable_music_devic_076b1c-Illustration-1.webp' | relative_url }}" alt="Overview image for How Portable Devices Made Music Personal Everywhere | Music 3 A01 Be Recorded Music Time" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3558,7 +3558,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-recorded-music-time-e8ee7d-recorded-performer-f-4d5f1a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'recorded-fame/' | relative_url }}" title="How Recordings Carried Performer Fame Across Distances | Music 3 A01 Be Recorded Music Time" aria-label="Open page: How Recordings Carried Performer Fame Across Distances | Music 3 A01 Be Recorded Music Time">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'recorded-fame/' | relative_url }}" title="How Recordings Carried Performer Fame Across Distances | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Open page: How Recordings Carried Performer Fame Across Distances | How Recording Changed What Music Is | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_recorded_music_time_e8ee7d_recorded_performer_f_4d5f1a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Recordings Carried Performer Fame Across Distances | Music 3 A01 Be Recorded Music Time" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3580,7 +3580,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-regional-scenes-stre-ec1816" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'regional-scenes/' | relative_url }}" title="How Local Sounds Become Global | Music" aria-label="Open page: How Local Sounds Become Global | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'regional-scenes/' | relative_url }}" title="How Local Sounds Become Global | Music 3 A01 Be" aria-label="Open page: How Local Sounds Become Global | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_regional_scenes_stre_ec1816-overview.webp' | relative_url }}" alt="Overview image for How Local Sounds Become Global | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3602,7 +3602,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-regional-scenes-stre-ec1816-afrobeats-diaspora-s-521da2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'afrobeats-01714f/' | relative_url }}" title="How Afrobeats Turned Diaspora Listening Into Reach | Music 3 A01 Be Regional Scenes Stre" aria-label="Open page: How Afrobeats Turned Diaspora Listening Into Reach | Music 3 A01 Be Regional Scenes Stre">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'afrobeats-01714f/' | relative_url }}" title="How Afrobeats Turned Diaspora Listening Into Reach | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Open page: How Afrobeats Turned Diaspora Listening Into Reach | How Local Sounds Become Global | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_regional_scenes_stre_ec1816_afrobeats_diaspora_s_521da2-Illustration-1.webp' | relative_url }}" alt="Overview image for How Afrobeats Turned Diaspora Listening Into Reach | Music 3 A01 Be Regional Scenes Stre" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3622,7 +3622,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-regional-scenes-stre-ec1816-regional-mexican-str-ce4c5a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'regional-mexican/' | relative_url }}" title="How Regional Mexican Music Crossed Borders Online | Music 3 A01 Be Regional Scenes Stre" aria-label="Open page: How Regional Mexican Music Crossed Borders Online | Music 3 A01 Be Regional Scenes Stre">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'regional-mexican/' | relative_url }}" title="How Regional Mexican Music Crossed Borders Online | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Open page: How Regional Mexican Music Crossed Borders Online | How Local Sounds Become Global | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_regional_scenes_stre_ec1816_regional_mexican_str_ce4c5a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Regional Mexican Music Crossed Borders Online | Music 3 A01 Be Regional Scenes Stre" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3642,7 +3642,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-regional-scenes-stre-ec1816-playlist-visibility-5937c8" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlist-gate/' | relative_url }}" title="The New Border Is Platform Visibility | Music 3 A01 Be Regional Scenes Stre" aria-label="Open page: The New Border Is Platform Visibility | Music 3 A01 Be Regional Scenes Stre">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlist-gate/' | relative_url }}" title="The New Border Is Platform Visibility | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Open page: The New Border Is Platform Visibility | How Local Sounds Become Global | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_regional_scenes_stre_ec1816_playlist_visibility_5937c8-Illustration-1.webp' | relative_url }}" alt="Overview image for The New Border Is Platform Visibility | Music 3 A01 Be Regional Scenes Stre" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3662,7 +3662,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-regional-scenes-stre-ec1816-streaming-data-scene-e7994e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'data-proof/' | relative_url }}" title="When Streams Become Proof Of A Scene | Music 3 A01 Be Regional Scenes Stre" aria-label="Open page: When Streams Become Proof Of A Scene | Music 3 A01 Be Regional Scenes Stre">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'data-proof/' | relative_url }}" title="When Streams Become Proof Of A Scene | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Open page: When Streams Become Proof Of A Scene | How Local Sounds Become Global | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_regional_scenes_stre_ec1816_streaming_data_scene_e7994e-Illustration-1.webp' | relative_url }}" alt="Overview image for When Streams Become Proof Of A Scene | Music 3 A01 Be Regional Scenes Stre" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3682,7 +3682,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-regional-scenes-stre-ec1816-amapiano-global-remi-592814" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'amapiano/' | relative_url }}" title="Why Amapiano Became A Global Dance Grammar | Music 3 A01 Be Regional Scenes Stre" aria-label="Open page: Why Amapiano Became A Global Dance Grammar | Music 3 A01 Be Regional Scenes Stre">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'amapiano/' | relative_url }}" title="Why Amapiano Became A Global Dance Grammar | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Open page: Why Amapiano Became A Global Dance Grammar | How Local Sounds Become Global | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_regional_scenes_stre_ec1816_amapiano_global_remi_592814-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Amapiano Became A Global Dance Grammar | Music 3 A01 Be Regional Scenes Stre" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3726,7 +3726,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-rhythm-body-movement-c121e4-rhythmic-cueing-reha-73c48c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rhythm-therapy/' | relative_url }}" title="Can a Beat Help Bodies Move Better? | Music 3 A01 Be Rhythm Body Movement" aria-label="Open page: Can a Beat Help Bodies Move Better? | Music 3 A01 Be Rhythm Body Movement">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rhythm-therapy/' | relative_url }}" title="Can a Beat Help Bodies Move Better? | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Open page: Can a Beat Help Bodies Move Better? | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_rhythm_body_movement_c121e4_rhythmic_cueing_reha_73c48c-Illustration-1.webp' | relative_url }}" alt="Overview image for Can a Beat Help Bodies Move Better? | Music 3 A01 Be Rhythm Body Movement" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3746,7 +3746,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-rhythm-body-movement-c121e4-dance-floor-synchron-a141bf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-timing/' | relative_url }}" title="How Dance Floors Turn Beats Into Belonging | Music 3 A01 Be Rhythm Body Movement" aria-label="Open page: How Dance Floors Turn Beats Into Belonging | Music 3 A01 Be Rhythm Body Movement">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'shared-timing/' | relative_url }}" title="How Dance Floors Turn Beats Into Belonging | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Open page: How Dance Floors Turn Beats Into Belonging | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_rhythm_body_movement_c121e4_dance_floor_synchron_a141bf-Illustration-1.webp' | relative_url }}" alt="Overview image for How Dance Floors Turn Beats Into Belonging | Music 3 A01 Be Rhythm Body Movement" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3766,7 +3766,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-rhythm-body-movement-c121e4-chants-hooks-memory-aec487" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'hooks/' | relative_url }}" title="Why Chants Stay in the Body | Music 3 A01 Be Rhythm Body Movement" aria-label="Open page: Why Chants Stay in the Body | Music 3 A01 Be Rhythm Body Movement">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'hooks/' | relative_url }}" title="Why Chants Stay in the Body | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Open page: Why Chants Stay in the Body | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_rhythm_body_movement_c121e4_chants_hooks_memory_aec487-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Chants Stay in the Body | Music 3 A01 Be Rhythm Body Movement" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3786,7 +3786,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-rhythm-body-movement-c121e4-syncopation-groove-d-c4d096" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'syncopation/' | relative_url }}" title="Why Off Beat Rhythms Make People Move | Music 3 A01 Be Rhythm Body Movement" aria-label="Open page: Why Off Beat Rhythms Make People Move | Music 3 A01 Be Rhythm Body Movement">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'syncopation/' | relative_url }}" title="Why Off Beat Rhythms Make People Move | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Open page: Why Off Beat Rhythms Make People Move | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_rhythm_body_movement_c121e4_syncopation_groove_d_c4d096-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Off Beat Rhythms Make People Move | Music 3 A01 Be Rhythm Body Movement" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3806,7 +3806,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-rhythm-body-movement-c121e4-beat-brain-movement-4c1da0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'beat-brain/' | relative_url }}" title="Why Your Body Hears the Beat First | Music 3 A01 Be Rhythm Body Movement" aria-label="Open page: Why Your Body Hears the Beat First | Music 3 A01 Be Rhythm Body Movement">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'beat-brain/' | relative_url }}" title="Why Your Body Hears the Beat First | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Open page: Why Your Body Hears the Beat First | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_rhythm_body_movement_c121e4_beat_brain_movement_4c1da0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Your Body Hears the Beat First | Music 3 A01 Be Rhythm Body Movement" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3828,7 +3828,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-music-rights-complic-6e7958" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'rights/' | relative_url }}" title="Why One Song Has So Many Rights | Music" aria-label="Open page: Why One Song Has So Many Rights | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'rights/' | relative_url }}" title="Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Open page: Why One Song Has So Many Rights | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_rights_complic_6e7958-overview.webp' | relative_url }}" alt="Overview image for Why One Song Has So Many Rights | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3850,7 +3850,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-rights-complic-6e7958-royalty-metadata-gap-6b3d8d" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'metadata-gaps/' | relative_url }}" title="How royalties get lost in the data | Music 3 A01 Be Music Rights Complic" aria-label="Open page: How royalties get lost in the data | Music 3 A01 Be Music Rights Complic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'metadata-gaps/' | relative_url }}" title="How royalties get lost in the data | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Open page: How royalties get lost in the data | Why One Song Has So Many Rights | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_rights_complic_6e7958_royalty_metadata_gap_6b3d8d-Illustration-1.webp' | relative_url }}" alt="Overview image for How royalties get lost in the data | Music 3 A01 Be Music Rights Complic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3870,7 +3870,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-rights-complic-6e7958-prs-royalty-dispute-26c51c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'prs-dispute/' | relative_url }}" title="When royalty societies face their members | Music 3 A01 Be Music Rights Complic" aria-label="Open page: When royalty societies face their members | Music 3 A01 Be Music Rights Complic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'prs-dispute/' | relative_url }}" title="When royalty societies face their members | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Open page: When royalty societies face their members | Why One Song Has So Many Rights | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_rights_complic_6e7958_prs_royalty_dispute_26c51c-Illustration-1.webp' | relative_url }}" alt="Overview image for When royalty societies face their members | Music 3 A01 Be Music Rights Complic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3890,7 +3890,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-rights-complic-6e7958-public-performance-l-c555dd" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'public-play/' | relative_url }}" title="Why cafes pay to play songs | Music 3 A01 Be Music Rights Complic" aria-label="Open page: Why cafes pay to play songs | Music 3 A01 Be Music Rights Complic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'public-play/' | relative_url }}" title="Why cafes pay to play songs | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Open page: Why cafes pay to play songs | Why One Song Has So Many Rights | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_rights_complic_6e7958_public_performance_l_c555dd-Illustration-1.webp' | relative_url }}" alt="Overview image for Why cafes pay to play songs | Music 3 A01 Be Music Rights Complic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3910,7 +3910,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-rights-complic-6e7958-cover-song-licensing-b157e2" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cover-songs-d042c1/' | relative_url }}" title="Why covers need one licence, not two | Music 3 A01 Be Music Rights Complic" aria-label="Open page: Why covers need one licence, not two | Music 3 A01 Be Music Rights Complic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cover-songs-d042c1/' | relative_url }}" title="Why covers need one licence, not two | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Open page: Why covers need one licence, not two | Why One Song Has So Many Rights | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_rights_complic_6e7958_cover_song_licensing_b157e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why covers need one licence, not two | Music 3 A01 Be Music Rights Complic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3930,7 +3930,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-music-rights-complic-6e7958-sync-master-clearanc-3c7634" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sync-rights/' | relative_url }}" title="Why film music needs double clearance | Music 3 A01 Be Music Rights Complic" aria-label="Open page: Why film music needs double clearance | Music 3 A01 Be Music Rights Complic">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sync-rights/' | relative_url }}" title="Why film music needs double clearance | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Open page: Why film music needs double clearance | Why One Song Has So Many Rights | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_music_rights_complic_6e7958_sync_master_clearanc_3c7634-Illustration-1.webp' | relative_url }}" alt="Overview image for Why film music needs double clearance | Music 3 A01 Be Music Rights Complic" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3952,7 +3952,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-streaming-artist-rev-0dcd6e" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'royalties/' | relative_url }}" title="How Streaming Money Actually Reaches Artists | Music" aria-label="Open page: How Streaming Money Actually Reaches Artists | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'royalties/' | relative_url }}" title="How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Open page: How Streaming Money Actually Reaches Artists | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_artist_rev_0dcd6e-overview.webp' | relative_url }}" alt="Overview image for How Streaming Money Actually Reaches Artists | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3974,7 +3974,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-artist-rev-0dcd6e-songwriter-streaming-89e0b1" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'songwriters-701a60/' | relative_url }}" title="How songwriters get paid from streams | Music 3 A01 Be Streaming Artist Rev" aria-label="Open page: How songwriters get paid from streams | Music 3 A01 Be Streaming Artist Rev">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'songwriters-701a60/' | relative_url }}" title="How songwriters get paid from streams | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Open page: How songwriters get paid from streams | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_artist_rev_0dcd6e_songwriter_streaming_89e0b1-Illustration-1.webp' | relative_url }}" alt="Overview image for How songwriters get paid from streams | Music 3 A01 Be Streaming Artist Rev" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -3994,7 +3994,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-artist-rev-0dcd6e-missing-publishing-r-ffa9cb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-royalties/' | relative_url }}" title="The royalties artists forget to collect | Music 3 A01 Be Streaming Artist Rev" aria-label="Open page: The royalties artists forget to collect | Music 3 A01 Be Streaming Artist Rev">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'missing-royalties/' | relative_url }}" title="The royalties artists forget to collect | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Open page: The royalties artists forget to collect | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_artist_rev_0dcd6e_missing_publishing_r_ffa9cb-Illustration-1.webp' | relative_url }}" alt="Overview image for The royalties artists forget to collect | Music 3 A01 Be Streaming Artist Rev" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4014,7 +4014,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-artist-rev-0dcd6e-master-rights-stream-513675" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'master-rights/' | relative_url }}" title="Who gets the recording money first? | Music 3 A01 Be Streaming Artist Rev" aria-label="Open page: Who gets the recording money first? | Music 3 A01 Be Streaming Artist Rev">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'master-rights/' | relative_url }}" title="Who gets the recording money first? | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Open page: Who gets the recording money first? | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_artist_rev_0dcd6e_master_rights_stream_513675-Illustration-1.webp' | relative_url }}" alt="Overview image for Who gets the recording money first? | Music 3 A01 Be Streaming Artist Rev" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4034,7 +4034,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-artist-rev-0dcd6e-fixed-stream-payout-c1a47b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'payout-rates/' | relative_url }}" title="Why one stream is not worth one price | Music 3 A01 Be Streaming Artist Rev" aria-label="Open page: Why one stream is not worth one price | Music 3 A01 Be Streaming Artist Rev">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'payout-rates/' | relative_url }}" title="Why one stream is not worth one price | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Open page: Why one stream is not worth one price | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_artist_rev_0dcd6e_fixed_stream_payout_c1a47b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why one stream is not worth one price | Music 3 A01 Be Streaming Artist Rev" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4054,7 +4054,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-artist-rev-0dcd6e-global-streaming-roy-8e16bb" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'global-plays/' | relative_url }}" title="Why streams abroad pay differently | Music 3 A01 Be Streaming Artist Rev" aria-label="Open page: Why streams abroad pay differently | Music 3 A01 Be Streaming Artist Rev">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'global-plays/' | relative_url }}" title="Why streams abroad pay differently | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Open page: Why streams abroad pay differently | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_artist_rev_0dcd6e_global_streaming_roy_8e16bb-Illustration-1.webp' | relative_url }}" alt="Overview image for Why streams abroad pay differently | Music 3 A01 Be Streaming Artist Rev" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4076,7 +4076,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-missing-setlists-roy-cc2db6" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists/' | relative_url }}" title="Why Setlists Are More Than Souvenirs | Music" aria-label="Open page: Why Setlists Are More Than Souvenirs | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'setlists/' | relative_url }}" title="Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Open page: Why Setlists Are More Than Souvenirs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_missing_setlists_roy_cc2db6-overview.webp' | relative_url }}" alt="Overview image for Why Setlists Are More Than Souvenirs | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4098,7 +4098,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-missing-setlists-roy-cc2db6-handwritten-setlist-4c7649" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-setlists/' | relative_url }}" title="Can A Handwritten Setlist Prove A Royalty Claim? | Music 3 A01 Be Missing Setlists Roy" aria-label="Open page: Can A Handwritten Setlist Prove A Royalty Claim? | Music 3 A01 Be Missing Setlists Roy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'paper-setlists/' | relative_url }}" title="Can A Handwritten Setlist Prove A Royalty Claim? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Open page: Can A Handwritten Setlist Prove A Royalty Claim? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_missing_setlists_roy_cc2db6_handwritten_setlist_4c7649-Illustration-1.webp' | relative_url }}" alt="Overview image for Can A Handwritten Setlist Prove A Royalty Claim? | Music 3 A01 Be Missing Setlists Roy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4118,7 +4118,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-missing-setlists-roy-cc2db6-cover-song-setlists-ee8628" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cover-songs/' | relative_url }}" title="Do Cover Gigs Pay The Right Writers? | Music 3 A01 Be Missing Setlists Roy" aria-label="Open page: Do Cover Gigs Pay The Right Writers? | Music 3 A01 Be Missing Setlists Roy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cover-songs/' | relative_url }}" title="Do Cover Gigs Pay The Right Writers? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Open page: Do Cover Gigs Pay The Right Writers? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_missing_setlists_roy_cc2db6_cover_song_setlists_ee8628-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Cover Gigs Pay The Right Writers? | Music 3 A01 Be Missing Setlists Roy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4138,7 +4138,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-missing-setlists-roy-cc2db6-small-venue-claim-de-5f4e2e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-deadlines/' | relative_url }}" title="What Happens When Gig Claims Arrive Too Late? | Music 3 A01 Be Missing Setlists Roy" aria-label="Open page: What Happens When Gig Claims Arrive Too Late? | Music 3 A01 Be Missing Setlists Roy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'claim-deadlines/' | relative_url }}" title="What Happens When Gig Claims Arrive Too Late? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Open page: What Happens When Gig Claims Arrive Too Late? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_missing_setlists_roy_cc2db6_small_venue_claim_de_5f4e2e-Illustration-1.webp' | relative_url }}" alt="Overview image for What Happens When Gig Claims Arrive Too Late? | Music 3 A01 Be Missing Setlists Roy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4158,7 +4158,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-missing-setlists-roy-cc2db6-grassroots-black-box-8eb6e6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'black-box-gigs/' | relative_url }}" title="Why Grassroots Gig Money Gets Lost | Music 3 A01 Be Missing Setlists Roy" aria-label="Open page: Why Grassroots Gig Money Gets Lost | Music 3 A01 Be Missing Setlists Roy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'black-box-gigs/' | relative_url }}" title="Why Grassroots Gig Money Gets Lost | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Open page: Why Grassroots Gig Money Gets Lost | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_missing_setlists_roy_cc2db6_grassroots_black_box_8eb6e6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Grassroots Gig Money Gets Lost | Music 3 A01 Be Missing Setlists Roy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4178,7 +4178,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-missing-setlists-roy-cc2db6-prs-black-box-lawsui-522eaf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'prs-lawsuit/' | relative_url }}" title="Why Missing Setlists Are Hard To Sue Over | Music 3 A01 Be Missing Setlists Roy" aria-label="Open page: Why Missing Setlists Are Hard To Sue Over | Music 3 A01 Be Missing Setlists Roy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'prs-lawsuit/' | relative_url }}" title="Why Missing Setlists Are Hard To Sue Over | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Open page: Why Missing Setlists Are Hard To Sue Over | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_missing_setlists_roy_cc2db6_prs_black_box_lawsui_522eaf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Missing Setlists Are Hard To Sue Over | Music 3 A01 Be Missing Setlists Roy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4200,7 +4200,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-short-clips-songwrit-c1f922" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'short-clips/' | relative_url }}" title="How Short Clips Reshape Hit Songs | Music" aria-label="Open page: How Short Clips Reshape Hit Songs | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'short-clips/' | relative_url }}" title="How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Open page: How Short Clips Reshape Hit Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_short_clips_songwrit_c1f922-overview.webp' | relative_url }}" alt="Overview image for How Short Clips Reshape Hit Songs | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4222,7 +4222,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-short-clips-songwrit-c1f922-artist-vs-song-disco-7c0679" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'artist-discovery/' | relative_url }}" title="Can Viral Songs Build Lasting Fans? | Music 3 A01 Be Short Clips Songwrit" aria-label="Open page: Can Viral Songs Build Lasting Fans? | Music 3 A01 Be Short Clips Songwrit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'artist-discovery/' | relative_url }}" title="Can Viral Songs Build Lasting Fans? | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Open page: Can Viral Songs Build Lasting Fans? | How Short Clips Reshape Hit Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_short_clips_songwrit_c1f922_artist_vs_song_disco_7c0679-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Viral Songs Build Lasting Fans? | Music 3 A01 Be Short Clips Songwrit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4242,7 +4242,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-short-clips-songwrit-c1f922-first-second-hooks-2c99a0" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'early-hooks/' | relative_url }}" title="How Fast Does a Song Need to Grab You? | Music 3 A01 Be Short Clips Songwrit" aria-label="Open page: How Fast Does a Song Need to Grab You? | Music 3 A01 Be Short Clips Songwrit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'early-hooks/' | relative_url }}" title="How Fast Does a Song Need to Grab You? | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Open page: How Fast Does a Song Need to Grab You? | How Short Clips Reshape Hit Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_short_clips_songwrit_c1f922_first_second_hooks_2c99a0-Illustration-1.webp' | relative_url }}" alt="Overview image for How Fast Does a Song Need to Grab You? | Music 3 A01 Be Short Clips Songwrit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4262,7 +4262,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-short-clips-songwrit-c1f922-old-song-revivals-aaa39e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-revivals/' | relative_url }}" title="How Old Songs Become New Hits Again | Music 3 A01 Be Short Clips Songwrit" aria-label="Open page: How Old Songs Become New Hits Again | Music 3 A01 Be Short Clips Songwrit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'song-revivals/' | relative_url }}" title="How Old Songs Become New Hits Again | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Open page: How Old Songs Become New Hits Again | How Short Clips Reshape Hit Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_short_clips_songwrit_c1f922_old_song_revivals_aaa39e-Illustration-1.webp' | relative_url }}" alt="Overview image for How Old Songs Become New Hits Again | Music 3 A01 Be Short Clips Songwrit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4282,7 +4282,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-short-clips-songwrit-c1f922-clip-first-songwriti-57cb07" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'clip-tradeoffs/' | relative_url }}" title="When a Viral Snippet Hurts the Full Song | Music 3 A01 Be Short Clips Songwrit" aria-label="Open page: When a Viral Snippet Hurts the Full Song | Music 3 A01 Be Short Clips Songwrit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'clip-tradeoffs/' | relative_url }}" title="When a Viral Snippet Hurts the Full Song | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Open page: When a Viral Snippet Hurts the Full Song | How Short Clips Reshape Hit Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_short_clips_songwrit_c1f922_clip_first_songwriti_57cb07-Illustration-1.webp' | relative_url }}" alt="Overview image for When a Viral Snippet Hurts the Full Song | Music 3 A01 Be Short Clips Songwrit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4302,7 +4302,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-short-clips-songwrit-c1f922-viral-song-moments-678919" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'viral-moments/' | relative_url }}" title="Why the Chorus Is No Longer the Only Hook | Music 3 A01 Be Short Clips Songwrit" aria-label="Open page: Why the Chorus Is No Longer the Only Hook | Music 3 A01 Be Short Clips Songwrit">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'viral-moments/' | relative_url }}" title="Why the Chorus Is No Longer the Only Hook | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Open page: Why the Chorus Is No Longer the Only Hook | How Short Clips Reshape Hit Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_short_clips_songwrit_c1f922_viral_song_moments_678919-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Chorus Is No Longer the Only Hook | Music 3 A01 Be Short Clips Songwrit" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4346,7 +4346,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-silence-in-music-822765-cage-433-silence-7dfa35" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cage-4-33/' | relative_url }}" title="How John Cages 433 Redefines Musical Silence | Music 3 A01 Be Silence In Music" aria-label="Open page: How John Cages 433 Redefines Musical Silence | Music 3 A01 Be Silence In Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cage-4-33/' | relative_url }}" title="How John Cages 433 Redefines Musical Silence | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Open page: How John Cages 433 Redefines Musical Silence | Why Silence Can Be Music Too | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_silence_in_music_822765_cage_433_silence_7dfa35-Illustration-1.webp' | relative_url }}" alt="Overview image for How John Cages 433 Redefines Musical Silence | Music 3 A01 Be Silence In Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4366,7 +4366,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-silence-in-music-822765-musical-pauses-tensi-e9beae" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'pauses-tension/' | relative_url }}" title="How Pauses Build Anticipation in Music | Music 3 A01 Be Silence In Music" aria-label="Open page: How Pauses Build Anticipation in Music | Music 3 A01 Be Silence In Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pauses-tension/' | relative_url }}" title="How Pauses Build Anticipation in Music | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Open page: How Pauses Build Anticipation in Music | Why Silence Can Be Music Too | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_silence_in_music_822765_musical_pauses_tensi_e9beae-Illustration-1.webp' | relative_url }}" alt="Overview image for How Pauses Build Anticipation in Music | Music 3 A01 Be Silence In Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4386,7 +4386,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-silence-in-music-822765-performance-silence-b90f2a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'performance-gestures/' | relative_url }}" title="How Performers Use Gesture to Shape Silence | Music 3 A01 Be Silence In Music" aria-label="Open page: How Performers Use Gesture to Shape Silence | Music 3 A01 Be Silence In Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'performance-gestures/' | relative_url }}" title="How Performers Use Gesture to Shape Silence | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Open page: How Performers Use Gesture to Shape Silence | Why Silence Can Be Music Too | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_silence_in_music_822765_performance_silence_b90f2a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Performers Use Gesture to Shape Silence | Music 3 A01 Be Silence In Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4406,7 +4406,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-silence-in-music-822765-silence-emotional-me-83ca58" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'emotional-silence/' | relative_url }}" title="How Silence Communicates Emotion and Meaning in Music | Music 3 A01 Be Silence In Music" aria-label="Open page: How Silence Communicates Emotion and Meaning in Music | Music 3 A01 Be Silence In Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'emotional-silence/' | relative_url }}" title="How Silence Communicates Emotion and Meaning in Music | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Open page: How Silence Communicates Emotion and Meaning in Music | Why Silence Can Be Music Too | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_silence_in_music_822765_silence_emotional_me_83ca58-Illustration-1.webp' | relative_url }}" alt="Overview image for How Silence Communicates Emotion and Meaning in Music | Music 3 A01 Be Silence In Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4426,7 +4426,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-silence-in-music-822765-recording-space-dyna-6276bf" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'recording-space/' | relative_url }}" title="Why Silence Shapes the Impact of Recorded Music | Music 3 A01 Be Silence In Music" aria-label="Open page: Why Silence Shapes the Impact of Recorded Music | Music 3 A01 Be Silence In Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'recording-space/' | relative_url }}" title="Why Silence Shapes the Impact of Recorded Music | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Open page: Why Silence Shapes the Impact of Recorded Music | Why Silence Can Be Music Too | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_silence_in_music_822765_recording_space_dyna_6276bf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Silence Shapes the Impact of Recorded Music | Music 3 A01 Be Silence In Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4448,7 +4448,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-spotify-payout-debat-88bd5d" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'spotify-payouts/' | relative_url }}" title="What Streaming Payout Claims Really Mean | Music" aria-label="Open page: What Streaming Payout Claims Really Mean | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'spotify-payouts/' | relative_url }}" title="What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Open page: What Streaming Payout Claims Really Mean | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_spotify_payout_debat_88bd5d-overview.webp' | relative_url }}" alt="Overview image for What Streaming Payout Claims Really Mean | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4470,7 +4470,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-spotify-payout-debat-88bd5d-loud-clear-limits-60500c" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'payout-data/' | relative_url }}" title="What Spotify&#x27;s big payout numbers leave out | Music 3 A01 Be Spotify Payout Debat" aria-label="Open page: What Spotify&#x27;s big payout numbers leave out | Music 3 A01 Be Spotify Payout Debat">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'payout-data/' | relative_url }}" title="What Spotify's big payout numbers leave out | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Open page: What Spotify's big payout numbers leave out | What Streaming Payout Claims Really Mean | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_spotify_payout_debat_88bd5d_loud_clear_limits_60500c-Illustration-1.webp' | relative_url }}" alt="Overview image for What Spotify&#x27;s big payout numbers leave out | Music 3 A01 Be Spotify Payout Debat" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4490,7 +4490,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-spotify-payout-debat-88bd5d-spotify-1000-stream-720626" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ '1-000-streams-a35779/' | relative_url }}" title="Who loses under Spotify&#x27;s 1,000 stream rule? | Music 3 A01 Be Spotify Payout Debat" aria-label="Open page: Who loses under Spotify&#x27;s 1,000 stream rule? | Music 3 A01 Be Spotify Payout Debat">
+<a class="ct-node-link home-vertical-primary-link" href="{{ '1-000-streams-a35779/' | relative_url }}" title="Who loses under Spotify's 1,000 stream rule? | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Open page: Who loses under Spotify's 1,000 stream rule? | What Streaming Payout Claims Really Mean | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_1000_stream_720626-Illustration-1.webp' | relative_url }}" alt="Overview image for Who loses under Spotify&#x27;s 1,000 stream rule? | Music 3 A01 Be Spotify Payout Debat" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4510,7 +4510,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-spotify-payout-debat-88bd5d-spotify-no-fixed-rat-472359" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'per-stream/' | relative_url }}" title="Why one Spotify stream has no fixed price | Music 3 A01 Be Spotify Payout Debat" aria-label="Open page: Why one Spotify stream has no fixed price | Music 3 A01 Be Spotify Payout Debat">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'per-stream/' | relative_url }}" title="Why one Spotify stream has no fixed price | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Open page: Why one Spotify stream has no fixed price | What Streaming Payout Claims Really Mean | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_spotify_payout_debat_88bd5d_spotify_no_fixed_rat_472359-Illustration-1.webp' | relative_url }}" alt="Overview image for Why one Spotify stream has no fixed price | Music 3 A01 Be Spotify Payout Debat" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4530,7 +4530,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-spotify-payout-debat-88bd5d-two-royalty-trails-cca5df" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-rights/' | relative_url }}" title="Why one stream creates two royalty trails | Music 3 A01 Be Spotify Payout Debat" aria-label="Open page: Why one stream creates two royalty trails | Music 3 A01 Be Spotify Payout Debat">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-rights/' | relative_url }}" title="Why one stream creates two royalty trails | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Open page: Why one stream creates two royalty trails | What Streaming Payout Claims Really Mean | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_spotify_payout_debat_88bd5d_two_royalty_trails_cca5df-Illustration-1.webp' | relative_url }}" alt="Overview image for Why one stream creates two royalty trails | Music 3 A01 Be Spotify Payout Debat" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4550,7 +4550,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-spotify-payout-debat-88bd5d-artist-take-home-pay-41cfda" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'artist-share/' | relative_url }}" title="Why Spotify money reaches artists unevenly | Music 3 A01 Be Spotify Payout Debat" aria-label="Open page: Why Spotify money reaches artists unevenly | Music 3 A01 Be Spotify Payout Debat">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'artist-share/' | relative_url }}" title="Why Spotify money reaches artists unevenly | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Open page: Why Spotify money reaches artists unevenly | What Streaming Payout Claims Really Mean | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_spotify_payout_debat_88bd5d_artist_take_home_pay_41cfda-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Spotify money reaches artists unevenly | Music 3 A01 Be Spotify Payout Debat" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4572,7 +4572,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-streaming-listening-72e5f3" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'streaming/' | relative_url }}" title="How Streaming Changed Listening Habits | Music" aria-label="Open page: How Streaming Changed Listening Habits | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'streaming/' | relative_url }}" title="How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Open page: How Streaming Changed Listening Habits | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_listening_72e5f3-overview.webp' | relative_url }}" alt="Overview image for How Streaming Changed Listening Habits | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4594,7 +4594,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-listening-72e5f3-music-recommendation-df5492" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'algorithms-a7ef46/' | relative_url }}" title="Do Music Algorithms Expand Your Taste? | Music 3 A01 Be Streaming Listening" aria-label="Open page: Do Music Algorithms Expand Your Taste? | Music 3 A01 Be Streaming Listening">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'algorithms-a7ef46/' | relative_url }}" title="Do Music Algorithms Expand Your Taste? | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Open page: Do Music Algorithms Expand Your Taste? | How Streaming Changed Listening Habits | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_listening_72e5f3_music_recommendation_df5492-Illustration-1.webp' | relative_url }}" alt="Overview image for Do Music Algorithms Expand Your Taste? | Music 3 A01 Be Streaming Listening" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4614,7 +4614,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-listening-72e5f3-streaming-revenue-ha-aa040a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'revenue-dbec50/' | relative_url }}" title="What the Money Says About Streaming | Music 3 A01 Be Streaming Listening" aria-label="Open page: What the Money Says About Streaming | Music 3 A01 Be Streaming Listening">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'revenue-dbec50/' | relative_url }}" title="What the Money Says About Streaming | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Open page: What the Money Says About Streaming | How Streaming Changed Listening Habits | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_listening_72e5f3_streaming_revenue_ha_aa040a-Illustration-1.webp' | relative_url }}" alt="Overview image for What the Money Says About Streaming | Music 3 A01 Be Streaming Listening" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4634,7 +4634,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-listening-72e5f3-access-vs-ownership-6e3cec" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'access/' | relative_url }}" title="When Access Became More Useful Than Ownership | Music 3 A01 Be Streaming Listening" aria-label="Open page: When Access Became More Useful Than Ownership | Music 3 A01 Be Streaming Listening">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'access/' | relative_url }}" title="When Access Became More Useful Than Ownership | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Open page: When Access Became More Useful Than Ownership | How Streaming Changed Listening Habits | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_listening_72e5f3_access_vs_ownership_6e3cec-Illustration-1.webp' | relative_url }}" alt="Overview image for When Access Became More Useful Than Ownership | Music 3 A01 Be Streaming Listening" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4654,7 +4654,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-listening-72e5f3-background-music-uti-1b5e6b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'background/' | relative_url }}" title="Why Music Now Follows US Everywhere | Music 3 A01 Be Streaming Listening" aria-label="Open page: Why Music Now Follows US Everywhere | Music 3 A01 Be Streaming Listening">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'background/' | relative_url }}" title="Why Music Now Follows US Everywhere | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Open page: Why Music Now Follows US Everywhere | How Streaming Changed Listening Habits | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_listening_72e5f3_background_music_uti_1b5e6b-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Music Now Follows US Everywhere | Music 3 A01 Be Streaming Listening" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4674,7 +4674,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-streaming-listening-72e5f3-playlists-replaced-a-41e543" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlists-55b3d3/' | relative_url }}" title="Why Playlists Became the New Album | Music 3 A01 Be Streaming Listening" aria-label="Open page: Why Playlists Became the New Album | Music 3 A01 Be Streaming Listening">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'playlists-55b3d3/' | relative_url }}" title="Why Playlists Became the New Album | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Open page: Why Playlists Became the New Album | How Streaming Changed Listening Habits | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_streaming_listening_72e5f3_playlists_replaced_a_41e543-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Playlists Became the New Album | Music 3 A01 Be Streaming Listening" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4696,7 +4696,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-sync-licensing-song-fff395" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'sync/' | relative_url }}" title="How Screen Placements Revive Songs | Music" aria-label="Open page: How Screen Placements Revive Songs | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'sync/' | relative_url }}" title="How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Open page: How Screen Placements Revive Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_sync_licensing_song_fff395-overview.webp' | relative_url }}" alt="Overview image for How Screen Placements Revive Songs | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4718,7 +4718,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-sync-licensing-song-fff395-advertising-quiet-so-abd02a" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-sync/' | relative_url }}" title="How Quiet Songs Win in Loud Advertising | Music 3 A01 Be Sync Licensing Song" aria-label="Open page: How Quiet Songs Win in Loud Advertising | Music 3 A01 Be Sync Licensing Song">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ad-sync/' | relative_url }}" title="How Quiet Songs Win in Loud Advertising | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Open page: How Quiet Songs Win in Loud Advertising | How Screen Placements Revive Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_sync_licensing_song_fff395_advertising_quiet_so_abd02a-Illustration-1.webp' | relative_url }}" alt="Overview image for How Quiet Songs Win in Loud Advertising | Music 3 A01 Be Sync Licensing Song" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4738,7 +4738,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-sync-licensing-song-fff395-game-sync-buyouts-1dfae6" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'game-deals/' | relative_url }}" title="When Songs Become Part of Game Worlds | Music 3 A01 Be Sync Licensing Song" aria-label="Open page: When Songs Become Part of Game Worlds | Music 3 A01 Be Sync Licensing Song">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'game-deals/' | relative_url }}" title="When Songs Become Part of Game Worlds | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Open page: When Songs Become Part of Game Worlds | How Screen Placements Revive Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_sync_licensing_song_fff395_game_sync_buyouts_1dfae6-Illustration-1.webp' | relative_url }}" alt="Overview image for When Songs Become Part of Game Worlds | Music 3 A01 Be Sync Licensing Song" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4758,7 +4758,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-sync-licensing-song-fff395-scene-context-meanin-bb963e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'scene-meaning/' | relative_url }}" title="Why One Scene Can Rewrite a Song | Music 3 A01 Be Sync Licensing Song" aria-label="Open page: Why One Scene Can Rewrite a Song | Music 3 A01 Be Sync Licensing Song">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'scene-meaning/' | relative_url }}" title="Why One Scene Can Rewrite a Song | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Open page: Why One Scene Can Rewrite a Song | How Screen Placements Revive Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_sync_licensing_song_fff395_scene_context_meanin_bb963e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Scene Can Rewrite a Song | Music 3 A01 Be Sync Licensing Song" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4778,7 +4778,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-sync-licensing-song-fff395-two-rights-clearance-22ceca" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'clearance/' | relative_url }}" title="Why One Song Often Needs Two Yeses | Music 3 A01 Be Sync Licensing Song" aria-label="Open page: Why One Song Often Needs Two Yeses | Music 3 A01 Be Sync Licensing Song">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'clearance/' | relative_url }}" title="Why One Song Often Needs Two Yeses | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Open page: Why One Song Often Needs Two Yeses | How Screen Placements Revive Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_sync_licensing_song_fff395_two_rights_clearance_22ceca-Illustration-1.webp' | relative_url }}" alt="Overview image for Why One Song Often Needs Two Yeses | Music 3 A01 Be Sync Licensing Song" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4798,7 +4798,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-sync-licensing-song-fff395-sync-revenue-limits-0f375e" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'revenue/' | relative_url }}" title="Why Sync Money Is Big but Not Magic | Music 3 A01 Be Sync Licensing Song" aria-label="Open page: Why Sync Money Is Big but Not Magic | Music 3 A01 Be Sync Licensing Song">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'revenue/' | relative_url }}" title="Why Sync Money Is Big but Not Magic | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Open page: Why Sync Money Is Big but Not Magic | How Screen Placements Revive Songs | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_sync_licensing_song_fff395_sync_revenue_limits_0f375e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Sync Money Is Big but Not Magic | Music 3 A01 Be Sync Licensing Song" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4820,7 +4820,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-timbre-sound-texture-76da17" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'timbre/' | relative_url }}" title="Why The Same Note Can Feel Different | Music" aria-label="Open page: Why The Same Note Can Feel Different | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'timbre/' | relative_url }}" title="Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Open page: Why The Same Note Can Feel Different | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_timbre_sound_texture_76da17-overview.webp' | relative_url }}" alt="Overview image for Why The Same Note Can Feel Different | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4842,7 +4842,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-timbre-sound-texture-76da17-transient-sound-cues-6b266b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'transient-cues/' | relative_url }}" title="How Brief Attacks Reveal Sound Sources Instantly | Music 3 A01 Be Timbre Sound Texture" aria-label="Open page: How Brief Attacks Reveal Sound Sources Instantly | Music 3 A01 Be Timbre Sound Texture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'transient-cues/' | relative_url }}" title="How Brief Attacks Reveal Sound Sources Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Open page: How Brief Attacks Reveal Sound Sources Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_timbre_sound_texture_76da17_transient_sound_cues_6b266b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Brief Attacks Reveal Sound Sources Instantly | Music 3 A01 Be Timbre Sound Texture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4862,7 +4862,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-timbre-sound-texture-76da17-neural-timbre-proces-0a0b21" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'neural-timbre/' | relative_url }}" title="How the Brain Distinguishes Timbre Instantly | Music 3 A01 Be Timbre Sound Texture" aria-label="Open page: How the Brain Distinguishes Timbre Instantly | Music 3 A01 Be Timbre Sound Texture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'neural-timbre/' | relative_url }}" title="How the Brain Distinguishes Timbre Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Open page: How the Brain Distinguishes Timbre Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_timbre_sound_texture_76da17_neural_timbre_proces_0a0b21-Illustration-1.webp' | relative_url }}" alt="Overview image for How the Brain Distinguishes Timbre Instantly | Music 3 A01 Be Timbre Sound Texture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4882,7 +4882,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-timbre-sound-texture-76da17-vocal-tract-formants-cb254b" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vocal-formants/' | relative_url }}" title="How Vocal Tract Formants Define Individual Timbre | Music 3 A01 Be Timbre Sound Texture" aria-label="Open page: How Vocal Tract Formants Define Individual Timbre | Music 3 A01 Be Timbre Sound Texture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vocal-formants/' | relative_url }}" title="How Vocal Tract Formants Define Individual Timbre | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Open page: How Vocal Tract Formants Define Individual Timbre | Why The Same Note Can Feel Different | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_timbre_sound_texture_76da17_vocal_tract_formants_cb254b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Vocal Tract Formants Define Individual Timbre | Music 3 A01 Be Timbre Sound Texture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4902,7 +4902,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-timbre-sound-texture-76da17-synthetic-timbre-des-b74275" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'synthetic-timbre/' | relative_url }}" title="Making Synthesized Sounds Feel Human and Expressive | Music 3 A01 Be Timbre Sound Texture" aria-label="Open page: Making Synthesized Sounds Feel Human and Expressive | Music 3 A01 Be Timbre Sound Texture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'synthetic-timbre/' | relative_url }}" title="Making Synthesized Sounds Feel Human and Expressive | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Open page: Making Synthesized Sounds Feel Human and Expressive | Why The Same Note Can Feel Different | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_timbre_sound_texture_76da17_synthetic_timbre_des_b74275-Illustration-1.webp' | relative_url }}" alt="Overview image for Making Synthesized Sounds Feel Human and Expressive | Music 3 A01 Be Timbre Sound Texture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4922,7 +4922,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-timbre-sound-texture-76da17-instrument-design-ti-621e45" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'instrument-timbre/' | relative_url }}" title="Why Instrument Design Makes Sounds Feel Human | Music 3 A01 Be Timbre Sound Texture" aria-label="Open page: Why Instrument Design Makes Sounds Feel Human | Music 3 A01 Be Timbre Sound Texture">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'instrument-timbre/' | relative_url }}" title="Why Instrument Design Makes Sounds Feel Human | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Open page: Why Instrument Design Makes Sounds Feel Human | Why The Same Note Can Feel Different | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_timbre_sound_texture_76da17_instrument_design_ti_621e45-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Instrument Design Makes Sounds Feel Human | Music 3 A01 Be Timbre Sound Texture" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4944,7 +4944,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-uk-streaming-policy-aa90d2" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'uk-policy/' | relative_url }}" title="Can Policy Make Streaming Fairer? | Music" aria-label="Open page: Can Policy Make Streaming Fairer? | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'uk-policy/' | relative_url }}" title="Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Open page: Can Policy Make Streaming Fairer? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_uk_streaming_policy_aa90d2-overview.webp' | relative_url }}" alt="Overview image for Can Policy Make Streaming Fairer? | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4966,7 +4966,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-uk-streaming-policy-aa90d2-transparency-code-li-820b52" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'transparency/' | relative_url }}" title="Can better royalty information make streaming fairer? | Music 3 A01 Be UK Streaming Policy" aria-label="Open page: Can better royalty information make streaming fairer? | Music 3 A01 Be UK Streaming Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'transparency/' | relative_url }}" title="Can better royalty information make streaming fairer? | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Open page: Can better royalty information make streaming fairer? | Can Policy Make Streaming Fairer? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_uk_streaming_policy_aa90d2_transparency_code_li_820b52-Illustration-1.webp' | relative_url }}" alt="Overview image for Can better royalty information make streaming fairer? | Music 3 A01 Be UK Streaming Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -4986,7 +4986,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-uk-streaming-policy-aa90d2-metadata-unpaid-crea-a2759f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'metadata-d16ea8/' | relative_url }}" title="The tiny data errors that block music royalties | Music 3 A01 Be UK Streaming Policy" aria-label="Open page: The tiny data errors that block music royalties | Music 3 A01 Be UK Streaming Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'metadata-d16ea8/' | relative_url }}" title="The tiny data errors that block music royalties | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Open page: The tiny data errors that block music royalties | Can Policy Make Streaming Fairer? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_uk_streaming_policy_aa90d2_metadata_unpaid_crea_a2759f-Illustration-1.webp' | relative_url }}" alt="Overview image for The tiny data errors that block music royalties | Music 3 A01 Be UK Streaming Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5006,7 +5006,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-uk-streaming-policy-aa90d2-cma-streaming-pay-ar-c3e1be" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'cma-study/' | relative_url }}" title="Why competition law did not solve streaming pay | Music 3 A01 Be UK Streaming Policy" aria-label="Open page: Why competition law did not solve streaming pay | Music 3 A01 Be UK Streaming Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'cma-study/' | relative_url }}" title="Why competition law did not solve streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Open page: Why competition law did not solve streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_uk_streaming_policy_aa90d2_cma_streaming_pay_ar_c3e1be-Illustration-1.webp' | relative_url }}" alt="Overview image for Why competition law did not solve streaming pay | Music 3 A01 Be UK Streaming Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5026,7 +5026,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-uk-streaming-policy-aa90d2-legacy-artists-strea-b27377" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'legacy-artists/' | relative_url }}" title="Why old record deals still shape streaming pay | Music 3 A01 Be UK Streaming Policy" aria-label="Open page: Why old record deals still shape streaming pay | Music 3 A01 Be UK Streaming Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'legacy-artists/' | relative_url }}" title="Why old record deals still shape streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Open page: Why old record deals still shape streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_uk_streaming_policy_aa90d2_legacy_artists_strea_b27377-Illustration-1.webp' | relative_url }}" alt="Overview image for Why old record deals still shape streaming pay | Music 3 A01 Be UK Streaming Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5046,7 +5046,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-uk-streaming-policy-aa90d2-equitable-remunerati-5d80dc" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'er-debate/' | relative_url }}" title="Would equitable remuneration really fix streaming pay? | Music 3 A01 Be UK Streaming Policy" aria-label="Open page: Would equitable remuneration really fix streaming pay? | Music 3 A01 Be UK Streaming Policy">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'er-debate/' | relative_url }}" title="Would equitable remuneration really fix streaming pay? | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Open page: Would equitable remuneration really fix streaming pay? | Can Policy Make Streaming Fairer? | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_uk_streaming_policy_aa90d2_equitable_remunerati_5d80dc-Illustration-1.webp' | relative_url }}" alt="Overview image for Would equitable remuneration really fix streaming pay? | Music 3 A01 Be UK Streaming Policy" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5068,7 +5068,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-music-3a01be-vinyl-streaming-era-a87a09" data-node-kind="branch" data-semantic-level="l1">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'vinyl/' | relative_url }}" title="Why Vinyl Came Back In A Digital Age | Music" aria-label="Open page: Why Vinyl Came Back In A Digital Age | Music">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vinyl/' | relative_url }}" title="Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Open page: Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_vinyl_streaming_era_a87a09-overview.webp' | relative_url }}" alt="Overview image for Why Vinyl Came Back In A Digital Age | Music" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5090,7 +5090,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-vinyl-streaming-era-a87a09-vinyl-variants-fan-p-8572fe" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'variants/' | relative_url }}" title="Are Vinyl Variants Good for Fans? | Music 3 A01 Be Vinyl Streaming Era" aria-label="Open page: Are Vinyl Variants Good for Fans? | Music 3 A01 Be Vinyl Streaming Era">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'variants/' | relative_url }}" title="Are Vinyl Variants Good for Fans? | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Open page: Are Vinyl Variants Good for Fans? | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_variants_fan_p_8572fe-Illustration-1.webp' | relative_url }}" alt="Overview image for Are Vinyl Variants Good for Fans? | Music 3 A01 Be Vinyl Streaming Era" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5110,7 +5110,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-vinyl-streaming-era-a87a09-vinyl-album-artwork-cf8f63" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'artwork/' | relative_url }}" title="How Album Art Became Big Again | Music 3 A01 Be Vinyl Streaming Era" aria-label="Open page: How Album Art Became Big Again | Music 3 A01 Be Vinyl Streaming Era">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'artwork/' | relative_url }}" title="How Album Art Became Big Again | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Open page: How Album Art Became Big Again | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_album_artwork_cf8f63-Illustration-1.webp' | relative_url }}" alt="Overview image for How Album Art Became Big Again | Music 3 A01 Be Vinyl Streaming Era" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5130,7 +5130,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-vinyl-streaming-era-a87a09-record-store-day-sca-74c9ee" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'scarcity/' | relative_url }}" title="When Limited Vinyl Becomes the Event | Music 3 A01 Be Vinyl Streaming Era" aria-label="Open page: When Limited Vinyl Becomes the Event | Music 3 A01 Be Vinyl Streaming Era">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'scarcity/' | relative_url }}" title="When Limited Vinyl Becomes the Event | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Open page: When Limited Vinyl Becomes the Event | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_vinyl_streaming_era_a87a09_record_store_day_sca_74c9ee-Illustration-1.webp' | relative_url }}" alt="Overview image for When Limited Vinyl Becomes the Event | Music 3 A01 Be Vinyl Streaming Era" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5150,7 +5150,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-vinyl-streaming-era-a87a09-vinyl-listening-ritu-894d60" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ritual/' | relative_url }}" title="Why Playing Vinyl Slows Music Down | Music 3 A01 Be Vinyl Streaming Era" aria-label="Open page: Why Playing Vinyl Slows Music Down | Music 3 A01 Be Vinyl Streaming Era">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ritual/' | relative_url }}" title="Why Playing Vinyl Slows Music Down | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Open page: Why Playing Vinyl Slows Music Down | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_listening_ritu_894d60-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Playing Vinyl Slows Music Down | Music 3 A01 Be Vinyl Streaming Era" loading="lazy" decoding="async" fetchpriority="low">
 </div>
@@ -5170,7 +5170,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <div class="home-vertical-node-row">
 <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
 <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-music-3a01be-vinyl-streaming-era-a87a09-vinyl-ownership-c6792f" data-node-kind="child" data-semantic-level="l2">
-<a class="ct-node-link home-vertical-primary-link" href="{{ 'ownership/' | relative_url }}" title="Why Vinyl Still Feels Like Owning Music | Music 3 A01 Be Vinyl Streaming Era" aria-label="Open page: Why Vinyl Still Feels Like Owning Music | Music 3 A01 Be Vinyl Streaming Era">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'ownership/' | relative_url }}" title="Why Vinyl Still Feels Like Owning Music | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Open page: Why Vinyl Still Feels Like Owning Music | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">
 <div class="ct-node-thumb">
 <img src="{{ 'assets/images/music_3a01be_vinyl_streaming_era_a87a09_vinyl_ownership_c6792f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Vinyl Still Feels Like Owning Music | Music 3 A01 Be Vinyl Streaming Era" loading="lazy" decoding="async" fetchpriority="low">
 </div>
