@@ -246,7 +246,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Afrobeats Crossed Global Borders | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-afrobeats-global-cir-80f305"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'afrobeats/' | relative_url }}" title="How Afrobeats Crossed Global Borders | Music" aria-label="Read more about How Afrobeats Crossed Global Borders | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'afrobeats/' | relative_url }}" title="How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Read more about How Afrobeats Crossed Global Borders | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -266,7 +266,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'calm-down/' | relative_url }}" title="Did Calm Down Change Pop Crossover Rules? | Music 3 A01 Be Afrobeats Global Cir" aria-label="Read more about Did Calm Down Change Pop Crossover Rules? | Music 3 A01 Be Afrobeats Global Cir">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'calm-down/' | relative_url }}" title="Did Calm Down Change Pop Crossover Rules? | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Read more about Did Calm Down Change Pop Crossover Rules? | How Afrobeats Crossed Global Borders | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -286,7 +286,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'afro-nation/' | relative_url }}" title="How Festivals Turn Afrobeats Into Travel | Music 3 A01 Be Afrobeats Global Cir" aria-label="Read more about How Festivals Turn Afrobeats Into Travel | Music 3 A01 Be Afrobeats Global Cir">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'afro-nation/' | relative_url }}" title="How Festivals Turn Afrobeats Into Travel | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Read more about How Festivals Turn Afrobeats Into Travel | How Afrobeats Crossed Global Borders | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -306,7 +306,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'love-nwantiti/' | relative_url }}" title="How Love Nwantiti Travelled Beyond Nigeria | Music 3 A01 Be Afrobeats Global Cir" aria-label="Read more about How Love Nwantiti Travelled Beyond Nigeria | Music 3 A01 Be Afrobeats Global Cir">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'love-nwantiti/' | relative_url }}" title="How Love Nwantiti Travelled Beyond Nigeria | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Read more about How Love Nwantiti Travelled Beyond Nigeria | How Afrobeats Crossed Global Borders | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -326,7 +326,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'charts/' | relative_url }}" title="Why Afrobeats Needed Its Own Charts | Music 3 A01 Be Afrobeats Global Cir" aria-label="Read more about Why Afrobeats Needed Its Own Charts | Music 3 A01 Be Afrobeats Global Cir">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'charts/' | relative_url }}" title="Why Afrobeats Needed Its Own Charts | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Read more about Why Afrobeats Needed Its Own Charts | How Afrobeats Crossed Global Borders | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -346,7 +346,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-nightlife/' | relative_url }}" title="Why UK Parties Mattered for Afrobeats | Music 3 A01 Be Afrobeats Global Cir" aria-label="Read more about Why UK Parties Mattered for Afrobeats | Music 3 A01 Be Afrobeats Global Cir">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-nightlife/' | relative_url }}" title="Why UK Parties Mattered for Afrobeats | How Afrobeats Crossed Global Borders | Music 3 A01 Be" aria-label="Read more about Why UK Parties Mattered for Afrobeats | How Afrobeats Crossed Global Borders | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -390,7 +390,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-rules/' | relative_url }}" title="Can Platforms Police AI Music Floods? | Music 3 A01 Be AI Music Market Floo" aria-label="Read more about Can Platforms Police AI Music Floods? | Music 3 A01 Be AI Music Market Floo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'platform-rules/' | relative_url }}" title="Can Platforms Police AI Music Floods? | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Read more about Can Platforms Police AI Music Floods? | Could AI Flood The Music Market? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -410,7 +410,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bot-fraud/' | relative_url }}" title="How AI Songs Turned Into Streaming Fraud | Music 3 A01 Be AI Music Market Floo" aria-label="Read more about How AI Songs Turned Into Streaming Fraud | Music 3 A01 Be AI Music Market Floo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bot-fraud/' | relative_url }}" title="How AI Songs Turned Into Streaming Fraud | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Read more about How AI Songs Turned Into Streaming Fraud | Could AI Flood The Music Market? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -430,7 +430,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'deezer-surge/' | relative_url }}" title="What Deezer&#x27;s AI Upload Surge Reveals | Music 3 A01 Be AI Music Market Floo" aria-label="Read more about What Deezer&#x27;s AI Upload Surge Reveals | Music 3 A01 Be AI Music Market Floo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'deezer-surge/' | relative_url }}" title="What Deezer's AI Upload Surge Reveals | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Read more about What Deezer's AI Upload Surge Reveals | Could AI Flood The Music Market? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -450,7 +450,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'middle-market/' | relative_url }}" title="Where AI Music Hits Working Musicians First | Music 3 A01 Be AI Music Market Floo" aria-label="Read more about Where AI Music Hits Working Musicians First | Music 3 A01 Be AI Music Market Floo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'middle-market/' | relative_url }}" title="Where AI Music Hits Working Musicians First | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Read more about Where AI Music Hits Working Musicians First | Could AI Flood The Music Market? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -470,7 +470,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'training-disputes/' | relative_url }}" title="Why AI Music Lawsuits Matter for Flooding | Music 3 A01 Be AI Music Market Floo" aria-label="Read more about Why AI Music Lawsuits Matter for Flooding | Music 3 A01 Be AI Music Market Floo">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'training-disputes/' | relative_url }}" title="Why AI Music Lawsuits Matter for Flooding | Could AI Flood The Music Market? | Music 3 A01 Be" aria-label="Read more about Why AI Music Lawsuits Matter for Flooding | Could AI Flood The Music Market? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -514,7 +514,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prompt-copyright/' | relative_url }}" title="Can a Prompt Make a Song Copyrightable? | Music 3 A01 Be AI Generated Music" aria-label="Read more about Can a Prompt Make a Song Copyrightable? | Music 3 A01 Be AI Generated Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prompt-copyright/' | relative_url }}" title="Can a Prompt Make a Song Copyrightable? | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Read more about Can a Prompt Make a Song Copyrightable? | Who Gets Credit For AI Made Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -534,7 +534,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'upload-flood/' | relative_url }}" title="How AI Tracks Flood Streaming Platforms | Music 3 A01 Be AI Generated Music" aria-label="Read more about How AI Tracks Flood Streaming Platforms | Music 3 A01 Be AI Generated Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'upload-flood/' | relative_url }}" title="How AI Tracks Flood Streaming Platforms | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Read more about How AI Tracks Flood Streaming Platforms | Who Gets Credit For AI Made Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -554,7 +554,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'assist-or-replace/' | relative_url }}" title="When AI Helps Rather Than Replaces Musicians | Music 3 A01 Be AI Generated Music" aria-label="Read more about When AI Helps Rather Than Replaces Musicians | Music 3 A01 Be AI Generated Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'assist-or-replace/' | relative_url }}" title="When AI Helps Rather Than Replaces Musicians | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Read more about When AI Helps Rather Than Replaces Musicians | Who Gets Credit For AI Made Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -574,7 +574,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'voice-clones/' | relative_url }}" title="When an AI Song Sounds Like a Star | Music 3 A01 Be AI Generated Music" aria-label="Read more about When an AI Song Sounds Like a Star | Music 3 A01 Be AI Generated Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'voice-clones/' | relative_url }}" title="When an AI Song Sounds Like a Star | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Read more about When an AI Song Sounds Like a Star | Who Gets Credit For AI Made Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -594,7 +594,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-drake/' | relative_url }}" title="Why Heart on My Sleeve Was Removed | Music 3 A01 Be AI Generated Music" aria-label="Read more about Why Heart on My Sleeve Was Removed | Music 3 A01 Be AI Generated Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-drake/' | relative_url }}" title="Why Heart on My Sleeve Was Removed | Who Gets Credit For AI Made Music? | Music 3 A01 Be" aria-label="Read more about Why Heart on My Sleeve Was Removed | Who Gets Credit For AI Made Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -638,7 +638,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-use/' | relative_url }}" title="Can AI music training be fair use? | Music 3 A01 Be AI Training Music" aria-label="Read more about Can AI music training be fair use? | Music 3 A01 Be AI Training Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fair-use/' | relative_url }}" title="Can AI music training be fair use? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Read more about Can AI music training be fair use? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -658,7 +658,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transparency-d9b91c/' | relative_url }}" title="The hidden dataset problem in AI music | Music 3 A01 Be AI Training Music" aria-label="Read more about The hidden dataset problem in AI music | Music 3 A01 Be AI Training Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transparency-d9b91c/' | relative_url }}" title="The hidden dataset problem in AI music | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Read more about The hidden dataset problem in AI music | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -678,7 +678,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'voice-imitation/' | relative_url }}" title="When AI sounds too much like an artist | Music 3 A01 Be AI Training Music" aria-label="Read more about When AI sounds too much like an artist | Music 3 A01 Be AI Training Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'voice-imitation/' | relative_url }}" title="When AI sounds too much like an artist | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Read more about When AI sounds too much like an artist | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -698,7 +698,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'licensing/' | relative_url }}" title="Who gets paid when AI trains on songs? | Music 3 A01 Be AI Training Music" aria-label="Read more about Who gets paid when AI trains on songs? | Music 3 A01 Be AI Training Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'licensing/' | relative_url }}" title="Who gets paid when AI trains on songs? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Read more about Who gets paid when AI trains on songs? | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -718,7 +718,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'suno-and-udio/' | relative_url }}" title="Why the Suno and Udio lawsuits matter | Music 3 A01 Be AI Training Music" aria-label="Read more about Why the Suno and Udio lawsuits matter | Music 3 A01 Be AI Training Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'suno-and-udio/' | relative_url }}" title="Why the Suno and Udio lawsuits matter | Can AI Learn From Copyrighted Music? | Music 3 A01 Be" aria-label="Read more about Why the Suno and Udio lawsuits matter | Can AI Learn From Copyrighted Music? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -742,7 +742,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Albums Still Matter Now | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-albums-in-streaming-0eaed5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'albums/' | relative_url }}" title="Why Albums Still Matter Now | Music" aria-label="Read more about Why Albums Still Matter Now | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'albums/' | relative_url }}" title="Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Read more about Why Albums Still Matter Now | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -762,7 +762,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'album-variants/' | relative_url }}" title="Are Album Variants Fandom or Chart Strategy? | Music 3 A01 Be Albums In Streaming" aria-label="Read more about Are Album Variants Fandom or Chart Strategy? | Music 3 A01 Be Albums In Streaming">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'album-variants/' | relative_url }}" title="Are Album Variants Fandom or Chart Strategy? | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Read more about Are Album Variants Fandom or Chart Strategy? | Why Albums Still Matter Now | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -781,7 +781,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vinyl-album-experien-a1-bc-48/' | relative_url }}" title="Vinyl Album Experien | Music 3 A01 Be Albums In Streaming" aria-label="Read more about Vinyl Album Experien | Music 3 A01 Be Albums In Streaming">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vinyl-album-experien-a1-bc-48/' | relative_url }}" title="Vinyl Album Experien A1 Bc 48 | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Read more about Vinyl Album Experien A1 Bc 48 | Why Albums Still Matter Now | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -801,7 +801,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'album-arc/' | relative_url }}" title="What Gets Lost When Songs Leave the Album? | Music 3 A01 Be Albums In Streaming" aria-label="Read more about What Gets Lost When Songs Leave the Album? | Music 3 A01 Be Albums In Streaming">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'album-arc/' | relative_url }}" title="What Gets Lost When Songs Leave the Album? | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Read more about What Gets Lost When Songs Leave the Album? | Why Albums Still Matter Now | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -821,7 +821,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-loyalty/' | relative_url }}" title="Why Albums Matter Beyond Streaming Numbers | Music 3 A01 Be Albums In Streaming" aria-label="Read more about Why Albums Matter Beyond Streaming Numbers | Music 3 A01 Be Albums In Streaming">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-loyalty/' | relative_url }}" title="Why Albums Matter Beyond Streaming Numbers | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Read more about Why Albums Matter Beyond Streaming Numbers | Why Albums Still Matter Now | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -841,7 +841,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-rituals-ece6aa/' | relative_url }}" title="Why Do Fans Still Gather Around Album Releases? | Music 3 A01 Be Albums In Streaming" aria-label="Read more about Why Do Fans Still Gather Around Album Releases? | Music 3 A01 Be Albums In Streaming">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-rituals-ece6aa/' | relative_url }}" title="Why Do Fans Still Gather Around Album Releases? | Why Albums Still Matter Now | Music 3 A01 Be" aria-label="Read more about Why Do Fans Still Gather Around Album Releases? | Why Albums Still Matter Now | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -885,7 +885,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'diversity-tradeoff/' | relative_url }}" title="Can recommendations stay relevant and diverse? | Music 3 A01 Be Recommendation Syste" aria-label="Read more about Can recommendations stay relevant and diverse? | Music 3 A01 Be Recommendation Syste">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'diversity-tradeoff/' | relative_url }}" title="Can recommendations stay relevant and diverse? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Read more about Can recommendations stay relevant and diverse? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -905,7 +905,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'playlist-loops/' | relative_url }}" title="Do personalised playlists make taste smaller? | Music 3 A01 Be Recommendation Syste" aria-label="Read more about Do personalised playlists make taste smaller? | Music 3 A01 Be Recommendation Syste">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'playlist-loops/' | relative_url }}" title="Do personalised playlists make taste smaller? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Read more about Do personalised playlists make taste smaller? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -925,7 +925,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mood-matching/' | relative_url }}" title="How mood playlists changed music discovery | Music 3 A01 Be Recommendation Syste" aria-label="Read more about How mood playlists changed music discovery | Music 3 A01 Be Recommendation Syste">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mood-matching/' | relative_url }}" title="How mood playlists changed music discovery | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Read more about How mood playlists changed music discovery | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -945,7 +945,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'autoplay/' | relative_url }}" title="Who chooses the next song? | Music 3 A01 Be Recommendation Syste" aria-label="Read more about Who chooses the next song? | Music 3 A01 Be Recommendation Syste">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'autoplay/' | relative_url }}" title="Who chooses the next song? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Read more about Who chooses the next song? | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -965,7 +965,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-start/' | relative_url }}" title="Why new artists are hard to recommend | Music 3 A01 Be Recommendation Syste" aria-label="Read more about Why new artists are hard to recommend | Music 3 A01 Be Recommendation Syste">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-start/' | relative_url }}" title="Why new artists are hard to recommend | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be" aria-label="Read more about Why new artists are hard to recommend | Do Algorithms Help Or Narrow Music Discovery? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -989,7 +989,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Being Available Is Not Being Heard | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-music-attention-scar-4f6aff"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'attention/' | relative_url }}" title="Why Being Available Is Not Being Heard | Music" aria-label="Read more about Why Being Available Is Not Being Heard | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'attention/' | relative_url }}" title="Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Read more about Why Being Available Is Not Being Heard | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1009,7 +1009,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms-e34b11/' | relative_url }}" title="Do Music Algorithms Broaden Taste? | Music 3 A01 Be Music Attention Scar" aria-label="Read more about Do Music Algorithms Broaden Taste? | Music 3 A01 Be Music Attention Scar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms-e34b11/' | relative_url }}" title="Do Music Algorithms Broaden Taste? | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Read more about Do Music Algorithms Broaden Taste? | Why Being Available Is Not Being Heard | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1029,7 +1029,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'catalogue-gap/' | relative_url }}" title="How Big Can The Music Shelf Get? | Music 3 A01 Be Music Attention Scar" aria-label="Read more about How Big Can The Music Shelf Get? | Music 3 A01 Be Music Attention Scar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'catalogue-gap/' | relative_url }}" title="How Big Can The Music Shelf Get? | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Read more about How Big Can The Music Shelf Get? | Why Being Available Is Not Being Heard | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1049,7 +1049,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1-000-streams-534c44/' | relative_url }}" title="What Does 1,000 Streams Really Signal? | Music 3 A01 Be Music Attention Scar" aria-label="Read more about What Does 1,000 Streams Really Signal? | Music 3 A01 Be Music Attention Scar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1-000-streams-534c44/' | relative_url }}" title="What Does 1,000 Streams Really Signal? | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Read more about What Does 1,000 Streams Really Signal? | Why Being Available Is Not Being Heard | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1069,7 +1069,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'playlist-power/' | relative_url }}" title="When A Playlist Frames The Song | Music 3 A01 Be Music Attention Scar" aria-label="Read more about When A Playlist Frames The Song | Music 3 A01 Be Music Attention Scar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'playlist-power/' | relative_url }}" title="When A Playlist Frames The Song | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Read more about When A Playlist Frames The Song | Why Being Available Is Not Being Heard | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1089,7 +1089,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'low-plays/' | relative_url }}" title="Why Songs Vanish After Release | Music 3 A01 Be Music Attention Scar" aria-label="Read more about Why Songs Vanish After Release | Music 3 A01 Be Music Attention Scar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'low-plays/' | relative_url }}" title="Why Songs Vanish After Release | Why Being Available Is Not Being Heard | Music 3 A01 Be" aria-label="Read more about Why Songs Vanish After Release | Why Being Available Is Not Being Heard | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1113,7 +1113,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Old Songs Keep Coming Back | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-catalogue-music-redi-46cae9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'catalogue/' | relative_url }}" title="Why Old Songs Keep Coming Back | Music" aria-label="Read more about Why Old Songs Keep Coming Back | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'catalogue/' | relative_url }}" title="Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Read more about Why Old Songs Keep Coming Back | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1133,7 +1133,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kate-bush/' | relative_url }}" title="How Stranger Things revived Kate Bush | Music 3 A01 Be Catalogue Music Redi" aria-label="Read more about How Stranger Things revived Kate Bush | Music 3 A01 Be Catalogue Music Redi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kate-bush/' | relative_url }}" title="How Stranger Things revived Kate Bush | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Read more about How Stranger Things revived Kate Bush | Why Old Songs Keep Coming Back | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1153,7 +1153,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'playlists-5ecdfd/' | relative_url }}" title="When playlists make old songs useful again | Music 3 A01 Be Catalogue Music Redi" aria-label="Read more about When playlists make old songs useful again | Music 3 A01 Be Catalogue Music Redi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'playlists-5ecdfd/' | relative_url }}" title="When playlists make old songs useful again | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Read more about When playlists make old songs useful again | Why Old Songs Keep Coming Back | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1173,7 +1173,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tik-tok-hooks/' | relative_url }}" title="Why old hooks spread through short clips | Music 3 A01 Be Catalogue Music Redi" aria-label="Read more about Why old hooks spread through short clips | Music 3 A01 Be Catalogue Music Redi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tik-tok-hooks/' | relative_url }}" title="Why old hooks spread through short clips | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Read more about Why old hooks spread through short clips | Why Old Songs Keep Coming Back | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1193,7 +1193,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'saltburn-sync/' | relative_url }}" title="Why Saltburn sent a pop hit back | Music 3 A01 Be Catalogue Music Redi" aria-label="Read more about Why Saltburn sent a pop hit back | Music 3 A01 Be Catalogue Music Redi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'saltburn-sync/' | relative_url }}" title="Why Saltburn sent a pop hit back | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Read more about Why Saltburn sent a pop hit back | Why Old Songs Keep Coming Back | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1213,7 +1213,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'streaming-0007b3/' | relative_url }}" title="Why streaming makes old songs feel current | Music 3 A01 Be Catalogue Music Redi" aria-label="Read more about Why streaming makes old songs feel current | Music 3 A01 Be Catalogue Music Redi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'streaming-0007b3/' | relative_url }}" title="Why streaming makes old songs feel current | Why Old Songs Keep Coming Back | Music 3 A01 Be" aria-label="Read more about Why streaming makes old songs feel current | Why Old Songs Keep Coming Back | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1237,7 +1237,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Concerts Feel Bigger Than Songs | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-concerts-fan-memory-c3307b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'concerts/' | relative_url }}" title="Why Concerts Feel Bigger Than Songs | Music" aria-label="Read more about Why Concerts Feel Bigger Than Songs | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'concerts/' | relative_url }}" title="Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Read more about Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1257,7 +1257,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'phone-clips/' | relative_url }}" title="Do phone videos help or change memory? | Music 3 A01 Be Concerts Fan Memory" aria-label="Read more about Do phone videos help or change memory? | Music 3 A01 Be Concerts Fan Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'phone-clips/' | relative_url }}" title="Do phone videos help or change memory? | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Read more about Do phone videos help or change memory? | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1277,7 +1277,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crowd-sync/' | relative_url }}" title="When a crowd becomes part of the song | Music 3 A01 Be Concerts Fan Memory" aria-label="Read more about When a crowd becomes part of the song | Music 3 A01 Be Concerts Fan Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crowd-sync/' | relative_url }}" title="When a crowd becomes part of the song | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Read more about When a crowd becomes part of the song | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1297,7 +1297,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-rituals/' | relative_url }}" title="Why concert rituals stick in memory | Music 3 A01 Be Concerts Fan Memory" aria-label="Read more about Why concert rituals stick in memory | Music 3 A01 Be Concerts Fan Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-rituals/' | relative_url }}" title="Why concert rituals stick in memory | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Read more about Why concert rituals stick in memory | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1317,7 +1317,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'live-emotion/' | relative_url }}" title="Why live music hits harder in person | Music 3 A01 Be Concerts Fan Memory" aria-label="Read more about Why live music hits harder in person | Music 3 A01 Be Concerts Fan Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'live-emotion/' | relative_url }}" title="Why live music hits harder in person | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Read more about Why live music hits harder in person | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1337,7 +1337,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists-2c9d97/' | relative_url }}" title="Why the setlist is not the concert | Music 3 A01 Be Concerts Fan Memory" aria-label="Read more about Why the setlist is not the concert | Music 3 A01 Be Concerts Fan Memory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists-2c9d97/' | relative_url }}" title="Why the setlist is not the concert | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be" aria-label="Read more about Why the setlist is not the concert | Why Concerts Feel Bigger Than Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1361,7 +1361,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why A Growing Industry Can Still Feel Unfair | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-creator-pay-fairness-524c4c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'creator-pay/' | relative_url }}" title="Why A Growing Industry Can Still Feel Unfair | Music" aria-label="Read more about Why A Growing Industry Can Still Feel Unfair | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'creator-pay/' | relative_url }}" title="Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Read more about Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1381,7 +1381,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'label-deals/' | relative_url }}" title="When Old Record Deals Meet Streaming Money | Music 3 A01 Be Creator Pay Fairness" aria-label="Read more about When Old Record Deals Meet Streaming Money | Music 3 A01 Be Creator Pay Fairness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'label-deals/' | relative_url }}" title="When Old Record Deals Meet Streaming Money | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Read more about When Old Record Deals Meet Streaming Money | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1401,7 +1401,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1-000-streams/' | relative_url }}" title="Who Loses When Streams Fall Below the Line? | Music 3 A01 Be Creator Pay Fairness" aria-label="Read more about Who Loses When Streams Fall Below the Line? | Music 3 A01 Be Creator Pay Fairness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1-000-streams/' | relative_url }}" title="Who Loses When Streams Fall Below the Line? | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Read more about Who Loses When Streams Fall Below the Line? | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1421,7 +1421,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transparency-6c916a/' | relative_url }}" title="Why Bigger Royalty Reports Still Leave Questions | Music 3 A01 Be Creator Pay Fairness" aria-label="Read more about Why Bigger Royalty Reports Still Leave Questions | Music 3 A01 Be Creator Pay Fairness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transparency-6c916a/' | relative_url }}" title="Why Bigger Royalty Reports Still Leave Questions | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Read more about Why Bigger Royalty Reports Still Leave Questions | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1441,7 +1441,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'songwriters/' | relative_url }}" title="Why Songwriters Wait Longer for Streaming Pay | Music 3 A01 Be Creator Pay Fairness" aria-label="Read more about Why Songwriters Wait Longer for Streaming Pay | Music 3 A01 Be Creator Pay Fairness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'songwriters/' | relative_url }}" title="Why Songwriters Wait Longer for Streaming Pay | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Read more about Why Songwriters Wait Longer for Streaming Pay | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1461,7 +1461,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'payout-myths/' | relative_url }}" title="Why There Is No Simple Per Stream Rate | Music 3 A01 Be Creator Pay Fairness" aria-label="Read more about Why There Is No Simple Per Stream Rate | Music 3 A01 Be Creator Pay Fairness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'payout-myths/' | relative_url }}" title="Why There Is No Simple Per Stream Rate | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be" aria-label="Read more about Why There Is No Simple Per Stream Rate | Why A Growing Industry Can Still Feel Unfair | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1505,7 +1505,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'venue-design/' | relative_url }}" title="How Club Architecture and Lighting Shape Dance Interaction | Music 3 A01 Be Dance Music Social" aria-label="Read more about How Club Architecture and Lighting Shape Dance Interaction | Music 3 A01 Be Dance Music Social">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'venue-design/' | relative_url }}" title="How Club Architecture and Lighting Shape Dance Interaction | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Read more about How Club Architecture and Lighting Shape Dance Interaction | How Dance Music Builds A Room | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1525,7 +1525,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dj-curation/' | relative_url }}" title="How DJs Shape Movement and Energy in Dance Spaces | Music 3 A01 Be Dance Music Social" aria-label="Read more about How DJs Shape Movement and Energy in Dance Spaces | Music 3 A01 Be Dance Music Social">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dj-curation/' | relative_url }}" title="How DJs Shape Movement and Energy in Dance Spaces | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Read more about How DJs Shape Movement and Energy in Dance Spaces | How Dance Music Builds A Room | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1545,7 +1545,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rhythmic-repetition/' | relative_url }}" title="How Repeated Beats Foster Social Equality on Dance Floors | Music 3 A01 Be Dance Music Social" aria-label="Read more about How Repeated Beats Foster Social Equality on Dance Floors | Music 3 A01 Be Dance Music Social">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rhythmic-repetition/' | relative_url }}" title="How Repeated Beats Foster Social Equality on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Read more about How Repeated Beats Foster Social Equality on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1565,7 +1565,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'inclusion-boundaries/' | relative_url }}" title="Who Belongs on the Dance Floor and Why | Music 3 A01 Be Dance Music Social" aria-label="Read more about Who Belongs on the Dance Floor and Why | Music 3 A01 Be Dance Music Social">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'inclusion-boundaries/' | relative_url }}" title="Who Belongs on the Dance Floor and Why | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Read more about Who Belongs on the Dance Floor and Why | How Dance Music Builds A Room | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1585,7 +1585,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sound-systems/' | relative_url }}" title="Why Sound Systems Direct Collective Movement on Dance Floors | Music 3 A01 Be Dance Music Social" aria-label="Read more about Why Sound Systems Direct Collective Movement on Dance Floors | Music 3 A01 Be Dance Music Social">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sound-systems/' | relative_url }}" title="Why Sound Systems Direct Collective Movement on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be" aria-label="Read more about Why Sound Systems Direct Collective Movement on Dance Floors | How Dance Music Builds A Room | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1629,7 +1629,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'melody-harmony/' | relative_url }}" title="How Harmony Reinterprets the Emotional Meaning of a Melody | Music 3 A01 Be Harmony Emotional" aria-label="Read more about How Harmony Reinterprets the Emotional Meaning of a Melody | Music 3 A01 Be Harmony Emotional">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'melody-harmony/' | relative_url }}" title="How Harmony Reinterprets the Emotional Meaning of a Melody | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Read more about How Harmony Reinterprets the Emotional Meaning of a Melody | How Harmony Changes What Music Means | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1649,7 +1649,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chord-emotion/' | relative_url }}" title="How Major and Minor Chords Change Listener Emotions | Music 3 A01 Be Harmony Emotional" aria-label="Read more about How Major and Minor Chords Change Listener Emotions | Music 3 A01 Be Harmony Emotional">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chord-emotion/' | relative_url }}" title="How Major and Minor Chords Change Listener Emotions | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Read more about How Major and Minor Chords Change Listener Emotions | How Harmony Changes What Music Means | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1669,7 +1669,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tension-release/' | relative_url }}" title="How Tension and Release Shape Emotional Impact in Music | Music 3 A01 Be Harmony Emotional" aria-label="Read more about How Tension and Release Shape Emotional Impact in Music | Music 3 A01 Be Harmony Emotional">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tension-release/' | relative_url }}" title="How Tension and Release Shape Emotional Impact in Music | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Read more about How Tension and Release Shape Emotional Impact in Music | How Harmony Changes What Music Means | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1689,7 +1689,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved-harmony/' | relative_url }}" title="How Unresolved Chords Keep Music Emotionally Open | Music 3 A01 Be Harmony Emotional" aria-label="Read more about How Unresolved Chords Keep Music Emotionally Open | Music 3 A01 Be Harmony Emotional">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved-harmony/' | relative_url }}" title="How Unresolved Chords Keep Music Emotionally Open | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Read more about How Unresolved Chords Keep Music Emotionally Open | How Harmony Changes What Music Means | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1709,7 +1709,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cultural-context/' | relative_url }}" title="Why Major and Minor Chords Feel Different Across Cultures | Music 3 A01 Be Harmony Emotional" aria-label="Read more about Why Major and Minor Chords Feel Different Across Cultures | Music 3 A01 Be Harmony Emotional">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cultural-context/' | relative_url }}" title="Why Major and Minor Chords Feel Different Across Cultures | How Harmony Changes What Music Means | Music 3 A01 Be" aria-label="Read more about Why Major and Minor Chords Feel Different Across Cultures | How Harmony Changes What Music Means | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1733,7 +1733,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Hymns Turn Belief Into Sound | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-hymns-belief-ritual-aef87d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hymns/' | relative_url }}" title="How Hymns Turn Belief Into Sound | Music" aria-label="Read more about How Hymns Turn Belief Into Sound | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hymns/' | relative_url }}" title="How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Read more about How Hymns Turn Belief Into Sound | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1753,7 +1753,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory/' | relative_url }}" title="How Hymns Help Belief Stay Remembered | Music 3 A01 Be Hymns Belief Ritual" aria-label="Read more about How Hymns Help Belief Stay Remembered | Music 3 A01 Be Hymns Belief Ritual">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory/' | relative_url }}" title="How Hymns Help Belief Stay Remembered | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Read more about How Hymns Help Belief Stay Remembered | How Hymns Turn Belief Into Sound | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1773,7 +1773,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reformation/' | relative_url }}" title="When Hymns Put Worship Into Every Voice | Music 3 A01 Be Hymns Belief Ritual" aria-label="Read more about When Hymns Put Worship Into Every Voice | Music 3 A01 Be Hymns Belief Ritual">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reformation/' | relative_url }}" title="When Hymns Put Worship Into Every Voice | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Read more about When Hymns Put Worship Into Every Voice | How Hymns Turn Belief Into Sound | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1793,7 +1793,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion/' | relative_url }}" title="Why Hymn Tunes Say More Than Words | Music 3 A01 Be Hymns Belief Ritual" aria-label="Read more about Why Hymn Tunes Say More Than Words | Music 3 A01 Be Hymns Belief Ritual">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion/' | relative_url }}" title="Why Hymn Tunes Say More Than Words | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Read more about Why Hymn Tunes Say More Than Words | How Hymns Turn Belief Into Sound | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1813,7 +1813,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'public-grief/' | relative_url }}" title="Why Hymns Appear at Public Moments of Grief | Music 3 A01 Be Hymns Belief Ritual" aria-label="Read more about Why Hymns Appear at Public Moments of Grief | Music 3 A01 Be Hymns Belief Ritual">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'public-grief/' | relative_url }}" title="Why Hymns Appear at Public Moments of Grief | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Read more about Why Hymns Appear at Public Moments of Grief | How Hymns Turn Belief Into Sound | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1833,7 +1833,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-singing/' | relative_url }}" title="Why Singing Hymns Together Feels So Powerful | Music 3 A01 Be Hymns Belief Ritual" aria-label="Read more about Why Singing Hymns Together Feels So Powerful | Music 3 A01 Be Hymns Belief Ritual">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-singing/' | relative_url }}" title="Why Singing Hymns Together Feels So Powerful | How Hymns Turn Belief Into Sound | Music 3 A01 Be" aria-label="Read more about Why Singing Hymns Together Feels So Powerful | How Hymns Turn Belief Into Sound | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1877,7 +1877,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paid-streaming/' | relative_url }}" title="How Subscriptions Became The Growth Engine | Music 3 A01 Be Ifpi Recorded Music" aria-label="Read more about How Subscriptions Became The Growth Engine | Music 3 A01 Be Ifpi Recorded Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paid-streaming/' | relative_url }}" title="How Subscriptions Became The Growth Engine | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Read more about How Subscriptions Became The Growth Engine | What Global Music Revenue Numbers Show | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1897,7 +1897,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'data-sources/' | relative_url }}" title="Where IFPI&#x27;s Global Numbers Come From | Music 3 A01 Be Ifpi Recorded Music" aria-label="Read more about Where IFPI&#x27;s Global Numbers Come From | Music 3 A01 Be Ifpi Recorded Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'data-sources/' | relative_url }}" title="Where IFPI's Global Numbers Come From | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Read more about Where IFPI's Global Numbers Come From | What Global Music Revenue Numbers Show | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1917,7 +1917,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'regions/' | relative_url }}" title="Why Global Growth Looks Different Locally | Music 3 A01 Be Ifpi Recorded Music" aria-label="Read more about Why Global Growth Looks Different Locally | Music 3 A01 Be Ifpi Recorded Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'regions/' | relative_url }}" title="Why Global Growth Looks Different Locally | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Read more about Why Global Growth Looks Different Locally | What Global Music Revenue Numbers Show | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1937,7 +1937,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'artist-income/' | relative_url }}" title="Why Growth Does Not Mean Artists Earn More | Music 3 A01 Be Ifpi Recorded Music" aria-label="Read more about Why Growth Does Not Mean Artists Earn More | Music 3 A01 Be Ifpi Recorded Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'artist-income/' | relative_url }}" title="Why Growth Does Not Mean Artists Earn More | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Read more about Why Growth Does Not Mean Artists Earn More | What Global Music Revenue Numbers Show | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1957,7 +1957,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'formats/' | relative_url }}" title="Why Streaming Is Not The Whole Story | Music 3 A01 Be Ifpi Recorded Music" aria-label="Read more about Why Streaming Is Not The Whole Story | Music 3 A01 Be Ifpi Recorded Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'formats/' | relative_url }}" title="Why Streaming Is Not The Whole Story | What Global Music Revenue Numbers Show | Music 3 A01 Be" aria-label="Read more about Why Streaming Is Not The Whole Story | What Global Music Revenue Numbers Show | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -1981,7 +1981,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How K Pop Built A Global Fan Machine | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-kpop-fan-system-b9d239"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'k-pop/' | relative_url }}" title="How K Pop Built A Global Fan Machine | Music" aria-label="Read more about How K Pop Built A Global Fan Machine | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'k-pop/' | relative_url }}" title="How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Read more about How K Pop Built A Global Fan Machine | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2001,7 +2001,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'comebacks/' | relative_url }}" title="How a comeback becomes a fan event | Music 3 A01 Be Kpop Fan System" aria-label="Read more about How a comeback becomes a fan event | Music 3 A01 Be Kpop Fan System">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'comebacks/' | relative_url }}" title="How a comeback becomes a fan event | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Read more about How a comeback becomes a fan event | How K Pop Built A Global Fan Machine | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2021,7 +2021,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-labour/' | relative_url }}" title="When supporting idols starts to feel like work | Music 3 A01 Be Kpop Fan System" aria-label="Read more about When supporting idols starts to feel like work | Music 3 A01 Be Kpop Fan System">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-labour/' | relative_url }}" title="When supporting idols starts to feel like work | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Read more about When supporting idols starts to feel like work | How K Pop Built A Global Fan Machine | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2041,7 +2041,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-platforms/' | relative_url }}" title="Why fan apps matter to K pop&#x27;s business | Music 3 A01 Be Kpop Fan System" aria-label="Read more about Why fan apps matter to K pop&#x27;s business | Music 3 A01 Be Kpop Fan System">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-platforms/' | relative_url }}" title="Why fan apps matter to K pop's business | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Read more about Why fan apps matter to K pop's business | How K Pop Built A Global Fan Machine | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2061,7 +2061,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photocards/' | relative_url }}" title="Why fans buy albums they do not play | Music 3 A01 Be Kpop Fan System" aria-label="Read more about Why fans buy albums they do not play | Music 3 A01 Be Kpop Fan System">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photocards/' | relative_url }}" title="Why fans buy albums they do not play | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Read more about Why fans buy albums they do not play | How K Pop Built A Global Fan Machine | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2081,7 +2081,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dance-hooks/' | relative_url }}" title="Why K pop choruses are built to move | Music 3 A01 Be Kpop Fan System" aria-label="Read more about Why K pop choruses are built to move | Music 3 A01 Be Kpop Fan System">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dance-hooks/' | relative_url }}" title="Why K pop choruses are built to move | How K Pop Built A Global Fan Machine | Music 3 A01 Be" aria-label="Read more about Why K pop choruses are built to move | How K Pop Built A Global Fan Machine | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2125,7 +2125,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-bunny/' | relative_url }}" title="How Bad Bunny Redefined Mainstream Success | Music 3 A01 Be Latin Music Streamin" aria-label="Read more about How Bad Bunny Redefined Mainstream Success | Music 3 A01 Be Latin Music Streamin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-bunny/' | relative_url }}" title="How Bad Bunny Redefined Mainstream Success | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Read more about How Bad Bunny Redefined Mainstream Success | Why Latin Music Travels So Far | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2145,7 +2145,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viva-latino/' | relative_url }}" title="How Playlists Became Latin Music&#x27;s Front Door | Music 3 A01 Be Latin Music Streamin" aria-label="Read more about How Playlists Became Latin Music&#x27;s Front Door | Music 3 A01 Be Latin Music Streamin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viva-latino/' | relative_url }}" title="How Playlists Became Latin Music's Front Door | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Read more about How Playlists Became Latin Music's Front Door | Why Latin Music Travels So Far | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2165,7 +2165,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'despacito/' | relative_url }}" title="Why Despacito Changed Global Pop Listening | Music 3 A01 Be Latin Music Streamin" aria-label="Read more about Why Despacito Changed Global Pop Listening | Music 3 A01 Be Latin Music Streamin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'despacito/' | relative_url }}" title="Why Despacito Changed Global Pop Listening | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Read more about Why Despacito Changed Global Pop Listening | Why Latin Music Travels So Far | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2185,7 +2185,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'diaspora/' | relative_url }}" title="Why Diaspora Listening Powered Latin Streaming | Music 3 A01 Be Latin Music Streamin" aria-label="Read more about Why Diaspora Listening Powered Latin Streaming | Music 3 A01 Be Latin Music Streamin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'diaspora/' | relative_url }}" title="Why Diaspora Listening Powered Latin Streaming | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Read more about Why Diaspora Listening Powered Latin Streaming | Why Latin Music Travels So Far | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2205,7 +2205,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'collabs/' | relative_url }}" title="Why Latin Collabs Travel So Fast | Music 3 A01 Be Latin Music Streamin" aria-label="Read more about Why Latin Collabs Travel So Fast | Music 3 A01 Be Latin Music Streamin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'collabs/' | relative_url }}" title="Why Latin Collabs Travel So Fast | Why Latin Music Travels So Far | Music 3 A01 Be" aria-label="Read more about Why Latin Collabs Travel So Fast | Why Latin Music Travels So Far | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2249,7 +2249,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'live-nation/' | relative_url }}" title="What Big Concert Numbers Really Prove | Music 3 A01 Be Live Music Income" aria-label="Read more about What Big Concert Numbers Really Prove | Music 3 A01 Be Live Music Income">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'live-nation/' | relative_url }}" title="What Big Concert Numbers Really Prove | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Read more about What Big Concert Numbers Really Prove | Why Live Music Still Pays Differently | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2269,7 +2269,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'small-gigs/' | relative_url }}" title="When a Small Gig Actually Pays Off | Music 3 A01 Be Live Music Income" aria-label="Read more about When a Small Gig Actually Pays Off | Music 3 A01 Be Live Music Income">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'small-gigs/' | relative_url }}" title="When a Small Gig Actually Pays Off | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Read more about When a Small Gig Actually Pays Off | Why Live Music Still Pays Differently | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2289,7 +2289,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ticket-split/' | relative_url }}" title="Where Your Ticket Money Really Goes | Music 3 A01 Be Live Music Income" aria-label="Read more about Where Your Ticket Money Really Goes | Music 3 A01 Be Live Music Income">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ticket-split/' | relative_url }}" title="Where Your Ticket Money Really Goes | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Read more about Where Your Ticket Money Really Goes | Why Live Music Still Pays Differently | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2309,7 +2309,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists-db102e/' | relative_url }}" title="Why Setlists Decide Who Gets Paid | Music 3 A01 Be Live Music Income" aria-label="Read more about Why Setlists Decide Who Gets Paid | Music 3 A01 Be Live Music Income">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists-db102e/' | relative_url }}" title="Why Setlists Decide Who Gets Paid | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Read more about Why Setlists Decide Who Gets Paid | Why Live Music Still Pays Differently | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2329,7 +2329,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'grassroots/' | relative_url }}" title="Why Tiny Venues Build Real Careers | Music 3 A01 Be Live Music Income" aria-label="Read more about Why Tiny Venues Build Real Careers | Music 3 A01 Be Live Music Income">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'grassroots/' | relative_url }}" title="Why Tiny Venues Build Real Careers | Why Live Music Still Pays Differently | Music 3 A01 Be" aria-label="Read more about Why Tiny Venues Build Real Careers | Why Live Music Still Pays Differently | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2353,7 +2353,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Lullabies Work Across Cultures | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-lullabies-calm-memor-4de0e2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lullabies/' | relative_url }}" title="Why Lullabies Work Across Cultures | Music" aria-label="Read more about Why Lullabies Work Across Cultures | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lullabies/' | relative_url }}" title="Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Read more about Why Lullabies Work Across Cultures | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2373,7 +2373,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'foreign-songs/' | relative_url }}" title="Can Unknown Lullabies Still Calm Babies? | Music 3 A01 Be Lullabies Calm Memor" aria-label="Read more about Can Unknown Lullabies Still Calm Babies? | Music 3 A01 Be Lullabies Calm Memor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'foreign-songs/' | relative_url }}" title="Can Unknown Lullabies Still Calm Babies? | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Read more about Can Unknown Lullabies Still Calm Babies? | Why Lullabies Work Across Cultures | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2393,7 +2393,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'familiar-songs/' | relative_url }}" title="Why Familiar Lullabies Feel Safer | Music 3 A01 Be Lullabies Calm Memor" aria-label="Read more about Why Familiar Lullabies Feel Safer | Music 3 A01 Be Lullabies Calm Memor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'familiar-songs/' | relative_url }}" title="Why Familiar Lullabies Feel Safer | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Read more about Why Familiar Lullabies Feel Safer | Why Lullabies Work Across Cultures | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2413,7 +2413,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'repetition-a8a280/' | relative_url }}" title="Why Repetition Helps Babies Settle | Music 3 A01 Be Lullabies Calm Memor" aria-label="Read more about Why Repetition Helps Babies Settle | Music 3 A01 Be Lullabies Calm Memor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'repetition-a8a280/' | relative_url }}" title="Why Repetition Helps Babies Settle | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Read more about Why Repetition Helps Babies Settle | Why Lullabies Work Across Cultures | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2433,7 +2433,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'caregiver-cues/' | relative_url }}" title="Why Singing Matters More Than Playback | Music 3 A01 Be Lullabies Calm Memor" aria-label="Read more about Why Singing Matters More Than Playback | Music 3 A01 Be Lullabies Calm Memor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'caregiver-cues/' | relative_url }}" title="Why Singing Matters More Than Playback | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Read more about Why Singing Matters More Than Playback | Why Lullabies Work Across Cultures | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2453,7 +2453,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'slow-tempo/' | relative_url }}" title="Why Slow Lullabies Feel Calming | Music 3 A01 Be Lullabies Calm Memor" aria-label="Read more about Why Slow Lullabies Feel Calming | Music 3 A01 Be Lullabies Calm Memor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'slow-tempo/' | relative_url }}" title="Why Slow Lullabies Feel Calming | Why Lullabies Work Across Cultures | Music 3 A01 Be" aria-label="Read more about Why Slow Lullabies Feel Calming | Why Lullabies Work Across Cultures | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2477,7 +2477,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Lyrics Make Feelings Public | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-lyrics-shared-langua-bfa57a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lyrics/' | relative_url }}" title="How Lyrics Make Feelings Public | Music" aria-label="Read more about How Lyrics Make Feelings Public | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lyrics/' | relative_url }}" title="How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Read more about How Lyrics Make Feelings Public | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2497,7 +2497,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'protest-lyrics/' | relative_url }}" title="When Lyrics Leave Songs and Become Slogans | Music 3 A01 Be Lyrics Shared Langua" aria-label="Read more about When Lyrics Leave Songs and Become Slogans | Music 3 A01 Be Lyrics Shared Langua">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'protest-lyrics/' | relative_url }}" title="When Lyrics Leave Songs and Become Slogans | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Read more about When Lyrics Leave Songs and Become Slogans | How Lyrics Make Feelings Public | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2517,7 +2517,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chorus-lines/' | relative_url }}" title="Why Choruses Turn Feelings Into Catchphrases | Music 3 A01 Be Lyrics Shared Langua" aria-label="Read more about Why Choruses Turn Feelings Into Catchphrases | Music 3 A01 Be Lyrics Shared Langua">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chorus-lines/' | relative_url }}" title="Why Choruses Turn Feelings Into Catchphrases | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Read more about Why Choruses Turn Feelings Into Catchphrases | How Lyrics Make Feelings Public | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2537,7 +2537,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'identification/' | relative_url }}" title="Why Some Lyrics Feel Like Your Story | Music 3 A01 Be Lyrics Shared Langua" aria-label="Read more about Why Some Lyrics Feel Like Your Story | Music 3 A01 Be Lyrics Shared Langua">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'identification/' | relative_url }}" title="Why Some Lyrics Feel Like Your Story | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Read more about Why Some Lyrics Feel Like Your Story | How Lyrics Make Feelings Public | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2557,7 +2557,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sung-meaning/' | relative_url }}" title="Why Sung Words Hit Harder Than Spoken Ones | Music 3 A01 Be Lyrics Shared Langua" aria-label="Read more about Why Sung Words Hit Harder Than Spoken Ones | Music 3 A01 Be Lyrics Shared Langua">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sung-meaning/' | relative_url }}" title="Why Sung Words Hit Harder Than Spoken Ones | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Read more about Why Sung Words Hit Harder Than Spoken Ones | How Lyrics Make Feelings Public | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2577,7 +2577,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'culture/' | relative_url }}" title="Why The Same Lyric Means Different Things | Music 3 A01 Be Lyrics Shared Langua" aria-label="Read more about Why The Same Lyric Means Different Things | Music 3 A01 Be Lyrics Shared Langua">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'culture/' | relative_url }}" title="Why The Same Lyric Means Different Things | How Lyrics Make Feelings Public | Music 3 A01 Be" aria-label="Read more about Why The Same Lyric Means Different Things | How Lyrics Make Feelings Public | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2601,7 +2601,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Some Melodies Stay In Your Head | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-melody-memorable-son-84318f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'melody/' | relative_url }}" title="Why Some Melodies Stay In Your Head | Music" aria-label="Read more about Why Some Melodies Stay In Your Head | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'melody/' | relative_url }}" title="Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Read more about Why Some Melodies Stay In Your Head | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2621,7 +2621,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'contour/' | relative_url }}" title="The Shape Your Brain Hums Back | Music 3 A01 Be Melody Memorable Son" aria-label="Read more about The Shape Your Brain Hums Back | Music 3 A01 Be Melody Memorable Son">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'contour/' | relative_url }}" title="The Shape Your Brain Hums Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Read more about The Shape Your Brain Hums Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2641,7 +2641,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'earworms/' | relative_url }}" title="What Makes a Tune Become an Earworm? | Music 3 A01 Be Melody Memorable Son" aria-label="Read more about What Makes a Tune Become an Earworm? | Music 3 A01 Be Melody Memorable Son">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'earworms/' | relative_url }}" title="What Makes a Tune Become an Earworm? | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Read more about What Makes a Tune Become an Earworm? | Why Some Melodies Stay In Your Head | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2661,7 +2661,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'surprise/' | relative_url }}" title="Why Catchy Melodies Need a Twist | Music 3 A01 Be Melody Memorable Son" aria-label="Read more about Why Catchy Melodies Need a Twist | Music 3 A01 Be Melody Memorable Son">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'surprise/' | relative_url }}" title="Why Catchy Melodies Need a Twist | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Read more about Why Catchy Melodies Need a Twist | Why Some Melodies Stay In Your Head | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2681,7 +2681,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'choruses/' | relative_url }}" title="Why Do Choruses Stay in Your Head? | Music 3 A01 Be Melody Memorable Son" aria-label="Read more about Why Do Choruses Stay in Your Head? | Music 3 A01 Be Melody Memorable Son">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'choruses/' | relative_url }}" title="Why Do Choruses Stay in Your Head? | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Read more about Why Do Choruses Stay in Your Head? | Why Some Melodies Stay In Your Head | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2701,7 +2701,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion-ad77f9/' | relative_url }}" title="Why Some Melodies Bring Memories Back | Music 3 A01 Be Melody Memorable Son" aria-label="Read more about Why Some Melodies Bring Memories Back | Music 3 A01 Be Melody Memorable Son">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emotion-ad77f9/' | relative_url }}" title="Why Some Melodies Bring Memories Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be" aria-label="Read more about Why Some Melodies Bring Memories Back | Why Some Melodies Stay In Your Head | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2745,7 +2745,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'billie-values/' | relative_url }}" title="Can Merch Carry An Artist&#x27;s Values? | Music 3 A01 Be Music Merch Fandom" aria-label="Read more about Can Merch Carry An Artist&#x27;s Values? | Music 3 A01 Be Music Merch Fandom">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'billie-values/' | relative_url }}" title="Can Merch Carry An Artist's Values? | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Read more about Can Merch Carry An Artist's Values? | Why Music Merch Means More Than Branding | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2765,7 +2765,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'limited-drops/' | relative_url }}" title="When Scarce Merch Stops Feeling Special | Music 3 A01 Be Music Merch Fandom" aria-label="Read more about When Scarce Merch Stops Feeling Special | Music 3 A01 Be Music Merch Fandom">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'limited-drops/' | relative_url }}" title="When Scarce Merch Stops Feeling Special | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Read more about When Scarce Merch Stops Feeling Special | Why Music Merch Means More Than Branding | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2785,7 +2785,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'band-shirts/' | relative_url }}" title="Why Band Shirts Say More Than Taste | Music 3 A01 Be Music Merch Fandom" aria-label="Read more about Why Band Shirts Say More Than Taste | Music 3 A01 Be Music Merch Fandom">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'band-shirts/' | relative_url }}" title="Why Band Shirts Say More Than Taste | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Read more about Why Band Shirts Say More Than Taste | Why Music Merch Means More Than Branding | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2805,7 +2805,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'collab-fit/' | relative_url }}" title="Why Some Artist Collabs Feel Fake | Music 3 A01 Be Music Merch Fandom" aria-label="Read more about Why Some Artist Collabs Feel Fake | Music 3 A01 Be Music Merch Fandom">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'collab-fit/' | relative_url }}" title="Why Some Artist Collabs Feel Fake | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Read more about Why Some Artist Collabs Feel Fake | Why Music Merch Means More Than Branding | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2825,7 +2825,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tour-keepsakes/' | relative_url }}" title="Why Tour Shirts Become Memory Objects | Music 3 A01 Be Music Merch Fandom" aria-label="Read more about Why Tour Shirts Become Memory Objects | Music 3 A01 Be Music Merch Fandom">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tour-keepsakes/' | relative_url }}" title="Why Tour Shirts Become Memory Objects | Why Music Merch Means More Than Branding | Music 3 A01 Be" aria-label="Read more about Why Tour Shirts Become Memory Objects | Why Music Merch Means More Than Branding | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2869,7 +2869,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists-535284/' | relative_url }}" title="The setlist is a royalty payment trail | Music 3 A01 Be Music Metadata Payme" aria-label="Read more about The setlist is a royalty payment trail | Music 3 A01 Be Music Metadata Payme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists-535284/' | relative_url }}" title="The setlist is a royalty payment trail | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Read more about The setlist is a royalty payment trail | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2889,7 +2889,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'code-links/' | relative_url }}" title="The two codes behind every paid song | Music 3 A01 Be Music Metadata Payme" aria-label="Read more about The two codes behind every paid song | Music 3 A01 Be Music Metadata Payme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'code-links/' | relative_url }}" title="The two codes behind every paid song | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Read more about The two codes behind every paid song | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2909,7 +2909,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unmatched-pools/' | relative_url }}" title="Where unpaid royalties wait for better data | Music 3 A01 Be Music Metadata Payme" aria-label="Read more about Where unpaid royalties wait for better data | Music 3 A01 Be Music Metadata Payme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unmatched-pools/' | relative_url }}" title="Where unpaid royalties wait for better data | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Read more about Where unpaid royalties wait for better data | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2929,7 +2929,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dj-sets/' | relative_url }}" title="Why DJ royalties are so hard to trace | Music 3 A01 Be Music Metadata Payme" aria-label="Read more about Why DJ royalties are so hard to trace | Music 3 A01 Be Music Metadata Payme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dj-sets/' | relative_url }}" title="Why DJ royalties are so hard to trace | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Read more about Why DJ royalties are so hard to trace | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2949,7 +2949,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'song-splits/' | relative_url }}" title="Why song splits can freeze royalty money | Music 3 A01 Be Music Metadata Payme" aria-label="Read more about Why song splits can freeze royalty money | Music 3 A01 Be Music Metadata Payme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'song-splits/' | relative_url }}" title="Why song splits can freeze royalty money | Why Bad Music Data Costs Creators Money | Music 3 A01 Be" aria-label="Read more about Why song splits can freeze royalty money | Why Bad Music Data Costs Creators Money | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -2993,7 +2993,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-pressure/' | relative_url }}" title="When Collecting Starts To Feel Like Pressure | Music 3 A01 Be Physical Music Owner" aria-label="Read more about When Collecting Starts To Feel Like Pressure | Music 3 A01 Be Physical Music Owner">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fan-pressure/' | relative_url }}" title="When Collecting Starts To Feel Like Pressure | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Read more about When Collecting Starts To Feel Like Pressure | Why Fans Still Want Music Objects | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3013,7 +3013,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cds-tapes/' | relative_url }}" title="Why CDs And Cassettes Still Matter | Music 3 A01 Be Physical Music Owner" aria-label="Read more about Why CDs And Cassettes Still Matter | Music 3 A01 Be Physical Music Owner">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cds-tapes/' | relative_url }}" title="Why CDs And Cassettes Still Matter | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Read more about Why CDs And Cassettes Still Matter | Why Fans Still Want Music Objects | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3033,7 +3033,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'box-sets/' | relative_url }}" title="Why Deluxe Box Sets Feel Like Archives | Music 3 A01 Be Physical Music Owner" aria-label="Read more about Why Deluxe Box Sets Feel Like Archives | Music 3 A01 Be Physical Music Owner">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'box-sets/' | relative_url }}" title="Why Deluxe Box Sets Feel Like Archives | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Read more about Why Deluxe Box Sets Feel Like Archives | Why Fans Still Want Music Objects | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3053,7 +3053,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-cards/' | relative_url }}" title="Why K pop Albums Became Collectible Kits | Music 3 A01 Be Physical Music Owner" aria-label="Read more about Why K pop Albums Became Collectible Kits | Music 3 A01 Be Physical Music Owner">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photo-cards/' | relative_url }}" title="Why K pop Albums Became Collectible Kits | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Read more about Why K pop Albums Became Collectible Kits | Why Fans Still Want Music Objects | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3073,7 +3073,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'signed-copies/' | relative_url }}" title="Why Signed Albums Feel More Personal | Music 3 A01 Be Physical Music Owner" aria-label="Read more about Why Signed Albums Feel More Personal | Music 3 A01 Be Physical Music Owner">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'signed-copies/' | relative_url }}" title="Why Signed Albums Feel More Personal | Why Fans Still Want Music Objects | Music 3 A01 Be" aria-label="Read more about Why Signed Albums Feel More Personal | Why Fans Still Want Music Objects | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3117,7 +3117,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'editorial-adds/' | relative_url }}" title="Do Editorial Playlists Still Make Hits? | Music 3 A01 Be Playlists New Gateke" aria-label="Read more about Do Editorial Playlists Still Make Hits? | Music 3 A01 Be Playlists New Gateke">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'editorial-adds/' | relative_url }}" title="Do Editorial Playlists Still Make Hits? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Read more about Do Editorial Playlists Still Make Hits? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3137,7 +3137,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'repetition/' | relative_url }}" title="How Playlists Make Songs Feel Familiar | Music 3 A01 Be Playlists New Gateke" aria-label="Read more about How Playlists Make Songs Feel Familiar | Music 3 A01 Be Playlists New Gateke">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'repetition/' | relative_url }}" title="How Playlists Make Songs Feel Familiar | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Read more about How Playlists Make Songs Feel Familiar | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3157,7 +3157,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mood-listening/' | relative_url }}" title="When Music Becomes a Mood Button | Music 3 A01 Be Playlists New Gateke" aria-label="Read more about When Music Becomes a Mood Button | Music 3 A01 Be Playlists New Gateke">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mood-listening/' | relative_url }}" title="When Music Becomes a Mood Button | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Read more about When Music Becomes a Mood Button | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3177,7 +3177,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'algotorial/' | relative_url }}" title="Who Really Curates a Streaming Playlist? | Music 3 A01 Be Playlists New Gateke" aria-label="Read more about Who Really Curates a Streaming Playlist? | Music 3 A01 Be Playlists New Gateke">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'algotorial/' | relative_url }}" title="Who Really Curates a Streaming Playlist? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Read more about Who Really Curates a Streaming Playlist? | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3197,7 +3197,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'discover-weekly/' | relative_url }}" title="Why Discover Weekly Feels So Personal | Music 3 A01 Be Playlists New Gateke" aria-label="Read more about Why Discover Weekly Feels So Personal | Music 3 A01 Be Playlists New Gateke">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'discover-weekly/' | relative_url }}" title="Why Discover Weekly Feels So Personal | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be" aria-label="Read more about Why Discover Weekly Feels So Personal | Why Playlists Became Music's New Gatekeepers | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3221,7 +3221,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Protest Songs Still Mobilize People | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-protest-songs-power-430b69"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'protest-songs/' | relative_url }}" title="Why Protest Songs Still Mobilize People | Music" aria-label="Read more about Why Protest Songs Still Mobilize People | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'protest-songs/' | relative_url }}" title="Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Read more about Why Protest Songs Still Mobilize People | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3241,7 +3241,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'song-memory/' | relative_url }}" title="Connecting Modern Movements with Historical Protest Songs | Music 3 A01 Be Protest Songs Power" aria-label="Read more about Connecting Modern Movements with Historical Protest Songs | Music 3 A01 Be Protest Songs Power">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'song-memory/' | relative_url }}" title="Connecting Modern Movements with Historical Protest Songs | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Read more about Connecting Modern Movements with Historical Protest Songs | Why Protest Songs Still Mobilize People | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3261,7 +3261,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'collective-singing/' | relative_url }}" title="How Group Singing Builds Solidarity in Protests | Music 3 A01 Be Protest Songs Power" aria-label="Read more about How Group Singing Builds Solidarity in Protests | Music 3 A01 Be Protest Songs Power">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'collective-singing/' | relative_url }}" title="How Group Singing Builds Solidarity in Protests | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Read more about How Group Singing Builds Solidarity in Protests | Why Protest Songs Still Mobilize People | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3281,7 +3281,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'digital-protest-music/' | relative_url }}" title="How Social Media Transforms Protest Songs Online | Music 3 A01 Be Protest Songs Power" aria-label="Read more about How Social Media Transforms Protest Songs Online | Music 3 A01 Be Protest Songs Power">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'digital-protest-music/' | relative_url }}" title="How Social Media Transforms Protest Songs Online | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Read more about How Social Media Transforms Protest Songs Online | Why Protest Songs Still Mobilize People | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3301,7 +3301,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'song-simplification/' | relative_url }}" title="When Protest Songs Flatten Complex Messages | Music 3 A01 Be Protest Songs Power" aria-label="Read more about When Protest Songs Flatten Complex Messages | Music 3 A01 Be Protest Songs Power">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'song-simplification/' | relative_url }}" title="When Protest Songs Flatten Complex Messages | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Read more about When Protest Songs Flatten Complex Messages | Why Protest Songs Still Mobilize People | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3321,7 +3321,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'inclusive-songs/' | relative_url }}" title="Who Feels Represented by Protest Music? | Music 3 A01 Be Protest Songs Power" aria-label="Read more about Who Feels Represented by Protest Music? | Music 3 A01 Be Protest Songs Power">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'inclusive-songs/' | relative_url }}" title="Who Feels Represented by Protest Music? | Why Protest Songs Still Mobilize People | Music 3 A01 Be" aria-label="Read more about Who Feels Represented by Protest Music? | Why Protest Songs Still Mobilize People | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3345,7 +3345,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Songs Earn Beyond The Recording | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-songwriting-royaltie-389052"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'publishing/' | relative_url }}" title="How Songs Earn Beyond The Recording | Music" aria-label="Read more about How Songs Earn Beyond The Recording | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'publishing/' | relative_url }}" title="How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Read more about How Songs Earn Beyond The Recording | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3365,7 +3365,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'setlist-gaps/' | relative_url }}" title="How Missing Setlists Leave Money Unpaid | Music 3 A01 Be Songwriting Royaltie" aria-label="Read more about How Missing Setlists Leave Money Unpaid | Music 3 A01 Be Songwriting Royaltie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'setlist-gaps/' | relative_url }}" title="How Missing Setlists Leave Money Unpaid | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Read more about How Missing Setlists Leave Money Unpaid | How Songs Earn Beyond The Recording | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3385,7 +3385,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mechanical-royalties/' | relative_url }}" title="The Hidden Song Royalties Inside Streaming | Music 3 A01 Be Songwriting Royaltie" aria-label="Read more about The Hidden Song Royalties Inside Streaming | Music 3 A01 Be Songwriting Royaltie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mechanical-royalties/' | relative_url }}" title="The Hidden Song Royalties Inside Streaming | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Read more about The Hidden Song Royalties Inside Streaming | How Songs Earn Beyond The Recording | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3405,7 +3405,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sync-earnings/' | relative_url }}" title="When One Sync Deal Creates More Income | Music 3 A01 Be Songwriting Royaltie" aria-label="Read more about When One Sync Deal Creates More Income | Music 3 A01 Be Songwriting Royaltie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sync-earnings/' | relative_url }}" title="When One Sync Deal Creates More Income | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Read more about When One Sync Deal Creates More Income | How Songs Earn Beyond The Recording | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3425,7 +3425,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'broadcast-income/' | relative_url }}" title="Why Broadcast Use Can Last for Decades | Music 3 A01 Be Songwriting Royaltie" aria-label="Read more about Why Broadcast Use Can Last for Decades | Music 3 A01 Be Songwriting Royaltie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'broadcast-income/' | relative_url }}" title="Why Broadcast Use Can Last for Decades | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Read more about Why Broadcast Use Can Last for Decades | How Songs Earn Beyond The Recording | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3445,7 +3445,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'royalty-splits/' | relative_url }}" title="Why the Same Song Pays Different People | Music 3 A01 Be Songwriting Royaltie" aria-label="Read more about Why the Same Song Pays Different People | Music 3 A01 Be Songwriting Royaltie">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'royalty-splits/' | relative_url }}" title="Why the Same Song Pays Different People | How Songs Earn Beyond The Recording | Music 3 A01 Be" aria-label="Read more about Why the Same Song Pays Different People | How Songs Earn Beyond The Recording | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3489,7 +3489,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'music-archives/' | relative_url }}" title="How Archived Recordings Keep Musical History Alive | Music 3 A01 Be Recorded Music Time" aria-label="Read more about How Archived Recordings Keep Musical History Alive | Music 3 A01 Be Recorded Music Time">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'music-archives/' | relative_url }}" title="How Archived Recordings Keep Musical History Alive | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Read more about How Archived Recordings Keep Musical History Alive | How Recording Changed What Music Is | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3509,7 +3509,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'edison-phonograph/' | relative_url }}" title="How Edison&#x27;s Phonograph Changed Musical Memory | Music 3 A01 Be Recorded Music Time" aria-label="Read more about How Edison&#x27;s Phonograph Changed Musical Memory | Music 3 A01 Be Recorded Music Time">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'edison-phonograph/' | relative_url }}" title="How Edison's Phonograph Changed Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Read more about How Edison's Phonograph Changed Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3529,7 +3529,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'playback-memory/' | relative_url }}" title="How Listening to Recordings Reshapes Musical Memory | Music 3 A01 Be Recorded Music Time" aria-label="Read more about How Listening to Recordings Reshapes Musical Memory | Music 3 A01 Be Recorded Music Time">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'playback-memory/' | relative_url }}" title="How Listening to Recordings Reshapes Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Read more about How Listening to Recordings Reshapes Musical Memory | How Recording Changed What Music Is | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3549,7 +3549,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'portable-players/' | relative_url }}" title="How Portable Devices Made Music Personal Everywhere | Music 3 A01 Be Recorded Music Time" aria-label="Read more about How Portable Devices Made Music Personal Everywhere | Music 3 A01 Be Recorded Music Time">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'portable-players/' | relative_url }}" title="How Portable Devices Made Music Personal Everywhere | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Read more about How Portable Devices Made Music Personal Everywhere | How Recording Changed What Music Is | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3569,7 +3569,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'recorded-fame/' | relative_url }}" title="How Recordings Carried Performer Fame Across Distances | Music 3 A01 Be Recorded Music Time" aria-label="Read more about How Recordings Carried Performer Fame Across Distances | Music 3 A01 Be Recorded Music Time">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'recorded-fame/' | relative_url }}" title="How Recordings Carried Performer Fame Across Distances | How Recording Changed What Music Is | Music 3 A01 Be" aria-label="Read more about How Recordings Carried Performer Fame Across Distances | How Recording Changed What Music Is | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3593,7 +3593,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Local Sounds Become Global | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-regional-scenes-stre-ec1816"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'regional-scenes/' | relative_url }}" title="How Local Sounds Become Global | Music" aria-label="Read more about How Local Sounds Become Global | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'regional-scenes/' | relative_url }}" title="How Local Sounds Become Global | Music 3 A01 Be" aria-label="Read more about How Local Sounds Become Global | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3613,7 +3613,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'afrobeats-01714f/' | relative_url }}" title="How Afrobeats Turned Diaspora Listening Into Reach | Music 3 A01 Be Regional Scenes Stre" aria-label="Read more about How Afrobeats Turned Diaspora Listening Into Reach | Music 3 A01 Be Regional Scenes Stre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'afrobeats-01714f/' | relative_url }}" title="How Afrobeats Turned Diaspora Listening Into Reach | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Read more about How Afrobeats Turned Diaspora Listening Into Reach | How Local Sounds Become Global | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3633,7 +3633,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'regional-mexican/' | relative_url }}" title="How Regional Mexican Music Crossed Borders Online | Music 3 A01 Be Regional Scenes Stre" aria-label="Read more about How Regional Mexican Music Crossed Borders Online | Music 3 A01 Be Regional Scenes Stre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'regional-mexican/' | relative_url }}" title="How Regional Mexican Music Crossed Borders Online | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Read more about How Regional Mexican Music Crossed Borders Online | How Local Sounds Become Global | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3653,7 +3653,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'playlist-gate/' | relative_url }}" title="The New Border Is Platform Visibility | Music 3 A01 Be Regional Scenes Stre" aria-label="Read more about The New Border Is Platform Visibility | Music 3 A01 Be Regional Scenes Stre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'playlist-gate/' | relative_url }}" title="The New Border Is Platform Visibility | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Read more about The New Border Is Platform Visibility | How Local Sounds Become Global | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3673,7 +3673,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'data-proof/' | relative_url }}" title="When Streams Become Proof Of A Scene | Music 3 A01 Be Regional Scenes Stre" aria-label="Read more about When Streams Become Proof Of A Scene | Music 3 A01 Be Regional Scenes Stre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'data-proof/' | relative_url }}" title="When Streams Become Proof Of A Scene | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Read more about When Streams Become Proof Of A Scene | How Local Sounds Become Global | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3693,7 +3693,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'amapiano/' | relative_url }}" title="Why Amapiano Became A Global Dance Grammar | Music 3 A01 Be Regional Scenes Stre" aria-label="Read more about Why Amapiano Became A Global Dance Grammar | Music 3 A01 Be Regional Scenes Stre">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'amapiano/' | relative_url }}" title="Why Amapiano Became A Global Dance Grammar | How Local Sounds Become Global | Music 3 A01 Be" aria-label="Read more about Why Amapiano Became A Global Dance Grammar | How Local Sounds Become Global | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3737,7 +3737,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rhythm-therapy/' | relative_url }}" title="Can a Beat Help Bodies Move Better? | Music 3 A01 Be Rhythm Body Movement" aria-label="Read more about Can a Beat Help Bodies Move Better? | Music 3 A01 Be Rhythm Body Movement">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rhythm-therapy/' | relative_url }}" title="Can a Beat Help Bodies Move Better? | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Read more about Can a Beat Help Bodies Move Better? | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3757,7 +3757,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-timing/' | relative_url }}" title="How Dance Floors Turn Beats Into Belonging | Music 3 A01 Be Rhythm Body Movement" aria-label="Read more about How Dance Floors Turn Beats Into Belonging | Music 3 A01 Be Rhythm Body Movement">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shared-timing/' | relative_url }}" title="How Dance Floors Turn Beats Into Belonging | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Read more about How Dance Floors Turn Beats Into Belonging | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3777,7 +3777,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hooks/' | relative_url }}" title="Why Chants Stay in the Body | Music 3 A01 Be Rhythm Body Movement" aria-label="Read more about Why Chants Stay in the Body | Music 3 A01 Be Rhythm Body Movement">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hooks/' | relative_url }}" title="Why Chants Stay in the Body | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Read more about Why Chants Stay in the Body | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3797,7 +3797,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'syncopation/' | relative_url }}" title="Why Off Beat Rhythms Make People Move | Music 3 A01 Be Rhythm Body Movement" aria-label="Read more about Why Off Beat Rhythms Make People Move | Music 3 A01 Be Rhythm Body Movement">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'syncopation/' | relative_url }}" title="Why Off Beat Rhythms Make People Move | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Read more about Why Off Beat Rhythms Make People Move | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3817,7 +3817,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'beat-brain/' | relative_url }}" title="Why Your Body Hears the Beat First | Music 3 A01 Be Rhythm Body Movement" aria-label="Read more about Why Your Body Hears the Beat First | Music 3 A01 Be Rhythm Body Movement">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'beat-brain/' | relative_url }}" title="Why Your Body Hears the Beat First | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be" aria-label="Read more about Why Your Body Hears the Beat First | Why Rhythm Makes Music Feel Physical | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3841,7 +3841,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why One Song Has So Many Rights | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-music-rights-complic-6e7958"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rights/' | relative_url }}" title="Why One Song Has So Many Rights | Music" aria-label="Read more about Why One Song Has So Many Rights | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rights/' | relative_url }}" title="Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Read more about Why One Song Has So Many Rights | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3861,7 +3861,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'metadata-gaps/' | relative_url }}" title="How royalties get lost in the data | Music 3 A01 Be Music Rights Complic" aria-label="Read more about How royalties get lost in the data | Music 3 A01 Be Music Rights Complic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'metadata-gaps/' | relative_url }}" title="How royalties get lost in the data | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Read more about How royalties get lost in the data | Why One Song Has So Many Rights | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3881,7 +3881,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prs-dispute/' | relative_url }}" title="When royalty societies face their members | Music 3 A01 Be Music Rights Complic" aria-label="Read more about When royalty societies face their members | Music 3 A01 Be Music Rights Complic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prs-dispute/' | relative_url }}" title="When royalty societies face their members | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Read more about When royalty societies face their members | Why One Song Has So Many Rights | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3901,7 +3901,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'public-play/' | relative_url }}" title="Why cafes pay to play songs | Music 3 A01 Be Music Rights Complic" aria-label="Read more about Why cafes pay to play songs | Music 3 A01 Be Music Rights Complic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'public-play/' | relative_url }}" title="Why cafes pay to play songs | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Read more about Why cafes pay to play songs | Why One Song Has So Many Rights | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3921,7 +3921,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-songs-d042c1/' | relative_url }}" title="Why covers need one licence, not two | Music 3 A01 Be Music Rights Complic" aria-label="Read more about Why covers need one licence, not two | Music 3 A01 Be Music Rights Complic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-songs-d042c1/' | relative_url }}" title="Why covers need one licence, not two | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Read more about Why covers need one licence, not two | Why One Song Has So Many Rights | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3941,7 +3941,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sync-rights/' | relative_url }}" title="Why film music needs double clearance | Music 3 A01 Be Music Rights Complic" aria-label="Read more about Why film music needs double clearance | Music 3 A01 Be Music Rights Complic">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sync-rights/' | relative_url }}" title="Why film music needs double clearance | Why One Song Has So Many Rights | Music 3 A01 Be" aria-label="Read more about Why film music needs double clearance | Why One Song Has So Many Rights | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3965,7 +3965,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Streaming Money Actually Reaches Artists | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-streaming-artist-rev-0dcd6e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'royalties/' | relative_url }}" title="How Streaming Money Actually Reaches Artists | Music" aria-label="Read more about How Streaming Money Actually Reaches Artists | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'royalties/' | relative_url }}" title="How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Read more about How Streaming Money Actually Reaches Artists | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -3985,7 +3985,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'songwriters-701a60/' | relative_url }}" title="How songwriters get paid from streams | Music 3 A01 Be Streaming Artist Rev" aria-label="Read more about How songwriters get paid from streams | Music 3 A01 Be Streaming Artist Rev">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'songwriters-701a60/' | relative_url }}" title="How songwriters get paid from streams | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Read more about How songwriters get paid from streams | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4005,7 +4005,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-royalties/' | relative_url }}" title="The royalties artists forget to collect | Music 3 A01 Be Streaming Artist Rev" aria-label="Read more about The royalties artists forget to collect | Music 3 A01 Be Streaming Artist Rev">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-royalties/' | relative_url }}" title="The royalties artists forget to collect | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Read more about The royalties artists forget to collect | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4025,7 +4025,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'master-rights/' | relative_url }}" title="Who gets the recording money first? | Music 3 A01 Be Streaming Artist Rev" aria-label="Read more about Who gets the recording money first? | Music 3 A01 Be Streaming Artist Rev">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'master-rights/' | relative_url }}" title="Who gets the recording money first? | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Read more about Who gets the recording money first? | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4045,7 +4045,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'payout-rates/' | relative_url }}" title="Why one stream is not worth one price | Music 3 A01 Be Streaming Artist Rev" aria-label="Read more about Why one stream is not worth one price | Music 3 A01 Be Streaming Artist Rev">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'payout-rates/' | relative_url }}" title="Why one stream is not worth one price | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Read more about Why one stream is not worth one price | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4065,7 +4065,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'global-plays/' | relative_url }}" title="Why streams abroad pay differently | Music 3 A01 Be Streaming Artist Rev" aria-label="Read more about Why streams abroad pay differently | Music 3 A01 Be Streaming Artist Rev">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'global-plays/' | relative_url }}" title="Why streams abroad pay differently | How Streaming Money Actually Reaches Artists | Music 3 A01 Be" aria-label="Read more about Why streams abroad pay differently | How Streaming Money Actually Reaches Artists | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4089,7 +4089,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Setlists Are More Than Souvenirs | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-missing-setlists-roy-cc2db6"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists/' | relative_url }}" title="Why Setlists Are More Than Souvenirs | Music" aria-label="Read more about Why Setlists Are More Than Souvenirs | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'setlists/' | relative_url }}" title="Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Read more about Why Setlists Are More Than Souvenirs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4109,7 +4109,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-setlists/' | relative_url }}" title="Can A Handwritten Setlist Prove A Royalty Claim? | Music 3 A01 Be Missing Setlists Roy" aria-label="Read more about Can A Handwritten Setlist Prove A Royalty Claim? | Music 3 A01 Be Missing Setlists Roy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paper-setlists/' | relative_url }}" title="Can A Handwritten Setlist Prove A Royalty Claim? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Read more about Can A Handwritten Setlist Prove A Royalty Claim? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4129,7 +4129,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-songs/' | relative_url }}" title="Do Cover Gigs Pay The Right Writers? | Music 3 A01 Be Missing Setlists Roy" aria-label="Read more about Do Cover Gigs Pay The Right Writers? | Music 3 A01 Be Missing Setlists Roy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cover-songs/' | relative_url }}" title="Do Cover Gigs Pay The Right Writers? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Read more about Do Cover Gigs Pay The Right Writers? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4149,7 +4149,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'claim-deadlines/' | relative_url }}" title="What Happens When Gig Claims Arrive Too Late? | Music 3 A01 Be Missing Setlists Roy" aria-label="Read more about What Happens When Gig Claims Arrive Too Late? | Music 3 A01 Be Missing Setlists Roy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'claim-deadlines/' | relative_url }}" title="What Happens When Gig Claims Arrive Too Late? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Read more about What Happens When Gig Claims Arrive Too Late? | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4169,7 +4169,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'black-box-gigs/' | relative_url }}" title="Why Grassroots Gig Money Gets Lost | Music 3 A01 Be Missing Setlists Roy" aria-label="Read more about Why Grassroots Gig Money Gets Lost | Music 3 A01 Be Missing Setlists Roy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'black-box-gigs/' | relative_url }}" title="Why Grassroots Gig Money Gets Lost | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Read more about Why Grassroots Gig Money Gets Lost | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4189,7 +4189,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'prs-lawsuit/' | relative_url }}" title="Why Missing Setlists Are Hard To Sue Over | Music 3 A01 Be Missing Setlists Roy" aria-label="Read more about Why Missing Setlists Are Hard To Sue Over | Music 3 A01 Be Missing Setlists Roy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'prs-lawsuit/' | relative_url }}" title="Why Missing Setlists Are Hard To Sue Over | Why Setlists Are More Than Souvenirs | Music 3 A01 Be" aria-label="Read more about Why Missing Setlists Are Hard To Sue Over | Why Setlists Are More Than Souvenirs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4213,7 +4213,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Short Clips Reshape Hit Songs | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-short-clips-songwrit-c1f922"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'short-clips/' | relative_url }}" title="How Short Clips Reshape Hit Songs | Music" aria-label="Read more about How Short Clips Reshape Hit Songs | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'short-clips/' | relative_url }}" title="How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Read more about How Short Clips Reshape Hit Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4233,7 +4233,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'artist-discovery/' | relative_url }}" title="Can Viral Songs Build Lasting Fans? | Music 3 A01 Be Short Clips Songwrit" aria-label="Read more about Can Viral Songs Build Lasting Fans? | Music 3 A01 Be Short Clips Songwrit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'artist-discovery/' | relative_url }}" title="Can Viral Songs Build Lasting Fans? | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Read more about Can Viral Songs Build Lasting Fans? | How Short Clips Reshape Hit Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4253,7 +4253,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'early-hooks/' | relative_url }}" title="How Fast Does a Song Need to Grab You? | Music 3 A01 Be Short Clips Songwrit" aria-label="Read more about How Fast Does a Song Need to Grab You? | Music 3 A01 Be Short Clips Songwrit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'early-hooks/' | relative_url }}" title="How Fast Does a Song Need to Grab You? | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Read more about How Fast Does a Song Need to Grab You? | How Short Clips Reshape Hit Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4273,7 +4273,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'song-revivals/' | relative_url }}" title="How Old Songs Become New Hits Again | Music 3 A01 Be Short Clips Songwrit" aria-label="Read more about How Old Songs Become New Hits Again | Music 3 A01 Be Short Clips Songwrit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'song-revivals/' | relative_url }}" title="How Old Songs Become New Hits Again | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Read more about How Old Songs Become New Hits Again | How Short Clips Reshape Hit Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4293,7 +4293,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'clip-tradeoffs/' | relative_url }}" title="When a Viral Snippet Hurts the Full Song | Music 3 A01 Be Short Clips Songwrit" aria-label="Read more about When a Viral Snippet Hurts the Full Song | Music 3 A01 Be Short Clips Songwrit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'clip-tradeoffs/' | relative_url }}" title="When a Viral Snippet Hurts the Full Song | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Read more about When a Viral Snippet Hurts the Full Song | How Short Clips Reshape Hit Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4313,7 +4313,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'viral-moments/' | relative_url }}" title="Why the Chorus Is No Longer the Only Hook | Music 3 A01 Be Short Clips Songwrit" aria-label="Read more about Why the Chorus Is No Longer the Only Hook | Music 3 A01 Be Short Clips Songwrit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'viral-moments/' | relative_url }}" title="Why the Chorus Is No Longer the Only Hook | How Short Clips Reshape Hit Songs | Music 3 A01 Be" aria-label="Read more about Why the Chorus Is No Longer the Only Hook | How Short Clips Reshape Hit Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4357,7 +4357,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cage-4-33/' | relative_url }}" title="How John Cages 433 Redefines Musical Silence | Music 3 A01 Be Silence In Music" aria-label="Read more about How John Cages 433 Redefines Musical Silence | Music 3 A01 Be Silence In Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cage-4-33/' | relative_url }}" title="How John Cages 433 Redefines Musical Silence | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Read more about How John Cages 433 Redefines Musical Silence | Why Silence Can Be Music Too | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4377,7 +4377,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pauses-tension/' | relative_url }}" title="How Pauses Build Anticipation in Music | Music 3 A01 Be Silence In Music" aria-label="Read more about How Pauses Build Anticipation in Music | Music 3 A01 Be Silence In Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pauses-tension/' | relative_url }}" title="How Pauses Build Anticipation in Music | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Read more about How Pauses Build Anticipation in Music | Why Silence Can Be Music Too | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4397,7 +4397,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'performance-gestures/' | relative_url }}" title="How Performers Use Gesture to Shape Silence | Music 3 A01 Be Silence In Music" aria-label="Read more about How Performers Use Gesture to Shape Silence | Music 3 A01 Be Silence In Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'performance-gestures/' | relative_url }}" title="How Performers Use Gesture to Shape Silence | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Read more about How Performers Use Gesture to Shape Silence | Why Silence Can Be Music Too | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4417,7 +4417,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emotional-silence/' | relative_url }}" title="How Silence Communicates Emotion and Meaning in Music | Music 3 A01 Be Silence In Music" aria-label="Read more about How Silence Communicates Emotion and Meaning in Music | Music 3 A01 Be Silence In Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emotional-silence/' | relative_url }}" title="How Silence Communicates Emotion and Meaning in Music | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Read more about How Silence Communicates Emotion and Meaning in Music | Why Silence Can Be Music Too | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4437,7 +4437,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'recording-space/' | relative_url }}" title="Why Silence Shapes the Impact of Recorded Music | Music 3 A01 Be Silence In Music" aria-label="Read more about Why Silence Shapes the Impact of Recorded Music | Music 3 A01 Be Silence In Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'recording-space/' | relative_url }}" title="Why Silence Shapes the Impact of Recorded Music | Why Silence Can Be Music Too | Music 3 A01 Be" aria-label="Read more about Why Silence Shapes the Impact of Recorded Music | Why Silence Can Be Music Too | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4461,7 +4461,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Streaming Payout Claims Really Mean | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-spotify-payout-debat-88bd5d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'spotify-payouts/' | relative_url }}" title="What Streaming Payout Claims Really Mean | Music" aria-label="Read more about What Streaming Payout Claims Really Mean | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'spotify-payouts/' | relative_url }}" title="What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Read more about What Streaming Payout Claims Really Mean | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4481,7 +4481,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'payout-data/' | relative_url }}" title="What Spotify&#x27;s big payout numbers leave out | Music 3 A01 Be Spotify Payout Debat" aria-label="Read more about What Spotify&#x27;s big payout numbers leave out | Music 3 A01 Be Spotify Payout Debat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'payout-data/' | relative_url }}" title="What Spotify's big payout numbers leave out | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Read more about What Spotify's big payout numbers leave out | What Streaming Payout Claims Really Mean | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4501,7 +4501,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1-000-streams-a35779/' | relative_url }}" title="Who loses under Spotify&#x27;s 1,000 stream rule? | Music 3 A01 Be Spotify Payout Debat" aria-label="Read more about Who loses under Spotify&#x27;s 1,000 stream rule? | Music 3 A01 Be Spotify Payout Debat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1-000-streams-a35779/' | relative_url }}" title="Who loses under Spotify's 1,000 stream rule? | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Read more about Who loses under Spotify's 1,000 stream rule? | What Streaming Payout Claims Really Mean | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4521,7 +4521,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'per-stream/' | relative_url }}" title="Why one Spotify stream has no fixed price | Music 3 A01 Be Spotify Payout Debat" aria-label="Read more about Why one Spotify stream has no fixed price | Music 3 A01 Be Spotify Payout Debat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'per-stream/' | relative_url }}" title="Why one Spotify stream has no fixed price | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Read more about Why one Spotify stream has no fixed price | What Streaming Payout Claims Really Mean | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4541,7 +4541,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'two-rights/' | relative_url }}" title="Why one stream creates two royalty trails | Music 3 A01 Be Spotify Payout Debat" aria-label="Read more about Why one stream creates two royalty trails | Music 3 A01 Be Spotify Payout Debat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-rights/' | relative_url }}" title="Why one stream creates two royalty trails | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Read more about Why one stream creates two royalty trails | What Streaming Payout Claims Really Mean | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4561,7 +4561,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'artist-share/' | relative_url }}" title="Why Spotify money reaches artists unevenly | Music 3 A01 Be Spotify Payout Debat" aria-label="Read more about Why Spotify money reaches artists unevenly | Music 3 A01 Be Spotify Payout Debat">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'artist-share/' | relative_url }}" title="Why Spotify money reaches artists unevenly | What Streaming Payout Claims Really Mean | Music 3 A01 Be" aria-label="Read more about Why Spotify money reaches artists unevenly | What Streaming Payout Claims Really Mean | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4585,7 +4585,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Streaming Changed Listening Habits | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-streaming-listening-72e5f3"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'streaming/' | relative_url }}" title="How Streaming Changed Listening Habits | Music" aria-label="Read more about How Streaming Changed Listening Habits | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'streaming/' | relative_url }}" title="How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Read more about How Streaming Changed Listening Habits | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4605,7 +4605,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms-a7ef46/' | relative_url }}" title="Do Music Algorithms Expand Your Taste? | Music 3 A01 Be Streaming Listening" aria-label="Read more about Do Music Algorithms Expand Your Taste? | Music 3 A01 Be Streaming Listening">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'algorithms-a7ef46/' | relative_url }}" title="Do Music Algorithms Expand Your Taste? | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Read more about Do Music Algorithms Expand Your Taste? | How Streaming Changed Listening Habits | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4625,7 +4625,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'revenue-dbec50/' | relative_url }}" title="What the Money Says About Streaming | Music 3 A01 Be Streaming Listening" aria-label="Read more about What the Money Says About Streaming | Music 3 A01 Be Streaming Listening">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'revenue-dbec50/' | relative_url }}" title="What the Money Says About Streaming | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Read more about What the Money Says About Streaming | How Streaming Changed Listening Habits | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4645,7 +4645,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'access/' | relative_url }}" title="When Access Became More Useful Than Ownership | Music 3 A01 Be Streaming Listening" aria-label="Read more about When Access Became More Useful Than Ownership | Music 3 A01 Be Streaming Listening">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'access/' | relative_url }}" title="When Access Became More Useful Than Ownership | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Read more about When Access Became More Useful Than Ownership | How Streaming Changed Listening Habits | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4665,7 +4665,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'background/' | relative_url }}" title="Why Music Now Follows US Everywhere | Music 3 A01 Be Streaming Listening" aria-label="Read more about Why Music Now Follows US Everywhere | Music 3 A01 Be Streaming Listening">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'background/' | relative_url }}" title="Why Music Now Follows US Everywhere | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Read more about Why Music Now Follows US Everywhere | How Streaming Changed Listening Habits | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4685,7 +4685,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'playlists-55b3d3/' | relative_url }}" title="Why Playlists Became the New Album | Music 3 A01 Be Streaming Listening" aria-label="Read more about Why Playlists Became the New Album | Music 3 A01 Be Streaming Listening">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'playlists-55b3d3/' | relative_url }}" title="Why Playlists Became the New Album | How Streaming Changed Listening Habits | Music 3 A01 Be" aria-label="Read more about Why Playlists Became the New Album | How Streaming Changed Listening Habits | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4709,7 +4709,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Screen Placements Revive Songs | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-sync-licensing-song-fff395"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sync/' | relative_url }}" title="How Screen Placements Revive Songs | Music" aria-label="Read more about How Screen Placements Revive Songs | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sync/' | relative_url }}" title="How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Read more about How Screen Placements Revive Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4729,7 +4729,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-sync/' | relative_url }}" title="How Quiet Songs Win in Loud Advertising | Music 3 A01 Be Sync Licensing Song" aria-label="Read more about How Quiet Songs Win in Loud Advertising | Music 3 A01 Be Sync Licensing Song">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ad-sync/' | relative_url }}" title="How Quiet Songs Win in Loud Advertising | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Read more about How Quiet Songs Win in Loud Advertising | How Screen Placements Revive Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4749,7 +4749,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'game-deals/' | relative_url }}" title="When Songs Become Part of Game Worlds | Music 3 A01 Be Sync Licensing Song" aria-label="Read more about When Songs Become Part of Game Worlds | Music 3 A01 Be Sync Licensing Song">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'game-deals/' | relative_url }}" title="When Songs Become Part of Game Worlds | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Read more about When Songs Become Part of Game Worlds | How Screen Placements Revive Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4769,7 +4769,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scene-meaning/' | relative_url }}" title="Why One Scene Can Rewrite a Song | Music 3 A01 Be Sync Licensing Song" aria-label="Read more about Why One Scene Can Rewrite a Song | Music 3 A01 Be Sync Licensing Song">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scene-meaning/' | relative_url }}" title="Why One Scene Can Rewrite a Song | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Read more about Why One Scene Can Rewrite a Song | How Screen Placements Revive Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4789,7 +4789,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'clearance/' | relative_url }}" title="Why One Song Often Needs Two Yeses | Music 3 A01 Be Sync Licensing Song" aria-label="Read more about Why One Song Often Needs Two Yeses | Music 3 A01 Be Sync Licensing Song">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'clearance/' | relative_url }}" title="Why One Song Often Needs Two Yeses | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Read more about Why One Song Often Needs Two Yeses | How Screen Placements Revive Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4809,7 +4809,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'revenue/' | relative_url }}" title="Why Sync Money Is Big but Not Magic | Music 3 A01 Be Sync Licensing Song" aria-label="Read more about Why Sync Money Is Big but Not Magic | Music 3 A01 Be Sync Licensing Song">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'revenue/' | relative_url }}" title="Why Sync Money Is Big but Not Magic | How Screen Placements Revive Songs | Music 3 A01 Be" aria-label="Read more about Why Sync Money Is Big but Not Magic | How Screen Placements Revive Songs | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4833,7 +4833,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why The Same Note Can Feel Different | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-timbre-sound-texture-76da17"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timbre/' | relative_url }}" title="Why The Same Note Can Feel Different | Music" aria-label="Read more about Why The Same Note Can Feel Different | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timbre/' | relative_url }}" title="Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Read more about Why The Same Note Can Feel Different | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4853,7 +4853,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transient-cues/' | relative_url }}" title="How Brief Attacks Reveal Sound Sources Instantly | Music 3 A01 Be Timbre Sound Texture" aria-label="Read more about How Brief Attacks Reveal Sound Sources Instantly | Music 3 A01 Be Timbre Sound Texture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transient-cues/' | relative_url }}" title="How Brief Attacks Reveal Sound Sources Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Read more about How Brief Attacks Reveal Sound Sources Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4873,7 +4873,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'neural-timbre/' | relative_url }}" title="How the Brain Distinguishes Timbre Instantly | Music 3 A01 Be Timbre Sound Texture" aria-label="Read more about How the Brain Distinguishes Timbre Instantly | Music 3 A01 Be Timbre Sound Texture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'neural-timbre/' | relative_url }}" title="How the Brain Distinguishes Timbre Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Read more about How the Brain Distinguishes Timbre Instantly | Why The Same Note Can Feel Different | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4893,7 +4893,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vocal-formants/' | relative_url }}" title="How Vocal Tract Formants Define Individual Timbre | Music 3 A01 Be Timbre Sound Texture" aria-label="Read more about How Vocal Tract Formants Define Individual Timbre | Music 3 A01 Be Timbre Sound Texture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vocal-formants/' | relative_url }}" title="How Vocal Tract Formants Define Individual Timbre | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Read more about How Vocal Tract Formants Define Individual Timbre | Why The Same Note Can Feel Different | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4913,7 +4913,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'synthetic-timbre/' | relative_url }}" title="Making Synthesized Sounds Feel Human and Expressive | Music 3 A01 Be Timbre Sound Texture" aria-label="Read more about Making Synthesized Sounds Feel Human and Expressive | Music 3 A01 Be Timbre Sound Texture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'synthetic-timbre/' | relative_url }}" title="Making Synthesized Sounds Feel Human and Expressive | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Read more about Making Synthesized Sounds Feel Human and Expressive | Why The Same Note Can Feel Different | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4933,7 +4933,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'instrument-timbre/' | relative_url }}" title="Why Instrument Design Makes Sounds Feel Human | Music 3 A01 Be Timbre Sound Texture" aria-label="Read more about Why Instrument Design Makes Sounds Feel Human | Music 3 A01 Be Timbre Sound Texture">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'instrument-timbre/' | relative_url }}" title="Why Instrument Design Makes Sounds Feel Human | Why The Same Note Can Feel Different | Music 3 A01 Be" aria-label="Read more about Why Instrument Design Makes Sounds Feel Human | Why The Same Note Can Feel Different | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4957,7 +4957,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can Policy Make Streaming Fairer? | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-uk-streaming-policy-aa90d2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-policy/' | relative_url }}" title="Can Policy Make Streaming Fairer? | Music" aria-label="Read more about Can Policy Make Streaming Fairer? | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-policy/' | relative_url }}" title="Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Read more about Can Policy Make Streaming Fairer? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4977,7 +4977,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'transparency/' | relative_url }}" title="Can better royalty information make streaming fairer? | Music 3 A01 Be UK Streaming Policy" aria-label="Read more about Can better royalty information make streaming fairer? | Music 3 A01 Be UK Streaming Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'transparency/' | relative_url }}" title="Can better royalty information make streaming fairer? | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Read more about Can better royalty information make streaming fairer? | Can Policy Make Streaming Fairer? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -4997,7 +4997,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'metadata-d16ea8/' | relative_url }}" title="The tiny data errors that block music royalties | Music 3 A01 Be UK Streaming Policy" aria-label="Read more about The tiny data errors that block music royalties | Music 3 A01 Be UK Streaming Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'metadata-d16ea8/' | relative_url }}" title="The tiny data errors that block music royalties | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Read more about The tiny data errors that block music royalties | Can Policy Make Streaming Fairer? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5017,7 +5017,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cma-study/' | relative_url }}" title="Why competition law did not solve streaming pay | Music 3 A01 Be UK Streaming Policy" aria-label="Read more about Why competition law did not solve streaming pay | Music 3 A01 Be UK Streaming Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cma-study/' | relative_url }}" title="Why competition law did not solve streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Read more about Why competition law did not solve streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5037,7 +5037,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'legacy-artists/' | relative_url }}" title="Why old record deals still shape streaming pay | Music 3 A01 Be UK Streaming Policy" aria-label="Read more about Why old record deals still shape streaming pay | Music 3 A01 Be UK Streaming Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'legacy-artists/' | relative_url }}" title="Why old record deals still shape streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Read more about Why old record deals still shape streaming pay | Can Policy Make Streaming Fairer? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5057,7 +5057,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'er-debate/' | relative_url }}" title="Would equitable remuneration really fix streaming pay? | Music 3 A01 Be UK Streaming Policy" aria-label="Read more about Would equitable remuneration really fix streaming pay? | Music 3 A01 Be UK Streaming Policy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'er-debate/' | relative_url }}" title="Would equitable remuneration really fix streaming pay? | Can Policy Make Streaming Fairer? | Music 3 A01 Be" aria-label="Read more about Would equitable remuneration really fix streaming pay? | Can Policy Make Streaming Fairer? | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5081,7 +5081,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Vinyl Came Back In A Digital Age | Music" aria-expanded="false" aria-controls="home-vertical-children-node-music-3a01be-vinyl-streaming-era-a87a09"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vinyl/' | relative_url }}" title="Why Vinyl Came Back In A Digital Age | Music" aria-label="Read more about Why Vinyl Came Back In A Digital Age | Music">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vinyl/' | relative_url }}" title="Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Read more about Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5101,7 +5101,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'variants/' | relative_url }}" title="Are Vinyl Variants Good for Fans? | Music 3 A01 Be Vinyl Streaming Era" aria-label="Read more about Are Vinyl Variants Good for Fans? | Music 3 A01 Be Vinyl Streaming Era">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'variants/' | relative_url }}" title="Are Vinyl Variants Good for Fans? | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Read more about Are Vinyl Variants Good for Fans? | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5121,7 +5121,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'artwork/' | relative_url }}" title="How Album Art Became Big Again | Music 3 A01 Be Vinyl Streaming Era" aria-label="Read more about How Album Art Became Big Again | Music 3 A01 Be Vinyl Streaming Era">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'artwork/' | relative_url }}" title="How Album Art Became Big Again | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Read more about How Album Art Became Big Again | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5141,7 +5141,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scarcity/' | relative_url }}" title="When Limited Vinyl Becomes the Event | Music 3 A01 Be Vinyl Streaming Era" aria-label="Read more about When Limited Vinyl Becomes the Event | Music 3 A01 Be Vinyl Streaming Era">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scarcity/' | relative_url }}" title="When Limited Vinyl Becomes the Event | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Read more about When Limited Vinyl Becomes the Event | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5161,7 +5161,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ritual/' | relative_url }}" title="Why Playing Vinyl Slows Music Down | Music 3 A01 Be Vinyl Streaming Era" aria-label="Read more about Why Playing Vinyl Slows Music Down | Music 3 A01 Be Vinyl Streaming Era">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ritual/' | relative_url }}" title="Why Playing Vinyl Slows Music Down | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Read more about Why Playing Vinyl Slows Music Down | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
@@ -5181,7 +5181,7 @@ site_image_description: A crowded concert hall with a singer onstage, a vinyl re
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ownership/' | relative_url }}" title="Why Vinyl Still Feels Like Owning Music | Music 3 A01 Be Vinyl Streaming Era" aria-label="Read more about Why Vinyl Still Feels Like Owning Music | Music 3 A01 Be Vinyl Streaming Era">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ownership/' | relative_url }}" title="Why Vinyl Still Feels Like Owning Music | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be" aria-label="Read more about Why Vinyl Still Feels Like Owning Music | Why Vinyl Came Back In A Digital Age | Music 3 A01 Be">Read more</a>
 </div>
 </div>
 </div>
