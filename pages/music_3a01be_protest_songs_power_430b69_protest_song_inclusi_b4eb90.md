@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music 3 A01 Be
+  title: Protest Songs | Music
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music 3 A01 Be
+  title: Protest Songs | Music
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Protest Songs Flatten Complex Messages
 up_link:
   basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music 3 A01 Be
+  title: Protest Songs | Music
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People

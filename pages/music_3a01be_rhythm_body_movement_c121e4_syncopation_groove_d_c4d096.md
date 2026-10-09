@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music 3 A01 Be
+  title: Rhythm | Music
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music 3 A01 Be
+  title: Rhythm | Music
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Dance Floors Turn Beats Into Belonging
 up_link:
   basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music 3 A01 Be
+  title: Rhythm | Music
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical

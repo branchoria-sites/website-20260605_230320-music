@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music 3 A01 Be
+  title: Sync | Music
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music 3 A01 Be
+  title: Sync | Music
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sync Money Is Big but Not Magic
 up_link:
   basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music 3 A01 Be
+  title: Sync | Music
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music 3 A01 Be
+  title: Setlists | Music
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music 3 A01 Be
+  title: Setlists | Music
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Missing Setlists Are Hard To Sue Over
 up_link:
   basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music 3 A01 Be
+  title: Setlists | Music
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs

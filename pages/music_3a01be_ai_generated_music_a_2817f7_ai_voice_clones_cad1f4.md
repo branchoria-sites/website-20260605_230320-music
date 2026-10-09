@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music 3 A01 Be
+  title: AI Songs | Music
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music 3 A01 Be
+  title: AI Songs | Music
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How AI Tracks Flood Streaming Platforms
 up_link:
   basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music 3 A01 Be
+  title: AI Songs | Music
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music 3 A01 Be
+  title: Live Income | Music
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music 3 A01 Be
+  title: Live Income | Music
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Where Your Ticket Money Really Goes
 up_link:
   basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music 3 A01 Be
+  title: Live Income | Music
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently

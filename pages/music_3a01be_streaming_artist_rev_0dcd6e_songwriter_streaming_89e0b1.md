@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music 3 A01 Be
+  title: Royalties | Music
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music 3 A01 Be
+  title: Royalties | Music
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one stream is not worth one price
 up_link:
   basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music 3 A01 Be
+  title: Royalties | Music
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists

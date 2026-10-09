@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music 3 A01 Be
+  title: Creator Pay | Music
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music 3 A01 Be
+  title: Creator Pay | Music
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Bigger Royalty Reports Still Leave Questions
 up_link:
   basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music 3 A01 Be
+  title: Creator Pay | Music
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair

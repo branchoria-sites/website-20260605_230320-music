@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music 3 A01 Be
+  title: Physical | Music
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music 3 A01 Be
+  title: Physical | Music
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why K pop Albums Became Collectible Kits
 up_link:
   basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music 3 A01 Be
+  title: Physical | Music
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects

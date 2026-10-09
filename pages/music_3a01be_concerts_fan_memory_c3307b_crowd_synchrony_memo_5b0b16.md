@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music 3 A01 Be
+  title: Concerts | Music
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music 3 A01 Be
+  title: Concerts | Music
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why the setlist is not the concert
 up_link:
   basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music 3 A01 Be
+  title: Concerts | Music
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs

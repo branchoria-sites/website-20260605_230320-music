@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music 3 A01 Be
+  title: Playlists | Music
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music 3 A01 Be
+  title: Playlists | Music
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Playlists Make Songs Feel Familiar
 up_link:
   basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music 3 A01 Be
+  title: Playlists | Music
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers

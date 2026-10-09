@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music 3 A01 Be
+  title: Algorithms | Music
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music 3 A01 Be
+  title: Algorithms | Music
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How mood playlists changed music discovery
 up_link:
   basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music 3 A01 Be
+  title: Algorithms | Music
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?

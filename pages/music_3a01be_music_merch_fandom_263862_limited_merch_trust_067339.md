@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music 3 A01 Be
+  title: Merch | Music
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music 3 A01 Be
+  title: Merch | Music
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Tour Shirts Become Memory Objects
 up_link:
   basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music 3 A01 Be
+  title: Merch | Music
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music 3 A01 Be
+  title: Rights | Music
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music 3 A01 Be
+  title: Rights | Music
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why cafes pay to play songs
 up_link:
   basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music 3 A01 Be
+  title: Rights | Music
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music 3 A01 Be
+  title: Timbre | Music
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music 3 A01 Be
+  title: Timbre | Music
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Vocal Tract Formants Define Individual Timbre
 up_link:
   basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music 3 A01 Be
+  title: Timbre | Music
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different

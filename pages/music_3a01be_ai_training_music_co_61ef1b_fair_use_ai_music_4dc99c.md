@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music 3 A01 Be
+  title: AI Training | Music
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music 3 A01 Be
+  title: AI Training | Music
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When AI sounds too much like an artist
 up_link:
   basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music 3 A01 Be
+  title: AI Training | Music
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?

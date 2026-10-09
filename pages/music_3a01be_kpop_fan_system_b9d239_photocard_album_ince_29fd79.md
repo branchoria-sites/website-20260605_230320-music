@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music 3 A01 Be
+  title: K Pop | Music
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music 3 A01 Be
+  title: K Pop | Music
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why fan apps matter to K pop's business
 up_link:
   basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music 3 A01 Be
+  title: K Pop | Music
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music 3 A01 Be
+  title: Latin Music | Music
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music 3 A01 Be
+  title: Latin Music | Music
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Playlists Became Latin Music's Front Door
 up_link:
   basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music 3 A01 Be
+  title: Latin Music | Music
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far

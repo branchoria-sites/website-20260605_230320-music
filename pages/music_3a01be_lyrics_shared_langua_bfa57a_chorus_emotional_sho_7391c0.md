@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music 3 A01 Be
+  title: Lyrics | Music
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music 3 A01 Be
+  title: Lyrics | Music
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Sung Words Hit Harder Than Spoken Ones
 up_link:
   basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music 3 A01 Be
+  title: Lyrics | Music
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public

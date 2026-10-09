@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music 3 A01 Be
+  title: IFPI Data | Music
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music 3 A01 Be
+  title: IFPI Data | Music
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Subscriptions Became The Growth Engine
 up_link:
   basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music 3 A01 Be
+  title: IFPI Data | Music
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
