@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music 3 A01 Be
+  title: UK Policy | Music
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music 3 A01 Be
+  title: UK Policy | Music
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The tiny data errors that block music royalties
 up_link:
   basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music 3 A01 Be
+  title: UK Policy | Music
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?

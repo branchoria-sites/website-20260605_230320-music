@@ -210,7 +210,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music 3 A01 Be
+  title: Harmony | Music
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -220,7 +220,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music 3 A01 Be
+  title: Harmony | Music
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
@@ -247,7 +247,7 @@ sibling_links:
   heading_title: How Unresolved Chords Keep Music Emotionally Open
 up_link:
   basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music 3 A01 Be
+  title: Harmony | Music
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means

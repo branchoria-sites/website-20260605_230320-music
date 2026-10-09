@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music 3 A01 Be
+  title: Silence | Music
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music 3 A01 Be
+  title: Silence | Music
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Performers Use Gesture to Shape Silence
 up_link:
   basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music 3 A01 Be
+  title: Silence | Music
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too

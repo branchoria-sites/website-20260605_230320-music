@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music 3 A01 Be
+  title: Publishing | Music
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music 3 A01 Be
+  title: Publishing | Music
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Missing Setlists Leave Money Unpaid
 up_link:
   basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music 3 A01 Be
+  title: Publishing | Music
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music 3 A01 Be
+  title: Albums | Music
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music 3 A01 Be
+  title: Albums | Music
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
@@ -248,7 +248,7 @@ sibling_links:
   short_title: Vinyl Album Experien A1 Bc 48
 up_link:
   basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music 3 A01 Be
+  title: Albums | Music
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now

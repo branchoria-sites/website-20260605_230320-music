@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music 3 A01 Be
+  title: Regional Scenes | Music
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music 3 A01 Be
+  title: Regional Scenes | Music
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Regional Mexican Music Crossed Borders Online
 up_link:
   basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music 3 A01 Be
+  title: Regional Scenes | Music
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global

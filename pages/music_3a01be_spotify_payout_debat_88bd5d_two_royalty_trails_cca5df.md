@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music 3 A01 Be
+  title: Spotify Payouts | Music
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music 3 A01 Be
+  title: Spotify Payouts | Music
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one Spotify stream has no fixed price
 up_link:
   basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music 3 A01 Be
+  title: Spotify Payouts | Music
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean

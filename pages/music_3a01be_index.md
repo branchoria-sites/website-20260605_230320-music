@@ -1,23 +1,23 @@
 ---
-title: Music 3 A01 Be Sub-Topic Index
-title_full: Music 3 A01 Be Sub-Topic Index
+title: Music Sub-Topic Index
+title_full: Music Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /music-3a01be-index/
-description: Focused pages that expand on Music 3 A01 Be.
+description: Focused pages that expand on Music.
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: music_3a01be
-parent_title: Music 3 A01 Be
-parent_nav_short_title: Music 3 A01 Be
+parent_title: Music
+parent_nav_short_title: Music
 parent_permalink: /music-3-a01-be/
 ---
 
-# Explore Topics in Music 3 A01 Be
+# Explore Topics in Music
 
-The following pages expand on the main **[Music 3 A01 Be]({{ '/music-3-a01-be/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Music]({{ '/music-3-a01-be/' | relative_url }})** page and cover its key branches in.
 
 - [Afrobeats]({{ '/afrobeats/' | relative_url }})
 - [AI Songs]({{ '/ai-songs/' | relative_url }})

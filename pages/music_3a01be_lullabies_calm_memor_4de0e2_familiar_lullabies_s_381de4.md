@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music 3 A01 Be
+  title: Lullabies | Music
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music 3 A01 Be
+  title: Lullabies | Music
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Slow Lullabies Feel Calming
 up_link:
   basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music 3 A01 Be
+  title: Lullabies | Music
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures

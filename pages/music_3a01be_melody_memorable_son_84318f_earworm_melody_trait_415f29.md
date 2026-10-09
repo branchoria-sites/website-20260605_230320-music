@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music 3 A01 Be
+  title: Melody | Music
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music 3 A01 Be
+  title: Melody | Music
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Catchy Melodies Need a Twist
 up_link:
   basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music 3 A01 Be
+  title: Melody | Music
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music 3 A01 Be
+  title: Metadata | Music
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music 3 A01 Be
+  title: Metadata | Music
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why song splits can freeze royalty money
 up_link:
   basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music 3 A01 Be
+  title: Metadata | Music
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money

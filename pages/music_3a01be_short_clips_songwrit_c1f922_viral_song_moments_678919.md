@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music 3 A01 Be
+  title: Short Clips | Music
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music 3 A01 Be
+  title: Short Clips | Music
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Old Songs Become New Hits Again
 up_link:
   basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music 3 A01 Be
+  title: Short Clips | Music
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs

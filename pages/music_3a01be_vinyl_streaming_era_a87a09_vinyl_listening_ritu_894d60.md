@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music 3 A01 Be
+  title: Vinyl | Music
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music 3 A01 Be
+  title: Vinyl | Music
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Are Vinyl Variants Good for Fans?
 up_link:
   basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music 3 A01 Be
+  title: Vinyl | Music
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age

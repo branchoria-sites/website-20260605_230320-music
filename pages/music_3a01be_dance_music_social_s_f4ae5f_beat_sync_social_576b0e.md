@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music 3 A01 Be
+  title: Dance Music | Music
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music 3 A01 Be
+  title: Dance Music | Music
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Club Architecture and Lighting Shape Dance Interaction
 up_link:
   basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music 3 A01 Be
+  title: Dance Music | Music
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music 3 A01 Be
+  title: Afrobeats | Music
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music 3 A01 Be
+  title: Afrobeats | Music
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Love Nwantiti Travelled Beyond Nigeria
 up_link:
   basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music 3 A01 Be
+  title: Afrobeats | Music
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders

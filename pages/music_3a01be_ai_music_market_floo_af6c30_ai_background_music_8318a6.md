@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music 3 A01 Be
+  title: AI Flooding | Music
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music 3 A01 Be
+  title: AI Flooding | Music
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why AI Music Lawsuits Matter for Flooding
 up_link:
   basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music 3 A01 Be
+  title: AI Flooding | Music
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?

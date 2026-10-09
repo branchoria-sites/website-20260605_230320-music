@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music 3 A01 Be
+  title: Attention | Music
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music 3 A01 Be
+  title: Attention | Music
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When A Playlist Frames The Song
 up_link:
   basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music 3 A01 Be
+  title: Attention | Music
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard

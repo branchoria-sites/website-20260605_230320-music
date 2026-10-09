@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music 3 A01 Be
+  title: Streaming | Music
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music 3 A01 Be
+  title: Streaming | Music
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What the Money Says About Streaming
 up_link:
   basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music 3 A01 Be
+  title: Streaming | Music
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits

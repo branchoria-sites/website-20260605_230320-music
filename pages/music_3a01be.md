@@ -54,11 +54,11 @@ description: Music is both an art form and a global system for moving emotion, i
 hero_summary: Music is both an art form and a global system for moving emotion, identity, money and technology. At its simplest, it is organised sound shaped by rhythm, pitch, texture, silence and cultural meaning; in practice, it is also a live experience, a recorded product, a social signal, a memory trigger, a livelihood and a political argument.
 layout: default
 permalink: /music-3-a01-be/
-nav_short_title: Music 3 A01 Be
-title: Music 3 A01 Be
-title_full: Music 3 A01 Be
-display_title_short: Music 3 A01 Be
-display_title: Music 3 A01 Be
+nav_short_title: Music
+title: Music
+title_full: Music
+display_title_short: Music
+display_title: Music
 source_count: 85
 infographic_count: 3
 page_website_name: Music
@@ -229,202 +229,202 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 child_links:
 - basename: music_3a01be_afrobeats_global_cir_80f305
-  title: Afrobeats | Music 3 A01 Be
+  title: Afrobeats | Music
   permalink: /afrobeats/
   short_title: Afrobeats
   heading_title: How Afrobeats Crossed Global Borders
 - basename: music_3a01be_ai_music_market_floo_af6c30
-  title: AI Flooding | Music 3 A01 Be
+  title: AI Flooding | Music
   permalink: /ai-flooding/
   short_title: AI Flooding
   heading_title: Could AI Flood The Music Market?
 - basename: music_3a01be_ai_generated_music_a_2817f7
-  title: AI Songs | Music 3 A01 Be
+  title: AI Songs | Music
   permalink: /ai-songs/
   short_title: AI Songs
   heading_title: Who Gets Credit For AI Made Music?
 - basename: music_3a01be_ai_training_music_co_61ef1b
-  title: AI Training | Music 3 A01 Be
+  title: AI Training | Music
   permalink: /ai-training/
   short_title: AI Training
   heading_title: Can AI Learn From Copyrighted Music?
 - basename: music_3a01be_albums_in_streaming_0eaed5
-  title: Albums | Music 3 A01 Be
+  title: Albums | Music
   permalink: /albums/
   short_title: Albums
   heading_title: Why Albums Still Matter Now
 - basename: music_3a01be_recommendation_syste_136ac5
-  title: Algorithms | Music 3 A01 Be
+  title: Algorithms | Music
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: Do Algorithms Help Or Narrow Music Discovery?
 - basename: music_3a01be_music_attention_scar_4f6aff
-  title: Attention | Music 3 A01 Be
+  title: Attention | Music
   permalink: /attention/
   short_title: Attention
   heading_title: Why Being Available Is Not Being Heard
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music 3 A01 Be
+  title: Catalogue | Music
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
 - basename: music_3a01be_concerts_fan_memory_c3307b
-  title: Concerts | Music 3 A01 Be
+  title: Concerts | Music
   permalink: /concerts/
   short_title: Concerts
   heading_title: Why Concerts Feel Bigger Than Songs
 - basename: music_3a01be_creator_pay_fairness_524c4c
-  title: Creator Pay | Music 3 A01 Be
+  title: Creator Pay | Music
   permalink: /creator-pay/
   short_title: Creator Pay
   heading_title: Why A Growing Industry Can Still Feel Unfair
 - basename: music_3a01be_dance_music_social_s_f4ae5f
-  title: Dance Music | Music 3 A01 Be
+  title: Dance Music | Music
   permalink: /dance-music/
   short_title: Dance Music
   heading_title: How Dance Music Builds A Room
 - basename: music_3a01be_harmony_emotional_co_9a87b5
-  title: Harmony | Music 3 A01 Be
+  title: Harmony | Music
   permalink: /harmony/
   short_title: Harmony
   heading_title: How Harmony Changes What Music Means
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music 3 A01 Be
+  title: Hymns | Music
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
 - basename: music_3a01be_ifpi_recorded_music_000a68
-  title: IFPI Data | Music 3 A01 Be
+  title: IFPI Data | Music
   permalink: /ifpi-data/
   short_title: IFPI Data
   heading_title: What Global Music Revenue Numbers Show
 - basename: music_3a01be_kpop_fan_system_b9d239
-  title: K Pop | Music 3 A01 Be
+  title: K Pop | Music
   permalink: /k-pop/
   short_title: K Pop
   heading_title: How K Pop Built A Global Fan Machine
 - basename: music_3a01be_latin_music_streamin_4617cf
-  title: Latin Music | Music 3 A01 Be
+  title: Latin Music | Music
   permalink: /latin-music/
   short_title: Latin Music
   heading_title: Why Latin Music Travels So Far
 - basename: music_3a01be_live_music_income_c1ddfd
-  title: Live Income | Music 3 A01 Be
+  title: Live Income | Music
   permalink: /live-income/
   short_title: Live Income
   heading_title: Why Live Music Still Pays Differently
 - basename: music_3a01be_lullabies_calm_memor_4de0e2
-  title: Lullabies | Music 3 A01 Be
+  title: Lullabies | Music
   permalink: /lullabies/
   short_title: Lullabies
   heading_title: Why Lullabies Work Across Cultures
 - basename: music_3a01be_lyrics_shared_langua_bfa57a
-  title: Lyrics | Music 3 A01 Be
+  title: Lyrics | Music
   permalink: /lyrics/
   short_title: Lyrics
   heading_title: How Lyrics Make Feelings Public
 - basename: music_3a01be_melody_memorable_son_84318f
-  title: Melody | Music 3 A01 Be
+  title: Melody | Music
   permalink: /melody/
   short_title: Melody
   heading_title: Why Some Melodies Stay In Your Head
 - basename: music_3a01be_music_merch_fandom_263862
-  title: Merch | Music 3 A01 Be
+  title: Merch | Music
   permalink: /merch/
   short_title: Merch
   heading_title: Why Music Merch Means More Than Branding
 - basename: music_3a01be_music_metadata_payme_5a11f4
-  title: Metadata | Music 3 A01 Be
+  title: Metadata | Music
   permalink: /metadata/
   short_title: Metadata
   heading_title: Why Bad Music Data Costs Creators Money
 - basename: music_3a01be_physical_music_owner_d1771a
-  title: Physical | Music 3 A01 Be
+  title: Physical | Music
   permalink: /physical/
   short_title: Physical
   heading_title: Why Fans Still Want Music Objects
 - basename: music_3a01be_playlists_new_gateke_9514bb
-  title: Playlists | Music 3 A01 Be
+  title: Playlists | Music
   permalink: /playlists/
   short_title: Playlists
   heading_title: Why Playlists Became Music's New Gatekeepers
 - basename: music_3a01be_protest_songs_power_430b69
-  title: Protest Songs | Music 3 A01 Be
+  title: Protest Songs | Music
   permalink: /protest-songs/
   short_title: Protest Songs
   heading_title: Why Protest Songs Still Mobilize People
 - basename: music_3a01be_songwriting_royaltie_389052
-  title: Publishing | Music 3 A01 Be
+  title: Publishing | Music
   permalink: /publishing/
   short_title: Publishing
   heading_title: How Songs Earn Beyond The Recording
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music 3 A01 Be
+  title: Recording | Music
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
 - basename: music_3a01be_regional_scenes_stre_ec1816
-  title: Regional Scenes | Music 3 A01 Be
+  title: Regional Scenes | Music
   permalink: /regional-scenes/
   short_title: Regional Scenes
   heading_title: How Local Sounds Become Global
 - basename: music_3a01be_rhythm_body_movement_c121e4
-  title: Rhythm | Music 3 A01 Be
+  title: Rhythm | Music
   permalink: /rhythm/
   short_title: Rhythm
   heading_title: Why Rhythm Makes Music Feel Physical
 - basename: music_3a01be_music_rights_complic_6e7958
-  title: Rights | Music 3 A01 Be
+  title: Rights | Music
   permalink: /rights/
   short_title: Rights
   heading_title: Why One Song Has So Many Rights
 - basename: music_3a01be_streaming_artist_rev_0dcd6e
-  title: Royalties | Music 3 A01 Be
+  title: Royalties | Music
   permalink: /royalties/
   short_title: Royalties
   heading_title: How Streaming Money Actually Reaches Artists
 - basename: music_3a01be_missing_setlists_roy_cc2db6
-  title: Setlists | Music 3 A01 Be
+  title: Setlists | Music
   permalink: /setlists/
   short_title: Setlists
   heading_title: Why Setlists Are More Than Souvenirs
 - basename: music_3a01be_short_clips_songwrit_c1f922
-  title: Short Clips | Music 3 A01 Be
+  title: Short Clips | Music
   permalink: /short-clips/
   short_title: Short Clips
   heading_title: How Short Clips Reshape Hit Songs
 - basename: music_3a01be_silence_in_music_822765
-  title: Silence | Music 3 A01 Be
+  title: Silence | Music
   permalink: /silence/
   short_title: Silence
   heading_title: Why Silence Can Be Music Too
 - basename: music_3a01be_spotify_payout_debat_88bd5d
-  title: Spotify Payouts | Music 3 A01 Be
+  title: Spotify Payouts | Music
   permalink: /spotify-payouts/
   short_title: Spotify Payouts
   heading_title: What Streaming Payout Claims Really Mean
 - basename: music_3a01be_streaming_listening_72e5f3
-  title: Streaming | Music 3 A01 Be
+  title: Streaming | Music
   permalink: /streaming/
   short_title: Streaming
   heading_title: How Streaming Changed Listening Habits
 - basename: music_3a01be_sync_licensing_song_fff395
-  title: Sync | Music 3 A01 Be
+  title: Sync | Music
   permalink: /sync/
   short_title: Sync
   heading_title: How Screen Placements Revive Songs
 - basename: music_3a01be_timbre_sound_texture_76da17
-  title: Timbre | Music 3 A01 Be
+  title: Timbre | Music
   permalink: /timbre/
   short_title: Timbre
   heading_title: Why The Same Note Can Feel Different
 - basename: music_3a01be_uk_streaming_policy_aa90d2
-  title: UK Policy | Music 3 A01 Be
+  title: UK Policy | Music
   permalink: /uk-policy/
   short_title: UK Policy
   heading_title: Can Policy Make Streaming Fairer?
 - basename: music_3a01be_vinyl_streaming_era_a87a09
-  title: Vinyl | Music 3 A01 Be
+  title: Vinyl | Music
   permalink: /vinyl/
   short_title: Vinyl
   heading_title: Why Vinyl Came Back In A Digital Age
@@ -440,7 +440,7 @@ image: /assets/images/music_3a01be-overview-social.jpg
 
 Music works because it joins structure to feeling. A beat gives the body something to anticipate; [melody]({{ 'melody/' | relative_url }}) gives the ear a line to follow; [harmony]({{ 'harmony/' | relative_url }}) colours expectation; timbre tells us whether a sound feels intimate, rough, bright, synthetic or human. Yet none of those ingredients is fixed in meaning. A bassline that feels euphoric in a club may feel aggressive in a film scene; a sparse piano phrase may sound peaceful, lonely or ominous depending on context.
 
-<img src="{{ "/assets/images/music_3a01be-overview.webp" | relative_url }}" alt="Overview image for Music 3 A01 Be" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/music_3a01be-overview.webp" | relative_url }}" alt="Overview image for Music" loading="eager" decoding="sync" fetchpriority="high">
 That is why music is never just a technical object. It becomes meaningful through use: lullabies calm children, [protest songs]({{ 'protest-songs/' | relative_url }}) gather people around a cause, hymns mark belief, dance music organises bodies in space, and pop songs turn private feelings into shared language. Recorded music added another layer by letting performances travel beyond their original time and place. Streaming intensified that shift: the listener no longer needs to own a record, CD or download to have instant access to a vast catalogue, but the trade-off is that discovery, payment and cultural visibility are increasingly shaped by platforms.
 
 ## How the modern music economy actually works
@@ -451,7 +451,7 @@ Recorded music has been growing for more than a decade after the deep disruption
 
 For listeners, the headline is convenience. For creators, the picture is more mixed. Streaming can make a track globally available within hours, but revenue depends on rights ownership, contract terms, territory, subscription mix, platform policy and the difference between being listened to occasionally and being listened to at scale. Spotify says it paid the music industry more than US$11 billion in 2025, while UK government work on streaming has continued to examine transparency and creator remuneration because many musicians argue that access has not translated into predictable income.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsroom.spotify.com">[Spotify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsroom.spotify.com</span><span class="citation-popover-snippet">From $11B in 2025 Payouts to What We&#x27;re Building for...January 28, 2026 — 28 Jan 2026 — Today, Spotify accounts for roughly 30% o...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
 
-<img src="{{ "/assets/images/music_3a01be-Illustration-1-dark.svg" | relative_url }}" alt="Music 3 A01 Be illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/music_3a01be-Illustration-1-dark.svg" | relative_url }}" alt="Music illustration 1" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why streaming changed listening habits
 
 Streaming did not simply replace the CD shop. It changed the unit of attention. The album still matters culturally, especially for major artists and dedicated fans, but everyday listening is now often organised around playlists, moods, short clips, recommendations and repeatable moments. That affects how songs are written, marketed and discovered. A strong opening hook, a distinctive vocal texture or a chorus that works in a short-form video can become commercially valuable because music now travels through social feeds as much as through radio or record stores.
@@ -470,7 +470,7 @@ Creator royalty data supports the continuing importance of public performance an
 
 Vinyl’s revival tells a related story. Its appeal is not that it is more convenient than streaming; it is precisely the opposite. It is tactile, collectible and slow. In the United States, RIAA reported that 2024 recorded music revenue rose to US$17.7 billion, with paid streaming subscriptions passing 100 million and vinyl continuing a long growth run.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.riaa.com/wp-content/uploads/2025/03/RIAA-2024Year-End-Revenue-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riaa.com">[RIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riaa.com</span><span class="citation-popover-title">RIAA 2024Year End Revenue Report</span><span class="citation-popover-snippet">RIAA 2024Year End Revenue Report</span></span></span> Physical formats now work best when they offer fans something streaming cannot: artwork, scarcity, ritual, sound-system culture, signed editions, deluxe packaging or a sense of belonging to an artist’s world.
 
-<img src="{{ "/assets/images/music_3a01be-Illustration-2-dark.svg" | relative_url }}" alt="Music 3 A01 Be illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/music_3a01be-Illustration-2-dark.svg" | relative_url }}" alt="Music illustration 2" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fairness debate behind the numbers
 
 The central tension in music is that the industry can grow while many musicians still feel economically insecure. A rising market does not automatically mean fair distribution. Money may pass first through platforms, labels, publishers, distributors, collecting societies and contracts before it reaches the people who wrote, performed or produced the music.
@@ -489,7 +489,7 @@ The issue is not simply whether AI-made music can sound convincing. It is about 
 
 Streaming fraud makes the concern more concrete. The Guardian reported in 2025 that Deezer found up to 70% of streams of AI-generated music on its platform were fraudulent, even though AI-generated tracks represented a small share of total streams.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That matters because streaming royalties are pooled and divided: if fraudulent or low-effort tracks capture attention or royalty share, legitimate creators can lose income. AI may become a useful tool for composition, production, restoration and accessibility, but the music sector is still negotiating the boundary between assistance and replacement.
 
-<img src="{{ "/assets/images/music_3a01be-Illustration-3-dark.svg" | relative_url }}" alt="Music 3 A01 Be illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/music_3a01be-Illustration-3-dark.svg" | relative_url }}" alt="Music illustration 3" data-theme-src-dark="{{ "/assets/images/music_3a01be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/music_3a01be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to understand music today
 
 The most useful way to understand music now is to hold two truths together. First, music has never been easier to access, make, share or discover. A teenager can upload a track from a bedroom and reach listeners across continents; a listener can move from a 1970s soul record to a new underground dance track in seconds. Second, abundance has made attention, trust and payment harder to organise.

@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music 3 A01 Be
+  title: Catalogue | Music
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music 3 A01 Be
+  title: Catalogue | Music
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why streaming makes old songs feel current
 up_link:
   basename: music_3a01be_catalogue_music_redi_46cae9
-  title: Catalogue | Music 3 A01 Be
+  title: Catalogue | Music
   permalink: /catalogue/
   short_title: Catalogue
   heading_title: Why Old Songs Keep Coming Back

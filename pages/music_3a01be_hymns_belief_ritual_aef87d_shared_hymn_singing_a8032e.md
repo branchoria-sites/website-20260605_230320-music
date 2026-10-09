@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music 3 A01 Be
+  title: Hymns | Music
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music 3 A01 Be
+  title: Hymns | Music
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Hymns Put Worship Into Every Voice
 up_link:
   basename: music_3a01be_hymns_belief_ritual_aef87d
-  title: Hymns | Music 3 A01 Be
+  title: Hymns | Music
   permalink: /hymns/
   short_title: Hymns
   heading_title: How Hymns Turn Belief Into Sound

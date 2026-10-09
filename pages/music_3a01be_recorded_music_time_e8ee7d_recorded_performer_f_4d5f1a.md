@@ -212,7 +212,7 @@ ancestor_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music 3 A01 Be
+  title: Recording | Music
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -222,7 +222,7 @@ breadcrumb_links:
   permalink: /music-3-a01-be/
   short_title: Music
 - basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music 3 A01 Be
+  title: Recording | Music
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Portable Devices Made Music Personal Everywhere
 up_link:
   basename: music_3a01be_recorded_music_time_e8ee7d
-  title: Recording | Music 3 A01 Be
+  title: Recording | Music
   permalink: /recording/
   short_title: Recording
   heading_title: How Recording Changed What Music Is
