@@ -1117,7 +1117,6 @@ The tension is that the live economy is both powerful and fragile. At the top, g
 
 31.<a id="endnote-31"></a>
    Source: billboard.com  
-   Link:https://www.billboard.com/[charts  
 
 32.<a id="endnote-32"></a>
    Source: pollstar.com  
