@@ -1123,7 +1123,7 @@ Finally, Afrobeats makes clear that circulation is not the same as permanent dom
 35.<a id="endnote-35"></a>
    Source: africa.billboard.com  
    Title: how tiktok is influencing the african music scene  
-   Link:<a href="https://africa.billboard.com/partner-content/how-tiktok-is-influencing-the-african-music-scene/" target="_blank" rel="noopener noreferrer nofollow">https://africa.billboard.com/partner-content/how-tiktok-is-influencing-the-african-music-scene/</a>  
+   Link:https://africa.billboard.com/partner-content/how-tiktok-is-influencing-the-african-music-scene/  
 
 36.<a id="endnote-36"></a>
    Source: grammy.com  

@@ -1031,7 +1031,7 @@ Music remains powerful because it does what data cannot fully explain: it turns 
 28.<a id="endnote-28"></a>
    Source: prsformusic.com  
    Title: prs annual report and financial statements 2024.ashx  
-   Link:<a href="https://www.prsformusic.com/-/media/files/prs-for-music/corporate/financials/2024/prs-annual-report-and-financial-statements-2024.ashx" target="_blank" rel="noopener noreferrer nofollow">https://www.prsformusic.com/-/media/files/prs-for-music/corporate/financials/2024/prs-annual-report-and-financial-statements-2024.ashx</a>  
+   Link:https://www.prsformusic.com/-/media/files/prs-for-music/corporate/financials/2024/prs-annual-report-and-financial-statements-2024.ashx  
 
 29.<a id="endnote-29"></a>
    Source: prsformusic.com  
